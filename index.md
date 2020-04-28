@@ -6,7 +6,7 @@ you will be use a microcontroller to add intelligence to your project.
 
 In an overview you will cover the following major topics:
 
-* [Documentation techniques]()
+* [Documentation techniques](documentation_techniques.md)
     * Project Management Techniques
         * Safety Issues
         * Project Management Principles
