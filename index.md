@@ -6,16 +6,19 @@ you will be use a microcontroller to add intelligence to your project.
 
 In an overview you will cover the following major topics:
 
-* [Documentation techniques](documentation_techniques.md)
+* [Project Management](01_project_management.md)
     * Project Management Techniques
         * Safety Issues
         * Project Management Principles
         * Version control
-
-    * Website development using
-        * HTML
-        * Markdown
-    * Site hosting through GitHub
+    * [Documentation techniques](02_documentation_techniques.md)
+        * Website development using
+            * HTML
+            * Markdown
+        * Site hosting through GitHub
+    + [Version control](03_version_control.md)
+        + What is version control?
+        + [git](03_version_control.md) 
 
 * [Computer Aided Design]()
     * Using Fusion 360

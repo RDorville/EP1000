@@ -1,11 +1,5 @@
 # Documentation Techniques
 
-## Safety Issues
-
-## Project Management
-
-## Documentation Techniques
-
 The important function of documentation is to provide a "timely" source of
 information, so that
 
