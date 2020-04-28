@@ -134,6 +134,8 @@ Your webpage must, at a miniumum, have the following:
     - the right column shows your name, course and location (don't be specific) and a little bit "about" you, introducing yourself.
 * A section showing a list of websites (with links) of your favorite locations on the Internet.
 
+Sample: [mypage](mypage.html)
+
 **Questions**
 
 You must be able to answer the following questions:
