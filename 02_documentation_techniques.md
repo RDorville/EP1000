@@ -108,7 +108,9 @@ This is the [basic outline of a HTML file](https://www.w3schools.com/html/html_b
 
 ### Assignment 2
 
-In this assignment, you will learn about HTML, develop a web page and try publishing it on your web browser.  Along the way you need to do some reading, watching YouTube videos and do some basic research.  I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
+In this assignment, you will learn about HTML, develop a web page and try publishing it on your web browser.  Along the way you need to do some reading, watching YouTube videos and do some basic research.
+
+I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
 
 | Time   | Task |
 |--------|:------------------------------------------------|
