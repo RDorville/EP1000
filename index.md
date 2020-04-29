@@ -18,31 +18,31 @@ In an overview you will cover the following major topics:
         * Site hosting through GitHub
     + [Version control](03_version_control.md)
         + What is version control?
-        + [git](03_version_control.md) 
+        + git
 
-* [Computer Aided Design]()
+* [Computer Aided Design](sorry.md)
     * Using Fusion 360
     * 2D drawing techniques
     * 3D Modelling
 
-* [3D Printing techniques]()
+* [3D Printing techniques](sorry.md)
     * Slicing techniques
     * 3D printing techniques
     * Practical implications
 
-* [2D Cutting techniques]()
+* [2D Cutting techniques](sorry.md)
     * Laying out for 2D cutting
     * Laser cutting techniques
     * Engraving methods
     * Other cutting methodolgies
 
-* [Embedded programming]()
+* [Embedded programming](sorry.md)
     * The ATMega328 microcontroller
     * Arduino Uno System
     * Input & output devices
     * Simple Interfacing techniques
 
-* [Project Prototyping]()
+* [Project Prototyping](sorry.md)
     * Ideation & Design
     * Documentation
     * Fabricating the prototype
