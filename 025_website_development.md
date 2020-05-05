@@ -22,7 +22,7 @@ Here are the 4 ways in which you can develop your site together with the advanta
     * How-to
         1. Make a simple HTML file with links to your pages.
         2. Use a CSS file to format the layout
-        3. [How-to use HTML & CSS to create a basic website](website_HTML_CSS.md)   
+        3. [Example of basic website](htmlcss/index.html)   
 
 
 * **Borrow A Design That Works** using HTML & CSS   
