@@ -43,7 +43,7 @@ All websites are developed using [HTML](https://en.wikipedia.org/wiki/HTML) (**H
 
 In order make available information on the www, you need the following
 * A web Server or Service (e.g. github.com)
-* A web page written in HTML (e.g. [this page](documentation_tchniques.md))
+* A web page written in HTML (e.g. (mypage.html)
 * A web browser at the client (e.g. [Google Chrome](https://www.google.com/chrome/index.html))
 
 Although we are **NOT** going to make you Web Professionals, you need a certain amount of knowledge on developing a web page as it is the most convenient method of dispensing information.  It is common for a modern-day technologist to be familiar with the following technologies:
