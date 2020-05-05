@@ -22,7 +22,9 @@ Here are the 4 ways in which you can develop your site together with the advanta
     * How-to
         1. Make a simple HTML file with links to your pages.
         2. Use a CSS file to format the layout
-        3. [Example of basic website](htmlcss/index.html)   
+        3. [Example of basic website](htmlcss/index.html)
+
+&nbsp;
 
 
 * **Borrow A Design That Works** using HTML & CSS   
@@ -38,7 +40,9 @@ Here are the 4 ways in which you can develop your site together with the advanta
         1. Search the internet for a HTML/CSS template site that you like
         2. Copy the template to index.html as the starting page
         3. Populate and expand your website.
-        4. [Hot to use Jake Wright's Template](website_JakeWright.html)   
+        4. [Hot to use Jake Wright's Template](website_JakeWright.html)
+
+&nbsp;
 
 
 * **Markdown** (Pure Markdown)   
@@ -57,7 +61,9 @@ Here are the 4 ways in which you can develop your site together with the advanta
         2. Surf to the github site for this repository (https://github.com/rdorville/EP1000)
         3. Use the github *code* tab to examine the contents
         4. Create a new repo on your github account and enable github pages.
-        5. Start with the file "index.md" as the root of your website.   
+        5. Start with the file "index.md" as the root of your website.
+
+&nbsp;
 
 
 *  **Jekyll** themed site (Using Markdown)   
@@ -73,7 +79,10 @@ Here are the 4 ways in which you can develop your site together with the advanta
     * How-to
         1. I would suggest that you complete the **git** section (next week) before you attempt this as you need to upload a number of folders and files to your repository (unless you want to do it one at a time)
         2. Download or clone the repository at (https://github.com/skeatz/web-pk) to a new folder.
-        3. [How-to use web-pk for your website](website_webpk.md)   
+        3. [How-to use web-pk for your website](website_webpk.md)
+
+&nbsp;
+
 
 
 ### Assignment 2
