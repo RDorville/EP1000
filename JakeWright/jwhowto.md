@@ -11,7 +11,7 @@
     * Create the style sheet, save it in the same folder. Name the style sheet `style.css`
     * Test your webpage, by opening `index.html` on your browser.
 
-![Webpage using HTML and CSS](jakewrightwebpage.jpg)
+![Webpage using HTML and CSS](index_html.png)
 
 4.  Modify the CSS file to suit your liking.
 
@@ -22,7 +22,7 @@ We are going to add an **About** page to the above website.  The About page will
 
 We will create a **docs** folder in which we will keep the `about.html` and the image file `user.jpg`.  The following diagram shows the structure (hierachy) of the files on the system.
 
-![Website file structure](filestructure.jpg)
+![Website file structure](site_layout.jpg)
 
 1. Create the folder `docs` on the site.
 2. We will need to modify `index.html` to accomodate the links to the other pages that we might want to add e.g. About, ProjectManagement, WebsiteDevelopment, 3Dprinting, 2Dcutting etc.  it is best that you add in these links as placeholders for your site.
