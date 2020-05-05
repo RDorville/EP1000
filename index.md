@@ -56,9 +56,9 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |**Date**    | **Discussion & Assignment**       |
 |:---------- |:----------------------------------|
 |Mon 20 Apr  |[Safety & Tools](01_project_management.md) |
-|Fri 24-Apr  |[Software Tools & HTML]((01_project_management.md)|
+|Fri 24-Apr  |[Software Tools & HTML](01_project_management.md)|
 |Mon 27 Apr  |[Webpage development](02_documentation_techniques.md)|
-|Mon 04 May  |Website hosting, Github (025_website_development.md)|
+|Mon 04 May  |[Website hosting, Github] (025_website_development.md)|
 |Fri 08 May  |Project Managment - git (03_version_control)|
 
 
