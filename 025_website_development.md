@@ -22,7 +22,8 @@ Here are the 4 ways in which you can develop your site together with the advanta
     * How-to
         1. Make a simple HTML file with links to your pages.
         2. Use a CSS file to format the layout
-        3. [How-to use HTML & CSS to create a basic website](website_HTML_CSS.md)
+        3. [How-to use HTML & CSS to create a basic website](website_HTML_CSS.md)   
+
 
 * **Borrow A Design That Works** using HTML & CSS   
     You start with a design that works (e.g. Jake Wright: Learn CSS in 12 minutes).  Modify and add whatever you want in HTML (content) and tweak its looks using CSS (Layout).
@@ -37,9 +38,10 @@ Here are the 4 ways in which you can develop your site together with the advanta
         1. Search the internet for a HTML/CSS template site that you like
         2. Copy the template to index.html as the starting page
         3. Populate and expand your website.
-        4. [Hot to use Jake Wright's Template](website_JakeWright.html)
+        4. [Hot to use Jake Wright's Template](website_JakeWright.html)   
 
-* **Markdown** (Pure Markdown)
+
+* **Markdown** (Pure Markdown)   
     Markdown is a light-weight Mark-Up editing language that is good for displaying information.  It is ideal for making fast notes, while still maintaining the document very "text-like".  Most documentation sites offer a markdown hosting option.   
     Markdown text is first processed by a program (usually python/javascript) into HTML.  The HTML is then hosted by the webserver.  This process is usually transparent to the user.
     * Advantages
@@ -55,9 +57,10 @@ Here are the 4 ways in which you can develop your site together with the advanta
         2. Surf to the github site for this repository (https://github.com/rdorville/EP1000)
         3. Use the github *code* tab to examine the contents
         4. Create a new repo on your github account and enable github pages.
-        5. Start with the file "index.md" as the root of your website.
+        5. Start with the file "index.md" as the root of your website.   
 
-*  **Jekyll** themed site (Using Markdown)
+
+*  **Jekyll** themed site (Using Markdown)   
     Jekyll is a [static site generator](https://www.staticgen.com/) which converts Markdown together with other instructions to HTML which is then hosted by the server.   
     Mr Chew has kindly provided a template (https://skeatz.github.io/web-pk/) which allows you to create a very professional-like site for your project.
     * Advantages
@@ -70,7 +73,8 @@ Here are the 4 ways in which you can develop your site together with the advanta
     * How-to
         1. I would suggest that you complete the **git** section (next week) before you attempt this as you need to upload a number of folders and files to your repository (unless you want to do it one at a time)
         2. Download or clone the repository at (https://github.com/skeatz/web-pk) to a new folder.
-        3. [How-to use web-pk for your website](website_webpk.md)
+        3. [How-to use web-pk for your website](website_webpk.md)   
+
 
 ### Assignment 2
 
