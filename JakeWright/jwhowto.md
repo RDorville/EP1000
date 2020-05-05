@@ -1,7 +1,7 @@
 
-## Instructions
+## EP1000
 
-### How to make a website using a template with HTML and CSS
+### How to make a website using Jake Wright's template
 
 1.  Watch the Youtube Video Jake Wright: [Learn CSS in 13 minutes](https://youtu.be/0afZj1G0BIE).
 2.  Draw out the plan for your website, suggest that you use the one provided by Jake Wright.

@@ -40,7 +40,7 @@ Here are the 4 ways in which you can develop your site together with the advanta
         1. Search the internet for a HTML/CSS template site that you like
         2. Copy the template to index.html as the starting page
         3. Populate and expand your website.
-        4. [Hot to use Jake Wright's Template](website_JakeWright.html)
+        4. [How to use Jake Wright's Template](JakeWright/jwhowto.md)
 
 &nbsp;
 
