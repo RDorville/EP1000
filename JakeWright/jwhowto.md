@@ -11,7 +11,7 @@
     * Create the style sheet, save it in the same folder. Name the style sheet `style.css`
     * Test your webpage, by opening `index.html` on your browser.
 4.  Modify the CSS file to suit your liking.
-5.  
+
 ![Webpage using HTML and CSS](index_html.png)
 
 &nbsp;
@@ -71,14 +71,14 @@ We will create a **docs** folder in which we will keep the `about.html` and the 
         </div>
     ```
 
-7. Note the changes to the locations of the links:   
-    `../index.html` means to go-up-one-folder to reach the home page
-    '../prj/project.html`' means to go up one folder and then down the `prj` folder to find the file `project.html`
+7. Note the changes to the locations of the links:
+    * **../index.html** means to go-up-one-folder to reach the home page
+    * **../prj/project.html** means to go up one folder and then down the `prj`folder to find the file 'project.html`
 
 8. Any files references from the `about.html` file would mean that the file is also located in the same folder as the `about.htm'` file.
 
 9. Change the contents of the **main div** as this holds the contents of the page.
 
-10.  You can test the website [here](htmlcss.html).
+10.  You can test the website [here](index.html).
 
 
