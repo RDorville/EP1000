@@ -1,7 +1,8 @@
 
 ## Student Sites
 
-Please let me know if you update/change your site URL.  If you update your site URL, please enter the new URL here.
+Please let me know if you update/change your site URL.
+If you update your site URL, please enter the new URL in [Google Sheet Group 1](https://drive.google.com/open?id=1X9X7FhpFlZU25ybGc4Znd4XozB-3NqZJ).
 
 **EP1000 Digital Fabrication & Prototyping Fundamentals**    
 **AY2020/2021 Semester 1 Group 1**
@@ -21,7 +22,7 @@ Please let me know if you update/change your site URL.  If you update your site 
 11 |  [HARIZ ZIKRY    ](https://harizzikry.github.io/EP1000/) |great a MD page, table needs corrections|
 12 |  [LEE HENG WEI   ](https://leehengwei.github.io/EP1000/) |good layout, tidy the links [FAQ002](#faq002)|
 13 |  [DANISH ERHAN   ](https://danish-erhan02.github.io/EP1000/) |Nice. Think about how you are going to add other pages [FAQ003](#faq003)|
-14 |  [KRYSTAL T      ](https://krystaltan19.github.io/EP1000/) |Image not showing [FAQ004](#faq004)<br>You don't need to put everything in a table [FAQ005](#faq005)||
+14 |  [KRYSTAL T      ](https://krystaltan19.github.io/EP1000/) |Image not showing [FAQ004](#faq004)<br>You don't need to put everything in a table [FAQ005](#faq005)|
 15 |  [ANG JOELLE     ](https://jaze7.github.io/EP1000/) |Nice. Need to use CSS to format the page [FAQ006](#faq006)|
 16 |  [ANNA YAP       ](https://annayjl.github.io/EP1000/) |Good work.  Very clean look|
 17 |  [NUR ARIFAH     ](https://refrigerated.github.io/EP1000/) |Nice. Need to use CSS to format the page [FAQ006](#faq006)|
