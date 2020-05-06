@@ -105,7 +105,7 @@ Here is a quick guide:
 1. Select one of the methods above (to create a website) and go through the how-to.
 2. Understand how other pages are created and added into the site.
 3. Upload your site to github, host it as a webpage and test it.
-4. Enter your URL into the spreadsheet (https://drive.google.com/open?id=1X9X7FhpFlZU25ybGc4Znd4XozB-3NqZJ)
+4. Enter your URL into the [Google spreadsheet](https://drive.google.com/open?id=1X9X7FhpFlZU25ybGc4Znd4XozB-3NqZJ)
 
 **Specifications**
 
@@ -117,9 +117,10 @@ Your website must, at a miniumum, have the following:
 * Add at least some images/screen-shots/hero-shots, properly formatted and scaled.
 * Be hosted on github-pages.
 
-
 You will be required to present your work to the class as the next session.
 
+
+&nbsp;
 
 **May 2020**
 
