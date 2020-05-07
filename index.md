@@ -10,12 +10,15 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 
 |Sn  |**Date**    | **Discussion & Assignment**       |
 |:---|:---------- |:----------------------------------|
-|01  ||Mon 20 Apr  |[Safety & Tools](01_project_management.md) |
-|02  ||Fri 24-Apr  |[Software Tools & HTML](01_project_management.md)|
-|03  ||Mon 27 Apr  |[Webpage development](02_documentation_techniques.md)|
-|04  ||Mon 04 May  |[Website hosting, Github](025_website_development.md)|
-|05  ||Fri 08 May  |Project Managment - git (03_version_control)|
+|01  |Mon 20 Apr  |[Safety & Tools](01_project_management.md) |
+|02  |Fri 24-Apr  |[Software Tools & HTML](01_project_management.md)|
+|03  |Mon 27 Apr  |[Webpage development](02_documentation_techniques.md)|
+|04  |Mon 04 May  |[Website hosting, Github](025_website_development.md)|
+|05  |Fri 08 May  |[Project Management using git](03_version_control.md)|
+|06  |Mon 11 May  |Introduction to Fusion 360|
+|07  |Fri 15 May  |Drawing 2D/3D objects|
 
+&nbsp;
 
 ### [Student websites](2020S1_students.md)
 
@@ -23,6 +26,7 @@ These are the [student websites](2020S1_students.md) which show-off their work a
 
 If you have changed/updated the URL for your website, please record it here on the shared [Google Spreadsheet](https://drive.google.com/file/d/1X9X7FhpFlZU25ybGc4Znd4XozB-3NqZJ/view?usp=sharing) and I will make the necessary link changes.
 
+&nbsp;
 
 ### Overview
 
@@ -69,7 +73,7 @@ If you have changed/updated the URL for your website, please record it here on t
     * Adding intelligence
     * Project presentation
 
-
+&nbsp;
 
 **April 2020**
 

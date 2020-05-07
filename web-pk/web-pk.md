@@ -19,7 +19,7 @@ In order to use/build this website properly, you need to use git and a Github re
 
 1.  Make a folder e.g. MyGithub on your local pc.  We will put all our github repositories here.
 2.  Clone the web-pk repository
-    * Use a browser to locate the Github repository - https://github.com/skeatz/web-pk
+    * Use a browser to locate the Github repository - <https://github.com/skeatz/web-pk>
         * Clone or download > Clone with HTTPS
         * Copy the link provided i.e. https://github.com/skeatz/web-pk.git
     * Github Desktop > Select "Clone a repository from the internet"
