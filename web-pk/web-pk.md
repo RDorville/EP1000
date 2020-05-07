@@ -67,7 +67,8 @@ In order to use/build this website properly, you need to use git and a Github re
     * Commit to master
     * Push Origin
     * Check your site with the browser
-    ![Modified web-pk site](04_epblogsite.jpg)
+
+![Modified web-pk site](04_epblogsite.jpg)
 
 ## Tips to configure your web-pk site
 
