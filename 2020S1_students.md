@@ -79,6 +79,6 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 * &amp;nbsp; is HTML for non-breaking space.  That is, don't split the line here if you have to.  Two words that have a &nbsp; between them will not split across two lines.
 * I use it to generate blank lines for spacing.
 
-$nbsp; 
+&nbsp; 
 
 **May 2020**
