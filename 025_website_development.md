@@ -79,7 +79,7 @@ Here are the 4 ways in which you can develop your site together with the advanta
     * How-to
         1. I would suggest that you complete the **git** section (next week) before you attempt this as you need to upload a number of folders and files to your repository (unless you want to do it one at a time)
         2. Download or clone the repository at (https://github.com/skeatz/web-pk) to a new folder.
-        3. [How-to use web-pk for your website](website_webpk.md)
+        3. [How-to use web-pk for your website](web-pk/web-pk.md)
 
 &nbsp;
 
