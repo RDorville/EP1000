@@ -30,17 +30,14 @@ We will create a **docs** folder in which we will keep the `about.html` and the 
 
     ```html
         <div id="nav">
-            <h3>Navigation</h3>
-            <ul>
-                <li><a href="index.html" class="selected">Home</a></li>
-                <li><a href="docs/webdev.html">Website Development</a></li>
-                <li><a href="docs/projmgmt.html">Project Management</a></li>
-                <li><a href="docs/3dprint.html">3D Printing</a></li>
-                <li><a href="docs/2dcut.html">2D Cutting</a></li>
-                <li><a href="docs/embed.html">Embedded Prog</a></li>
-                <li><a href="prj/project.html">Project</a></li>
-                <li><a href="docs/about.html">About</a></li>
-            </ul>
+        <h3>Navigation</h3>
+        <ul>
+            <li><a href="" class="selected">Home</a></li>
+            <li><a href="docs/safety.html">Safety</a></li>
+            <li><a href="">Website Dev</a></li>
+            <li><a href="prj/project.html">Project</a></li>
+            <li><a href="docs/about.html">About</a></li>
+        </ul>
         </div>
     ```
 
@@ -59,14 +56,11 @@ We will create a **docs** folder in which we will keep the `about.html` and the 
         <div id="nav">
             <h3>Navigation</h3>
             <ul>
-                <li><a href="../index.html" class="selected">Home</a></li>
-                <li><a href="webdev.html">Website Development</a></li>
-                <li><a href="projmgmt.html">Project Management</a></li>
-                <li><a href="3dprint.html">3D Printing</a></li>
-                <li><a href="2dcut.html">2D Cutting</a></li>
-                <li><a href="embed.html">Embedded Prog</a></li>
+                <li><a href="../index.html" >Home</a></li>
+                <li><a href="safety.html">Safety</a></li>
+                <li><a href="">Website Dev</a></li>
                 <li><a href="../prj/project.html">Project</a></li>
-                <li><a href="about.html">About</a></li>
+                <li><a href="about.html" class="selected">About</a></li>
             </ul>
         </div>
     ```
@@ -75,10 +69,13 @@ We will create a **docs** folder in which we will keep the `about.html` and the 
     * **../index.html** means to go-up-one-folder to reach the home page
     * **../prj/project.html** means to go up one folder and then down the `prj`folder to find the file 'project.html`
 
-8. Any files references from the `about.html` file would mean that the file is also located in the same folder as the `about.htm'` file.
+8. Any files referenced directly from the `about.html` file would mean that the file is also located in the same folder.
 
 9. Change the contents of the **main div** as this holds the contents of the page.
 
 10.  You can test the website [here](index.html).
 
-**todo - add prj/project.html**
+
+&nbsp;
+
+**May 2020**
