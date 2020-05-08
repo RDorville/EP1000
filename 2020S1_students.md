@@ -11,9 +11,9 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 |:-------|:-----------|:------|
 01 |  [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) | Ok, but no content yet|
 02 |  [CHUA KEITH     ](https://keithsp.github.io/Ep1000/) |"first website"->index.html [FAQ001](#faq001)|
-03 |  [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000) | need index.html [FAQ001](#faq001) |
+03 |  [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) | need index.html [FAQ001](#faq001) |
 04 |  MASON GOH       |       |
-05 |  TANG KZ         |     |
+05 |  [TANG KZ](https://tangkenzee.github.io/EP1000)         |     |
 06 |  [FELIX NG       ](https://felixnkw.github.io/EP1000/) ||
 07 |  [LEE CLAIRE     ](https://sp-claire.github.io/E1000/) |Nice, touch-up the table, needs CSS|
 08 |  [ZHENG R        ](https://zhengrq20.github.io/ep1000/) |Great!, needs organisation on the topics|
@@ -26,7 +26,7 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 15 |  [ANG JOELLE     ](https://jaze7.github.io/EP1000/) |Nice. Need to use CSS to format the page [FAQ006](#faq006)|
 16 |  [ANNA YAP       ](https://annayjl.github.io/EP1000/) |Good work.  Very clean look|
 17 |  [NUR ARIFAH     ](https://refrigerated.github.io/EP1000/) |Nice. Need to use CSS to format the page [FAQ006](#faq006)|
-18 |  C AVINASH       |      |
+18 |  [C AVINASH](https://raeyyyychael.github.io/EP1000/)|      |
 19 |  ZACKERY MAK     |      |
 20 |  [TANG SQ        ](https://tangshiqing.github.io/EP1000/) |Very professional! Looks difficult to add information.  [FAQ007](#faq007)|
 

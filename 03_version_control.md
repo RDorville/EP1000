@@ -60,7 +60,7 @@ There are many tutorials for git (shows you how important git is) and we recomme
 
 ### Youtube videos on git
 
-*  Colt Steel [Learn git in 15 minutes]https://www.youtube.com/watch?v=USjZcfj8yxE)
+*  Colt Steel [Learn git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 *  The Net Ninja [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 *  Cory Schafer [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
 *  Others [using Google Search](https://www.youtube.com/results?search_query=git+tutorial+for+beginners)

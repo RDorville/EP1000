@@ -28,7 +28,7 @@ Here are the 4 ways in which you can develop your site together with the advanta
 
 
 * **Borrow A Design That Works** using HTML & CSS   
-    You start with a design that works (e.g. Jake Wright: Learn CSS in 12 minutes).  Modify and add whatever you want in HTML (content) and tweak its looks using CSS (Layout).
+    You start with a design that works (e.g. Jake Wright: [Learn CSS in 12 minutes](https://www.youtube.com/watch?v=0afZj1G0BIE)).  Modify and add whatever you want in HTML (content) and tweak its looks using CSS (Layout).
     * Advantages
         1. Design is professionally looking, just add content.
         2. Don't need to do much in terms of modification
@@ -58,7 +58,7 @@ Here are the 4 ways in which you can develop your site together with the advanta
         3. Website looks very "bare", "no-frills", even with themes.
     * How-to
         1. This site is an **example** of a pure Markdown site.
-        2. Surf to the github site for this repository (https://github.com/rdorville/EP1000)
+        2. Surf to the github site for this repository <https://github.com/rdorville/EP1000>
         3. Use the github *code* tab to examine the contents
         4. Create a new repo on your github account and enable github pages.
         5. Start with the file "index.md" as the root of your website.
@@ -68,7 +68,7 @@ Here are the 4 ways in which you can develop your site together with the advanta
 
 *  **Jekyll** themed site (Using Markdown)   
     Jekyll is a [static site generator](https://www.staticgen.com/) which converts Markdown together with other instructions to HTML which is then hosted by the server.   
-    Mr Chew has kindly provided a template (https://skeatz.github.io/web-pk/) which allows you to create a very professional-like site for your project.
+    Mr Chew has kindly provided a template <https://skeatz.github.io/web-pk/> which allows you to create a very professional-like site for your project.
     * Advantages
         1.  Information is added using Markdown or HTML, easy to edit.
         2.  Processing by Jekyll is transparent to the user.
