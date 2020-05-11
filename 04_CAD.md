@@ -87,7 +87,7 @@ I have provided approximate timings for you so that you do **NOT** spend all you
 |20 min  | Use GIMP to modify a photo by removing the background |
 |20 min  | Go through one tutorial on Fusion 360 interface |
 |20 min  | Work through one tutorial using Fusion 360 |
-|30 min  | Complete at least one of the design projects below |
+|30 min  | Complete the design projects below |
 
 **Guides on doing each part**
 
@@ -106,10 +106,10 @@ I have provided approximate timings for you so that you do **NOT** spend all you
     - Go through Kevin Kennedy's - [Fusion 360 Interface](https://www.youtube.com/watch?v=sZwM87-nsYA)
     - Try the "Initials Keyring" exercise from [WarWick University](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)     
     &nbsp;
-3.  Draw **ONE** of the following:
-    * Exercise 1
-    * Exercise 2
-
+3.  Complete the following exercises.  Treat each exercise as a new drawing and component.
+    * [Exercise 1](images/04_Exercise_1.jpg)
+    * [Exercise 2](images/04_Exercise_2.jpg)
+    * [Exercise 3](images/04_Exercise_3.jpg)
 
 &nbsp;
 
