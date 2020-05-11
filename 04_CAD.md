@@ -111,6 +111,32 @@ I have provided approximate timings for you so that you do **NOT** spend all you
     * [Exercise 2](images/04_Exercise_2.png)
     * [Exercise 3](images/04_Exercise_3.png)
 
+When you have completed the exercise, use the following steps to export your work to a fusion360 (.f3d) file and attach it to your blog.  The way to do it is
+
+<div style="width:100%;">
+        <img src="images/04_fileOps.png" alt="Project Options" width="500px" align="left" style="margin:10px" >
+        <p>1.  While in Fusion 360, create a new Project to keep all your files.  Save your Fusion 360 exercise, use an appropriate name e.g. Exercise_01</p>
+</div>
+<div style="clear:both;">&nbsp;</div>
+<div style="width:100%;">
+        <img src="images/04_fileExport.png" alt="Export Options"  align="left" style="margin:10px" max-width="500px">
+        <p>2.  After you have saved your file, click on the File icon at the top and select "Export"</p>
+</div>
+<div style="clear:both;">&nbsp;</div>
+
+<div style="width:100%;">
+        <img src="images/04_Export.png" alt="Export Dialog"  align="left" style="margin:10px" max-width="500px">
+        <p>3.  Enter filename, check **.f3d** format, select folder store exported file.</p>
+</div>
+<div style="clear:both;">&nbsp;</div>
+
+<div style="width:100%;">
+        <img src="images/04_f3dfile.png" alt="Exported File"  align="left" style="margin:10px" max-width="500px">
+        <p>4.  Copy the file into your folder, link it in your blog and then upload to the repository.</p>
+</div>
+<div style="clear:both;">&nbsp;</div>
+
+
 &nbsp;
 
 **May 2020**

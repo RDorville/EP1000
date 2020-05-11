@@ -99,7 +99,7 @@ This is the [basic outline of a HTML file](https://www.w3schools.com/html/html_b
     <p>You can also imbed images in a web-page, here is a nice pictures
     of the Fablab in SP</p>
 
-    <img src="fablabt11.jpg" height="30%">
+    <img src="images/fablabt11.jpg" height="30%">
 
     <p>I hope you enjoy the facilities here!</p>
 </body>
