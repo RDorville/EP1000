@@ -9,26 +9,26 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 
 |Sn   |Name        |Comments|
 |:-------|:-----------|:------|
-01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) | Ok, but no content yet|
-02 | [CHUA KEITH](https://keithsp.github.io/Ep1000/) |"first website"->index.html [FAQ001](#faq001)|
-03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) | need index.html [FAQ001](#faq001) |
+01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) ||
+02 | [CHUA KEITH](https://keithsp.github.io/Ep1000/) ||
+03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) ||
 04 | MASON GOH       |       |
-05 | [TANG KZ](https://tangkenzee.github.io/EP1000)         |     |
+05 | [TANG KZ](https://tangkenzee.github.io/EP1000) ||
 06 | [FELIX NG](https://felixnkw.github.io/EP1000/) ||
-07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) |Nice, touch-up the table, needs CSS|
-08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) |Great!, needs organisation on the topics|
-09 | LEONG ELVIS     |     |
-10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) |good attempt on JW's work, needs nav bar|
-11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) |great a MD page, table needs corrections|
-12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) |good layout, tidy the links [FAQ002](#faq002)|
-13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) |Nice. Think about how you are going to add other pages [FAQ003](#faq003)|
-14 | [KRYSTAL T](https://krystaltan19.github.io/EP1000/) |Image not showing [FAQ004](#faq004)<br>You don't need to put everything in a table [FAQ005](#faq005)|
-15 | [ANG JOELLE](https://jaze7.github.io/EP1000/) |Nice. Need to use CSS to format the page [FAQ006](#faq006)|
-16 | [ANNA YAP](https://annayjl.github.io/EP1000/) |Good work.  Very clean look|
-17 | [NUR ARIFAH](https://refrigerated.github.io/EP1000/) |Nice. Need to use CSS to format the page [FAQ006](#faq006)|
-18 | [C AVINASH](https://avi7v.github.io/EP1000/)|      |
-19 | [ZACKERY MAK](https://zackerymak.github.io/EP1000/)|      |
-20 | [TANG SQ](https://tangshiqing.github.io/EP1000/) |Very professional! Looks difficult to add information.  [FAQ007](#faq007)|
+07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) ||
+08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) ||
+09 | [LEONG ELVIS]()||
+10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) ||
+11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) ||
+12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) ||
+13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) ||
+14 | [KRYSTAL T](https://krystaltan19.github.io/EP1000/) ||
+15 | [ANG JOELLE](https://jaze7.github.io/EP1000/) ||
+16 | [ANNA YAP](https://annayjl.github.io/EP1000/) ||
+17 | [NUR ARIFAH](https://refrigerated.github.io/EP1000/) ||
+18 | [C AVINASH](https://avi7v.github.io/EP1000/)||
+19 | [ZACKERY MAK](https://zackerymak.github.io/EP1000/)||
+20 | [TANG SQ](https://tangshiqing.github.io/EP1000/) ||
 
 
 ## FAQ
