@@ -107,9 +107,9 @@ I have provided approximate timings for you so that you do **NOT** spend all you
     - Try the "Initials Keyring" exercise from [WarWick University](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)     
     &nbsp;
 3.  Complete the following exercises.  Treat each exercise as a new drawing and component.
-    * [Exercise 1](images/04_Exercise_1.jpg)
-    * [Exercise 2](images/04_Exercise_2.jpg)
-    * [Exercise 3](images/04_Exercise_3.jpg)
+    * [Exercise 1](images/04_Exercise_1.png)
+    * [Exercise 2](images/04_Exercise_2.png)
+    * [Exercise 3](images/04_Exercise_3.png)
 
 &nbsp;
 
