@@ -113,31 +113,15 @@ I have provided approximate timings for you so that you do **NOT** spend all you
 
 When you have completed the exercise, use the following steps to export your work to a fusion360 (.f3d) file and attach it to your blog.  The way to do it is
 
-<div style="width:100%;">
-        <img src="images/04_fileOps.png" alt="Project Options" width="500px" align="left" style="margin:10px" >
-        <p>1.  While in Fusion 360, create a new Project to keep all your files.  Save your Fusion 360 exercise, use an appropriate name e.g. Exercise_01</p>
-</div>
-<div style="clear:both;">&nbsp;</div>
-<div style="width:100%;">
-        <img src="images/04_fileExport.png" alt="Export Options"  align="left" style="margin:10px" max-width="500px">
-        <p>2.  After you have saved your file, click on the File icon at the top and select "Export"</p>
-</div>
-<div style="clear:both;">&nbsp;</div>
-
-<div style="width:100%;">
-        <img src="images/04_Export.png" alt="Export Dialog"  align="left" style="margin:10px" max-width="500px">
-        <p>3.  Enter filename, check **.f3d** format, select folder store exported file.</p>
-</div>
-<div style="clear:both;">&nbsp;</div>
-
-<div style="width:100%;">
-        <img src="images/04_f3dfile.png" alt="Exported File"  align="left" style="margin:10px" max-width="500px">
-        <p>4.  Copy the file into your folder, link it in your blog and then upload to the repository.</p>
-</div>
-<div style="clear:both;">&nbsp;</div>
-
+|![Click on the image to enlarge it](images/blank.png)|![](images/blank.png)|
+|:----------------:|---------------|
+|[![Project Options](images/04_fileOps.png)](images/04_fileOps.png) |While in Fusion 360, create a new Project to keep all your files.  Save your Fusion 360 exercise, use an appropriate name e.g. Exercise_01|
+|[![Export Options](images/04_fileExport.png)](images/04_fileExport.png) | After you have saved your file, click on the File icon at the top and select "Export" |
+|[![Export Dialog](images/04_Export.png)](images/04_Export.png) | Enter filename, check **.f3d** format, select folder store exported file |
+|[![Exported File](images/04_f3dfile.png)](images/04_f3dfile.png) | Copy the file into your folder, link it in your blog and then upload to the repository. |
 
 &nbsp;
+
 
 **May 2020**
 
