@@ -16,7 +16,8 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |04  |Mon 04 May  |[Website hosting, Github](025_website_development.md)|
 |05  |Fri 08 May  |[Project Management using git](03_version_control.md)|
 |06  |Mon 11 May  |[Computer Aided Design](04_CAD.md)|
-|07  |Fri 15 May  |Drawing 2D/3D objects|
+|07  |Fri 15 May  |[Drawing 3D objects using extrusion](05_Fusion360.md)|
+|08  |Mon 18 May  |Creating 3D Objects|
 
 &nbsp;
 

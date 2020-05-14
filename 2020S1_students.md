@@ -7,28 +7,28 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 **EP1000 Digital Fabrication & Prototyping Fundamentals**    
 **AY2020/2021 Semester 1 Group 1**
 
-|Sn   |Name        |Comments|
-|:-------|:-----------|:------|
-01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) |Looking good!|
-02 | [CHUA KEITH](https://keithsp.github.io/Ep1000/) |No showing, don't use inline styles please|
-03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) |Nice, bit difficult to read because of color|
-04 | [MASON GOH](https://masongoh.github.io/ep1000/)|Coming up, images not showing|
-05 | [TANG KZ](https://tangkenzee.github.io/EP1000) |Simple & nice, pages not showing|
-06 | [FELIX NG](https://felixnkw.github.io/EP1000/) |Great, need adjustment of margins in CSS|
-07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) |Nice, pages not in yet|
-08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) |Great, check your markdown on links|
-09 | [LEONG ELVIS](https://ElvisLeong.github.io/EP1000.)|Rename repo, don't end with a perion (.)|
-10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) |Looking good|
-11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) |Great, you're using Markdown|
-12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) |Nice, need to do something about the images|
-13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) |Very nice, renane the Week #|
-14 | [KRYSTAL T](https://krystaltan19.github.io/EP1000/) |Ok, need work on pages|
-15 | [ANG JOELLE](https://jaze7.github.io/EP1000/) |Links not showing pages|
-16 | [ANNA YAP](https://annayjl.github.io/EP1000/) |Front ok, pages not up yet|
-17 | [NUR ARIFAH](https://refrigerated.github.io/EP1000/) |Front only, no pages|
-18 | [C AVINASH](https://avi7v.github.io/EP1000/)|Nice, pages not up yet|
-19 | [ZACKERY MAK](https://zackerymak.github.io/EP1000/)|Front ok, pages not up|
-20 | [TANG SQ](https://tangshiqing.github.io/EP1000/) |Nice front, no pages yet|
+|Sn   |Name        | |
+|:-------|:-----------| |
+01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) | |
+02 | [CHUA KEITH](https://keithsp.github.io/Ep1000/) | |
+03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) | |
+04 | [MASON GOH](https://masongoh.github.io/ep1000/)| |
+05 | [TANG KZ](https://tangkenzee.github.io/EP1000) | |
+06 | [FELIX NG](https://felixnkw.github.io/EP1000/) | |
+07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) | |
+08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) | |
+09 | [LEONG ELVIS](https://ElvisLeong.github.io/EP1000.)| |
+10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) | |
+11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) | |
+12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) | |
+13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) | |
+14 | [KRYSTAL T](https://krystaltan19.github.io/EP1000/) | |
+15 | [ANG JOELLE](https://jaze7.github.io/EP1000/) | |
+16 | [ANNA YAP](https://annayjl.github.io/EP1000/) | |
+17 | [NUR ARIFAH](https://refrigerated.github.io/EP1000/) | |
+18 | [C AVINASH](https://avi7v.github.io/EP1000/)| |
+19 | [ZACKERY MAK](https://zackerymak.github.io/EP1000/)| |
+20 | [TANG SQ](https://tangshiqing.github.io/EP1000/) | |
 
 Updated: 11 May 2020
 
