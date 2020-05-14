@@ -20,8 +20,8 @@ Computer graphics is sub-divided into two categories:
         -  [Adobe Photoshop](https://www.photoshop.com/en)
         -  [MS Paint](https://ms-paint.en.softonic.com/)
     *  Common raster file formats
-        -  jpg, jpeg
-        -  png
+        -  [jpg, jpeg](https://en.wikipedia.org/wiki/JPEG) Joint Photographic Experts Group
+        -  [png](https://en.wikipedia.org/wiki/Portable_Network_Graphics) Portable Network Grphics
 * Vector
     - Vector images use mathematical functions or algorithms to display images on the screen. e.g. a line is represented by two points and an equation to draw the line between points.
     - Vector images are characterised by clean lines/edges and the ability to zoom in/out as much as you want without distortion, as each image is "drawn" using an algorithm.
@@ -31,8 +31,9 @@ Computer graphics is sub-divided into two categories:
         + [Inkscape](https://inkscape.org/)
         + [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
     - Common vector file formats
-        + dxf
-        + svg
+        + [dxf](https://en.wikipedia.org/wiki/AutoCAD_DXF) AutoCAD Drawing Exchange Format
+        + [svg](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) Scalable Vector Graphics
+        + [STEP](https://en.wikipedia.org/wiki/ISO_10303-21) STEP. ISO 10303 for 3D Objects
 
 ### CAD (Computer Aided Design)
 
@@ -108,7 +109,7 @@ I have provided approximate timings for you so that you do **NOT** spend all you
     &nbsp;
 3.  Complete the following exercises.  Treat each exercise as a new drawing and component.
     * [Exercise 1](images/04_Exercise_1.png)
-    * [Exercise 2](images/04_Exercise_2.png)
+    * [Exercise 2](images/04_Exercise_2.png) - [Worked Example](https://youtu.be/A9DpjtKvEVo)
     * [Exercise 3](images/04_Exercise_3.png)
 
 When you have completed the exercise, use the following steps to export your work to a fusion360 (.f3d) file and attach it to your blog.  The way to do it is
