@@ -58,6 +58,11 @@ Here is a quick guide:
 1.  Design a nametag for your keychain.  Follow the specifications and guidelines in the instruction sheet.
 2.  Design a fidget spinner using a roller-skate bearing and M8 nuts.  Use the following as a guide, you may change the design if you so wish.
 
+**Instruction Sheets**
+
+1. [Nametag](worksheets/f360_fidgetspinner.md)
+2. [Fidget Spinner](worksheets/f360_fidgetspinner.md)
+
 **Specifications**
 
 * Document your work as you go, remember to attach
