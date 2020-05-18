@@ -156,6 +156,8 @@ Here is a quick guide:
     - Model your 3D image in your webpage.  There are a number of Javascipt codes that allow you to model a 3D image (usually STL file) on a webpage
     - See [Thingiverse](https://www.thingiverse.com/) for examples
 
+* Example: [3D model of a Knight Chess Piece](06_STLmodel.html)
+
 
 &nbsp;
 
