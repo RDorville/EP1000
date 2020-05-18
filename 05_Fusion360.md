@@ -29,8 +29,7 @@ Here are some main topics that you need to master in Fusion 360:
 * Kevin Kennedy: Product Design Online    
 Don't forget to check the accompanying pages on his [website](https://productdesignonline.com) for guides to each of the videos.
     - [Navigating the Fusion 360 User Interface (sections explained) - REVISED 2019](https://youtu.be/sZwM87-nsYA) - [site text](https://productdesignonline.com/fusion-360-tutorials/learn-the-fusion-360-user-interface/)
-    - [Default settings for Fusion 360](https://productdesignonline.com/default-settings-for-fusion-360-tutorials/)
-    - [site text](https://productdesignonline.com/tips-and-tricks/understanding-bodies-and-components-fusion-360-rule-1/)
+    - [Default settings for Fusion 360](https://productdesignonline.com/default-settings-for-fusion-360-tutorials/) - [site text](https://productdesignonline.com/tips-and-tricks/understanding-bodies-and-components-fusion-360-rule-1/)
     - [How to Manually Add Sketch Constraints - Learn Autodesk Fusion 360 in 30 Days: Day #16](https://youtu.be/BGwBZJ14KHQ)
     - [How to Create text in Fusion 360](https://youtu.be/BkpAtMAHtyQ)
     - [How and Why to Fully Constrain Your Sketches](https://youtu.be/C11L136U0vQ)

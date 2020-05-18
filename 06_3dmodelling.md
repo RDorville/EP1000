@@ -140,12 +140,9 @@ Here is a quick guide:
         - Base width: 30 mm
         - Thickness: 4 mm
 
-
-
 **Instruction Sheets**
 
-1. [Nametag](worksheets/f360_keytag.md)
-2. [Fidget Spinner](worksheets/f360_fidgetspinner.md)
+1. [Objects using Revolution](worksheets/3D_Objects_using_Revolution.pdf)
 
 **Specifications**
 
@@ -155,6 +152,30 @@ Here is a quick guide:
     * screen shots of your finished product. 
     * highlight any tips that you would want your classmates to know if they were to complete the same projects.
 + Update your blog with the work done.
+* **Extra Credit**
+    - Model your 3D image in your webpage.  There are a number of Javascipt codes that allow you to model a 3D image (usually STL file) on a webpage
+    - See [Thingiverse](https://www.thingiverse.com/) for examples
+
+**Example**
+
+<canvas id="cv" width=640 height=480>
+    It seems you are using an outdated browser that does not support canvas :-(
+</canvas>
+<script type="text/javascript">
+    var canvas = document.getElementById('cv');
+    var viewer = new JSC3D.Viewer(canvas);
+    viewer.setParameter('SceneUrl','images/knight.stl');
+    viewer.setParameter('ModelColor','#CAA618');
+    viewer.setParameter('BackgroundColor1','#E5D7BA');
+    viewer.setParameter('BackgroundColor2','#383840');
+    viewer.setParameter('RenderMode','flat');
+    viewer.setParameter('MipMapping','on');
+    viewer.setParameter('Definition','high');
+    viewer.setParameter('Renderer','webgl');
+    viewer.init();
+    viewer.update();
+</script>
+
 
 &nbsp;
 
