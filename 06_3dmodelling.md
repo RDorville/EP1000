@@ -5,7 +5,7 @@
 
 By now, you should be familiar with the following in Fusion 360
 
-![Fusion360_interface](images/0501_f260interface.jpg)
+[![Fusion360_interface](images/0601_f260interface.jpg)](images/0601_f260interface.jpg)
 
 * [Fusion 360 interface](https://productdesignonline.com/fusion-360-tutorials/learn-the-fusion-360-user-interface/)
     1. Application Bar
@@ -46,10 +46,11 @@ In the creation of any new design, a good workflow plan would be:
     * From sketch, create a 3D model
 4.  Inpect and make corrections, adjustments.
 
+&nbsp;
 
 ### Creating 3D Models
 
-1.  Extrusion
+1.  **Extrusion**
     * Extrusion is the easiest method of creating a 3D model
         * Create a 2D closed profile in one of the planes (e.g. XY)
         * Extrude the profile in the third axis (e.g. Z)
@@ -59,9 +60,12 @@ In the creation of any new design, a good workflow plan would be:
         * Cut - uses the extrusion to remove unwanted parts
     + Can use Extrude or Press-Pull in Fusion 360
         * Desktop Makes: [Press Pull vs Extrusion in Fusion 360](https://youtu.be/elQ648fVpwA)
-> Image here would be good
-    * Only good if you have a profile(s) to work with*
-2.  Revolution
+    * Only good if you have a profile(s) to work with.
+
+    ![Extruding a closed Profile](images/0602_extrusion.jpg)
+
+2.  **Revolution**
+    * [3D Objects using Revolution](worksheets/3D_Objects_using_Revolution.pdf)
     * Creates a 3D model based on a profile and an axis to revolve upon.
         - Draw a 2D closed profile on one of the planes (e.g. XY)
         - Revolve the object about the third axis (e.g. Z)
@@ -70,7 +74,11 @@ In the creation of any new design, a good workflow plan would be:
             + Full 360
         - Lars Christensen: [How to Model Anything Round](https://youtu.be/zYMf6qncgwc)
     * Good for creating globes, sectors, cylinders, profiles.
-> Image for revolution
+
+    ![Profiles used for revolution](images/0603a_revolution.jpg)
+    ![Results of revolution](images/0603b_revolution.jpg)
+
+&nbsp;
 
 3.  Lofting
     * Create closed profiles in the plane outlining your shape
@@ -81,7 +89,13 @@ In the creation of any new design, a good workflow plan would be:
         - center-line rail, formed by a line/arc perpendicular to the profiles
             + [Example from AutoDesk](https://forums.autodesk.com/t5/fusion-360-design-validate/introduction-to-loft-using-rail-curves-in-fusion/td-p/7296238)
         - Good for creating ducts, continous 3D models
-> Image for lofting
+
+    |Loft|     |     |
+    |:--------:|:----:|:----:|
+    |[![Create the profiles](images/0604a_loft.jpg)](images/0604a_loft.jpg)|[![Select the profiles](images/0604b_loft.jpg)](images/0604b_loft.jpg)|[![Results of loft](images/0604c_loft.jpg)](images/0604c_loft.jpg)|
+    |Create the profiles on different planes|Loft > Select the profiles| Results|
+
+    &nbsp;
 
 4.  Sculpting
     * Creating an object using a basic 3D shape, breaking up the shape into sections and then manipulating the shape to what you want.
@@ -94,7 +108,12 @@ In the creation of any new design, a good workflow plan would be:
     * Good for creating objects without fixed profiles or need to be shaped
         - Can be very time-consuming
         - Has great effects
-> image for sculpting
+
+    |Sculpt|     |
+    |:--------:|:----:|
+    |[![Create the form](images/0605a_sculpt.jpg)](images/0605a_sculpt.jpg)|[![Edit form](images/0605b_sculpt.jpg)](images/0605b_sculpt.jpg)|
+
+    &nbsp;
 
 ### Preparation for 3D printing
 
@@ -142,7 +161,7 @@ Here is a quick guide:
 
 **Instruction Sheets**
 
-1. [Objects using Revolution](worksheets/3D_Objects_using_Revolution.pdf)
+1. [3D Objects using Revolution](worksheets/3D_Objects_using_Revolution.pdf)
 
 **Specifications**
 
