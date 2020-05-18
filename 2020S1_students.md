@@ -16,12 +16,12 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 05 | [TANG KZ](https://tangkenzee.github.io/EP1000) |<br>project management went into github, either keep to html or md<br>you need to be consistent|
 06 | [FELIX NG](https://felixnkw.github.io/EP1000/) |screen capture only relevant areas, use side-by-side display, explanation brief<br>git not documented|
 07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) |files not linked, probaly have spaces in filename |
-08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) | |
+08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) |Not updated with assignments yet|
 09 | [LEONG ELVIS](https://ElvisLeong.github.io/EP1000.)| |
-10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) | |
-11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) | |
-12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) | |
-13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) | |
+10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) |Great work, should improve on the html/css, others ok |
+11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) |results there, but no documentation, this is a how-to site! |
+12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) |work doen, but no text explanation |
+13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) |label your week # navigations, need more explanation, do not rely on images |
 14 | [KRYSTAL T](https://krystaltan19.github.io/EP1000/) | |
 15 | [ANG JOELLE](https://jaze7.github.io/EP1000/) | |
 16 | [ANNA YAP](https://annayjl.github.io/EP1000/) | |
