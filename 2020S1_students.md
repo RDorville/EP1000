@@ -9,13 +9,13 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 
 |Sn   |Name        | |
 |:-------|:-----------| |
-01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) | |
+01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) |Many images, little text. Is this a how-to or a photo album<br>You need to document your work, images are not enough |
 02 | [CHUA KEITH](https://keithsp.github.io/Ep1000/) | |
-03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) | |
-04 | [MASON GOH](https://masongoh.github.io/ep1000/)| |
-05 | [TANG KZ](https://tangkenzee.github.io/EP1000) | |
-06 | [FELIX NG](https://felixnkw.github.io/EP1000/) | |
-07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) | |
+03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) |Show how CSS affects HTML files with simple side-by-side example<br>git is weakly documented<br>gimp ok, Fusion - should highlight steps|
+04 | [MASON GOH](https://masongoh.github.io/ep1000/)|images not showing<br>no information yet |
+05 | [TANG KZ](https://tangkenzee.github.io/EP1000) |<br>project management went into github, either keep to html or md<br>you need to be consistent|
+06 | [FELIX NG](https://felixnkw.github.io/EP1000/) |screen capture only relevant areas, use side-by-side display, explanation brief<br>git not documented|
+07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) |files not linked, probaly have spaces in filename |
 08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) | |
 09 | [LEONG ELVIS](https://ElvisLeong.github.io/EP1000.)| |
 10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) | |
