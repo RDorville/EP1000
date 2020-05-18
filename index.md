@@ -17,7 +17,8 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |05  |Fri 08 May  |[Project Management using git](03_version_control.md)|
 |06  |Mon 11 May  |[Computer Aided Design](04_CAD.md)|
 |07  |Fri 15 May  |[Drawing 3D objects using extrusion](05_Fusion360.md)|
-|08  |Mon 18 May  |Creating 3D Objects|
+|08  |Mon 18 May  |[Modelling 3D Objects](06_3dmodelling.md)|
+|09  |Fri 22 May  |3D Printing|
 
 &nbsp;
 

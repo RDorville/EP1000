@@ -49,7 +49,7 @@ I have provided approximate timings for you so that you do **NOT** spend all you
 
 | Time   | Task |
 |--------|:------------------------------------------------|
-|45 min  | Go through the video Tutorials listed aboveL |
+|45 min  | Go through the video Tutorials listed above |
 |30 min  | Design a nametag for your keyring |
 |60 min  | Design a fidget spinner |
 
