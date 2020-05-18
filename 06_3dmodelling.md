@@ -158,23 +158,7 @@ Here is a quick guide:
 
 **Example**
 
-<canvas id="cv" width=640 height=480>
-    It seems you are using an outdated browser that does not support canvas :-(
-</canvas>
-<script type="text/javascript">
-    var canvas = document.getElementById('cv');
-    var viewer = new JSC3D.Viewer(canvas);
-    viewer.setParameter('SceneUrl','images/knight.stl');
-    viewer.setParameter('ModelColor','#CAA618');
-    viewer.setParameter('BackgroundColor1','#E5D7BA');
-    viewer.setParameter('BackgroundColor2','#383840');
-    viewer.setParameter('RenderMode','flat');
-    viewer.setParameter('MipMapping','on');
-    viewer.setParameter('Definition','high');
-    viewer.setParameter('Renderer','webgl');
-    viewer.init();
-    viewer.update();
-</script>
+[3D Modelling of a Knight piece](06_STLmodel.html)
 
 
 &nbsp;
