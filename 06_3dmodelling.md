@@ -175,7 +175,59 @@ Here is a quick guide:
     - Model your 3D image in your webpage.  There are a number of Javascipt codes that allow you to model a 3D image (usually STL file) on a webpage
     - See [Thingiverse](https://www.thingiverse.com/) for examples
 
-* Example: [3D model of a Knight Chess Piece](06_STLmodel.html)
+&nbsp;
+
+### How-to display a 3D Model (.STL) in a HTML file
+
+Reference: Javascript plugin [JSC3D](https://code.google.com/archive/p/jsc3d/)
+
+1.  Read the reference documents and examples from the Site above.
+2.  Download the repository, extract the following `.jsc3d` files and place in a location with your HTML files (e.g. folder `js`)
+    * jsc3d.js
+    * jsc3d.webgl.js
+    * jsc3d.touch.js    
+    You need to load these files in with your HTML.
+3.  Load the JavaScript plugin code in the header area
+
+    ```html
+    <head>
+        <script type="text/javascript" src="jsc3d/jsc3d.js"></script>
+        <script type="text/javascript" src="jsc3d/jsc3d.webgl.js"></script>
+        <script type="text/javascript" src="jsc3d/jsc3d.touch.js"></script>
+    </head>
+    ```
+
+4.  Use the following code to load the STL file and display it:
+
+    ```html
+    <canvas id="cv" width=640 height=480>
+        It seems you are using an outdated browser that does not support canvas :-(
+    </canvas>
+    <script type="text/javascript">
+        var canvas = document.getElementById('cv');
+        var viewer = new JSC3D.Viewer(canvas);
+        viewer.setParameter('SceneUrl','knight.stl');
+        viewer.setParameter('ModelColor','#CAA618');
+        viewer.setParameter('BackgroundColor1','#E5D7BA');
+        viewer.setParameter('BackgroundColor2','#383840');
+        viewer.setParameter('RenderMode','flat');
+        viewer.setParameter('MipMapping','on');
+        viewer.setParameter('Definition','high');
+        viewer.setParameter('Renderer','webgl');
+        viewer.init();
+        viewer.update();
+    </script>
+    ```
+
+5.  Change this line to point to your .STL file
+
+    ```html
+
+     viewer.setParameter('SceneUrl','knight.stl');
+
+    ```
+
+Example: [3D model of a Knight Chess Piece](06_STLmodel.html)
 
 
 &nbsp;
