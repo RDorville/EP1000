@@ -86,11 +86,17 @@ Sometimes you might want a mechanical drawing of your design so that others may 
 
 **Optional Topics**
 
-Another good tutorial: Taylor Stein - Autodesk Fusion 360 [Designing a 3D Printed Enclosure for Arduino Uno](https://youtu.be/E0bhdr84FNU) - only watch if you have time.
+[![Arduino Case](images/0705_arduinocase.png)](0705_arduinocase.png)
 
-Assemblies and Joints: Justin Geis - The Fusion Essentials [Creating MOVING HINGE JOINTS in Autodesk Fusion 360 with the Revolute Joint](https://youtu.be/gGgmA1WZESs) - a simple tutorial to make and simulate a door hinge.
+* Another good tutorial: Taylor Stein - Autodesk Fusion 360 [Designing a 3D Printed Enclosure for Arduino Uno](https://youtu.be/E0bhdr84FNU) - only watch if you have time.
 
-[How to get a handle on Assembly and Joints in Fusion](https://youtu.be/KQNgIfjMr84) if you get a little crazy over assembly and joints.  All parts are provided, all you have to do is to assemble them.  Follow Lars Christensen on an afternoon of fun and amazement!
+[![Hinge Joint](images/0706_hinge.png)](0706_hinge.png)
+
+* Assemblies and Joints: Justin Geis - The Fusion Essentials [Creating MOVING HINGE JOINTS in Autodesk Fusion 360 with the Revolute Joint](https://youtu.be/gGgmA1WZESs) - a simple tutorial to make and simulate a door hinge.
+
+[![Assemblies & Joints](images/0704_assemblevise.png)](images/0704_assemblevise.png)
+
+* [How to get a handle on Assembly and Joints in Fusion](https://youtu.be/KQNgIfjMr84) if you get a little crazy over assembly and joints.  All parts are provided, all you have to do is to assemble them.  Follow Lars Christensen on an afternoon of fun and amazement!
 * The parts are downloaded from the following locations:
     - Vise <http://a360.co/2e3GCBJ>
     - Chuck <http://a360.co/2e3I333>

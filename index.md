@@ -21,8 +21,8 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |05  |Mon 18 May  |[Modelling 3D Objects](06_3dmodelling.md)|
 |    |Fri 22 May  |[Fusion 360 Features](07_F360Features.md)|
 |06  |Mon 25 May  |*Hari Raya Holiday*|
-|    |Fri 29 May  |[Parametric Modelling]()]|
-|07  |Mon 01 June |[3D Printing]()]|
+|    |Fri 29 May  |[Parametric Modelling]()|
+|07  |Mon 01 June |[3D Printing]()|
 |    |Fri 04 June |[3D Practical Prints]()|
 |    |Mon 08 June |**Mid term break**|
 |    |            |    |
