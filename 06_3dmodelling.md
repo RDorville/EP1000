@@ -7,28 +7,29 @@ By now, you should be familiar with the following in Fusion 360
 
 [![Fusion360_interface](images/0601_f260interface.jpg)](images/0601_f260interface.jpg)
 
-* [Fusion 360 interface](https://productdesignonline.com/fusion-360-tutorials/learn-the-fusion-360-user-interface/)
-    1. Application Bar
-    2. Data Panel
-        * Houses all your design files, Allows creation of new preojects.
-    3. Profile & Help
-        * Allows settings of Preferences
-        * Ensure that you have the Z-axis pointing up
-        * All measurements to be done in mm
-    4. Toolbar
-        * Essential command set in each area that you are working on
-    5. Browser
-        * Lists objects in your design
-        * Creation of object: Object - Component - Sketch
-        * Controls visibility
-    6. ViewCube
-        * Home view
-        * Orientation of object
-    7. Canvas & Marking menu
-    8. Navigation Bar & Display Settings
-    9. Timeline
-        * Shows order of operations
-        * Allows editing and manipulation of features
+[Fusion 360 interface](https://productdesignonline.com/fusion-360-tutorials/learn-the-fusion-360-user-interface/)
+
+1. Application Bar
+2. Data Panel
+    * Houses all your design files, Allows creation of new preojects.
+3. Profile & Help
+    * Allows settings of Preferences
+    * Ensure that you have the Z-axis pointing up
+    * All measurements to be done in mm
+4. Toolbar
+    * Essential command set in each area that you are working on
+5. Browser
+    * Lists objects in your design
+    * Creation of object: Object - Component - Sketch
+    * Controls visibility
+6. ViewCube
+    * Home view
+    * Orientation of object
+7. Canvas & Marking menu
+8. Navigation Bar & Display Settings
+9. Timeline
+    * Shows order of operations
+    * Allows editing and manipulation of features
 
 ### Workflow
 
