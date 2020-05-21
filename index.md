@@ -8,17 +8,25 @@ you will be use a microcontroller to add intelligence to your project.
 
 Here are the summaries for each of the class sessions that we have conducted.  Please refer to these summaries to help you with your work and assignments.  As always if there are any questions, queries or corrections please do not hesitate to contact me for clarification.
 
-|Sn  |**Date**    | **Discussion & Assignment**       |
+|Week  |**Date**    | **Discussion & Assignment**       |
 |:---|:---------- |:----------------------------------|
 |01  |Mon 20 Apr  |[Safety & Tools](01_project_management.md) |
-|02  |Fri 24-Apr  |[Software Tools & HTML](01_project_management.md)|
-|03  |Mon 27 Apr  |[Webpage development](02_documentation_techniques.md)|
-|04  |Mon 04 May  |[Website hosting, Github](025_website_development.md)|
-|05  |Fri 08 May  |[Project Management using git](03_version_control.md)|
-|06  |Mon 11 May  |[Computer Aided Design](04_CAD.md)|
-|07  |Fri 15 May  |[Drawing 3D objects using extrusion](05_Fusion360.md)|
-|08  |Mon 18 May  |[Modelling 3D Objects](06_3dmodelling.md)|
-|09  |Fri 22 May  |3D Printing|
+|    |Fri 24-Apr  |[Software Tools & HTML](01_project_management.md)|
+|02  |Mon 27 Apr  |[Webpage development](02_documentation_techniques.md)|
+|    |Fri 01 May  |*Labor Day Holiday*|
+|03  |Mon 04 May  |[Website hosting, Github](025_website_development.md)|
+|    |Fri 08 May  |[Project Management using git](03_version_control.md)|
+|04  |Mon 11 May  |[Computer Aided Design](04_CAD.md)|
+|    |Fri 15 May  |[Drawing 3D objects using extrusion](05_Fusion360.md)|
+|05  |Mon 18 May  |[Modelling 3D Objects](06_3dmodelling.md)|
+|    |Fri 22 May  |[Fusion 360 Features](07_F360Features.md)|
+|06  |Mon 25 May  |*Hari Raya Holiday*|
+|    |Fri 29 May  |[Parametric Modelling]()]|
+|07  |Mon 01 June |[3D Printing]()]|
+|    |Fri 04 June |[3D Practical Prints]()|
+|    |Mon 08 June |**Mid term break**|
+|    |            |    |
+
 
 &nbsp;
 

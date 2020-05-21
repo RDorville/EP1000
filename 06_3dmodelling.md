@@ -49,6 +49,14 @@ In the creation of any new design, a good workflow plan would be:
 
 &nbsp;
 
+### Tips & Tricks
+
+* [Origin, workplanes](https://youtu.be/Nlvy3rPCRwA) Start your sketch from the origin, it anchors the rest of your sketch to a specific point.  Start watching at 6:00 (he rambles on a lot!)
+* [Constraints](https://youtu.be/_MpL9fPAUG4) - fix your sketchs so that they don't change accidentally
+* [5 tips for getting started](https://youtu.be/ezKZIvzVGRM) - gets you started the proper way
+
+
+
 ### Creating 3D Models
 
 1.  **Extrusion**
@@ -142,6 +150,7 @@ Here is a quick guide:
     * Desktop Makes: [Press Pull vs Extrusion in Fusion 360](https://youtu.be/elQ648fVpwA)
     * Lars Christensen: [How to Model Anything Round](https://youtu.be/zYMf6qncgwc)
     * Mufasa CAD [Fusion 360 How To Loft Object, Point And Rails](https://youtu.be/-Z9ioh2NfwY)
+    * Fusion Essentials [Using the Loft Tool](https://youtu.be/TcbhyPq65dk)
     * Product Design Online: Sculpting for Plastic Parts in Fusion 360
         + [Part 1](https://youtu.be/Vrg6h5h_vWs)
         + [Part 2](https://youtu.be/FIbmiTTEo_8)
@@ -183,7 +192,7 @@ Here is a quick guide:
 Reference: Javascript plugin [JSC3D](https://code.google.com/archive/p/jsc3d/)
 
 1.  Read the reference documents and examples from the Site above.
-2.  Download the repository, extract the following `.jsc3d` files and place in a location with your HTML files (e.g. folder `js`)
+2.  Download the repository, extract the following `.jsc3d` files and place in a location with your HTML files (e.g. folder `jsc3d`)
     * jsc3d.js
     * jsc3d.webgl.js
     * jsc3d.touch.js    
