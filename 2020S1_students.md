@@ -7,30 +7,42 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 **EP1000 Digital Fabrication & Prototyping Fundamentals**    
 **AY2020/2021 Semester 1 Group 1**
 
-|Sn   |Name        | |
-|:-------|:-----------| |
-01 | [MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/) |Many images, little text. Is this a how-to or a photo album<br>You need to document your work, images are not enough |
-02 | [CHUA KEITH](https://keithsp.github.io/Ep1000/) | |
-03 | [MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) |Show how CSS affects HTML files with simple side-by-side example<br>git is weakly documented<br>gimp ok, Fusion - should highlight steps|
-04 | [MASON GOH](https://masongoh.github.io/ep1000/)|images not showing<br>no information yet |
-05 | [TANG KZ](https://tangkenzee.github.io/EP1000) |<br>project management went into github, either keep to html or md<br>you need to be consistent|
-06 | [FELIX NG](https://felixnkw.github.io/EP1000/) |screen capture only relevant areas, use side-by-side display, explanation brief<br>git not documented|
-07 | [LEE CLAIRE](https://sp-claire.github.io/E1000/) |files not linked, probaly have spaces in filename |
-08 | [ZHENG R](https://zhengrq20.github.io/ep1000/) |Not updated with assignments yet|
-09 | [LEONG ELVIS](https://ElvisLeong.github.io/EP1000.)| |
-10 | [EMMANUEL CHENG](https://partixle.github.io/EP1000/) |Great work, should improve on the html/css, others ok |
-11 | [HARIZ ZIKRY](https://harizzikry.github.io/EP1000/) |results there, but no documentation, this is a how-to site! |
-12 | [LEE HENG WEI](https://leehengwei.github.io/EP1000/) |work doen, but no text explanation |
-13 | [DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) |label your week # navigations, need more explanation, do not rely on images |
-14 | [KRYSTAL T](https://krystaltan19.github.io/EP1000/) | |
-15 | [ANG JOELLE](https://jaze7.github.io/EP1000/) | |
-16 | [ANNA YAP](https://annayjl.github.io/EP1000/) | |
-17 | [NUR ARIFAH](https://refrigerated.github.io/EP1000/) | |
-18 | [C AVINASH](https://avi7v.github.io/EP1000/)| |
-19 | [ZACKERY MAK](https://zackerymak.github.io/EP1000/)| |
-20 | [TANG SQ](https://tangshiqing.github.io/EP1000/) | |
+|Sn      |Name                                                     |Site    |Safety  |Web   |Git   |F360    |Comments|
+|:------:|:--------------------------------------------------------|:------:|:-------|:----:|:----:|:------:|:-------|  
+|01      |[MUHAMMAD FADHLI](https://darksnowle.github.io/EP1000/)  |S       |S       |S     |P     |M       |Logos are too big, images too small, either click to enlarge.write how you would use git, not just the commands|
+|02      |[CHUA KEITH](https://keithsp.github.io/Ep1000/)          |U       |I       |I     |M     |M       |Still work in progress, outline is there but no content|
+|03      |[MUHAMMAD FARHAN](https://mfarhan1211.github.io/EP1000/) |S       |S       |I     |S     |S       |Write more on HTML and CSS how do you put a CSS file into your HTML and what does it do.  Explanations very sketcy|
+|04      |[MASON GOH](https://masongoh.github.io/ep1000/)          |i       |M       |M     |M     |M       |Only root page, no other work done, images not linked, lots to do|
+|05      |[TANG KZ](https://tangkenzee.github.io/EP1000)           |I       |M       |M     |M     |M       |Site incomplete, liks missing, no content, no CSS|
+|06      |[FELIX NG](https://felixnkw.github.io/EP1000/)           |S       |S       |S     |I     |I       |Site ok, images are small, cannot see, need more explanations, CAD missing files|
+|07      |[LEE CLAIRE](https://sp-claire.github.io/E1000/)         |S       |M       |M     |M     |M       |Site ok, needs to update all the weeks work.put in a "Page under development" if necessary|
+|08      |[ZHENG R](https://zhengrq20.github.io/ep1000/)           |S       |M       |M     |M     |M       |Site ok, missing the different chapters and pages|
+|09      |[LEONG ELVIS](https://ElvisLeong.github.io/EP1000.)      |M       |M       |M     |M     |M       |Github pages activated?  filenames have spaces, can cause problems|
+|10      |[EMMANUEL CHENG](https://partixle.github.io/EP1000/)     |S       |S       |S     |I     |G       |Need to work on HTML and CSS explanations.  git needs aork, something like your CAD would be good|
+|11      |[HARIZ ZIKRY](https://harizzikry.github.io/EP1000/)      |S       |I       |I     |O     |O       |Need to look at your initial work, the images are too small to see, perhaps click to reach larger images (done in markdown)|
+|12      |[LEE HENG WEI](https://leehengwei.github.io/EP1000/)     |S       |I       |I     |S/I   |O/I     |git and CAD is outstanding but there are is no explanation on the process.  You need to learn how to write out the process|
+|13      |[DANISH ERHAN](https://danish-erhan02.github.io/EP1000/) |S       |P       |S     |S/M   |O/M     |missing the text for the "how-tos".  Good images, but need to write something|
+|14      |[KRYSTAL T](https://krystaltan19.github.io/EP1000/)      |I       |I       |P     |P     |P       |Need to catch up on work.  Your CSS file is not being read so no formating done|
+|15      |[ANG JOELLE](https://jaze7.github.io/EP1000/)            |S       |I       |I     |P     |S/M     |You need to write about your experiences here.  For you, this should not be a problem as you are a COMMs student.  start practicing  now!|
+|16      |[ANNA YAP](https://annayjl.github.io/EP1000/)            |S       |M/I     |M     |I     |P       |A good start, needs more content, you haven't completed the exercises|
+|17      |[NUR ARIFAH](https://refrigerated.github.io/EP1000/)     |S       |S       |M     |M     |M       |A lot of work to do, but you have the Jekyl site up, time to add content|
+|18      |[C AVINASH](https://avi7v.github.io/EP1000/)             |S       |I       |M     |M     |O       |Safety is only slides from ESP, missing Web and git work.  Great video but text explanation needed|
+|19      |[ZACKERY MAK](https://zackerymak.github.io/EP1000/)      |S       |S       |M     |M     |M       |Need to link images in properly, images are there but not showing|
+|20      |[TANG SQ](https://tangshiqing.github.io/EP1000/)         |O       |M       |P     |P     |P       |Outstanding site, content incomplete, missing|
 
-Updated: 11 May 2020
+Key:
+
+> **M** Missing 
+> **U** Need work, not done 
+> **I** Incomplete, needs text  
+> **P** Partially complete, usually needs more explanation instead of images    
+> **S** Satisfactory    
+> **G** Good work, keep it up   
+> **O** Outstanding 
+
+Updated: 21 May 2020
+
+&nbsp;
 
 ## FAQ
 
