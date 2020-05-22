@@ -65,7 +65,7 @@ Once the object is created, we can then apply the **Modification** commands to c
 
 ## Essential Tutorial
 
-[![Laptop Stand](images/0703_laptopstand.png)](images/laptopstand.png)
+![Laptop Stand](images/0703_laptopstand.png "Laptop Stand")
 
 The tutorial covers:
 
@@ -86,15 +86,15 @@ Sometimes you might want a mechanical drawing of your design so that others may 
 
 **Optional Topics**
 
-[![Arduino Case](images/0705_arduinocase.png)](0705_arduinocase.png)
+![Arduino Case](images/0705_arduinocase.png "Arduino Case for 3D Printing")
 
 * Another good tutorial: Taylor Stein - Autodesk Fusion 360 [Designing a 3D Printed Enclosure for Arduino Uno](https://youtu.be/E0bhdr84FNU) - only watch if you have time.
 
-[![Hinge Joint](images/0706_hinge.png)](0706_hinge.png)
+![Hinge Joint](images/0706_hinge.png "Simulating a Hinge Joint")
 
 * Assemblies and Joints: Justin Geis - The Fusion Essentials [Creating MOVING HINGE JOINTS in Autodesk Fusion 360 with the Revolute Joint](https://youtu.be/gGgmA1WZESs) - a simple tutorial to make and simulate a door hinge.
 
-[![Assemblies & Joints](images/0704_assemblevise.png)](images/0704_assemblevise.png)
+![Assemblies & Joints](images/0704_assemblevise.png "Assmbly of a Vise")
 
 * [How to get a handle on Assembly and Joints in Fusion](https://youtu.be/KQNgIfjMr84) if you get a little crazy over assembly and joints.  All parts are provided, all you have to do is to assemble them.  Follow Lars Christensen on an afternoon of fun and amazement!
 * The parts are downloaded from the following locations:
@@ -124,7 +124,10 @@ Here is a quick guide:
 
 **Laptop Stand**
 
-1.  Watch and follow the video tutorial by Taylor Stein - Autodesk Fusion 360 [Designing a 3D Printed Enclosure for Arduino Uno](https://youtu.be/E0bhdr84FNU)
+1.  Watch and follow the video tutorial by Taylor Stein - Autodesk Fusion 360 [Designing a Lasercut Laptop Stand with Fusion 360](https://youtu.be/7riGolu7BpA).  I would suggest:
+    *  Sketching on paper as he works on Fusion 360
+    *  Taking short notes (this could become your weblog-howto)
+    *  Using a separate device to play the video while you work on Fusion
 2.  You need to create your own Fusion 360 design from scratch following the instructions in the tutorial.  Make the following changes to the design:
     *  Use a thickness of 3mm for the wood (which should be parametric)
     *  Put your name on the base or side, you should be able to engrave or create a 3D printed logo for the stand.
