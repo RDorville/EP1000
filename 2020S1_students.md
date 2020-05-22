@@ -28,7 +28,7 @@ If you update your site URL, please enter the new URL in [Google Sheet Group 1](
 |17      |[NUR ARIFAH](https://refrigerated.github.io/EP1000/)     |S       |S       |M     |M     |M       |A lot of work to do, but you have the Jekyl site up, time to add content|
 |18      |[C AVINASH](https://avi7v.github.io/EP1000/)             |S       |I       |M     |M     |O       |Safety is only slides from ESP, missing Web and git work.  Great video but text explanation needed|
 |19      |[ZACKERY MAK](https://zackerymak.github.io/EP1000/)      |S       |S       |M     |M     |M       |Need to link images in properly, images are there but not showing|
-|20      |[TANG SQ](https://tangshiqing.github.io/EP1000/)         |O       |M       |P     |P     |P       |Outstanding site, content incomplete, missing|
+|20      |[TANG SQ](https://tangshiqing.github.io/EP1000/)         |O       |S       |I     |M     |I       |Outstanding site, added content, but still missing explanations, git is minimal, so are explanations for CAD.  Use Left alignment for text |
 
 Key:
 
