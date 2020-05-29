@@ -171,7 +171,7 @@ You can also embed it into the HTML or Markdown file using the following code:
 ```
 
 <iframe src="06_STLmodel.html"
-    width="800" height="600"
+    width="800" height="1024"
     allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"
 >
 </iframe>
