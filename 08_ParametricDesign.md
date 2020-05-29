@@ -88,4 +88,17 @@ Here is a quick guide:
 
 &nbsp;
 
+### Preparation for next class
+
+Please prepare for the next class (on 3D printing) by completing the following:
+
+1.  Download and install [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)    
+    Cura is a slicer program for 3D printers.  It takes a 3D model (from Fusion 360 or other sources) and slices (prepares) it for printing.  We will look into the parameters that you need to apply to get a successful 3D print.
+2.  Take a quick look-see at the following object repositories:
+    *  [Autodesk Knowledge Network](https://autode.sk/3e79HXK)    
+        Millions of contributions from Autodesk and its community.  Since your work is in the cloud, it is also shared there.  Great ideas
+    *  [Thingiverse](https://www.thingiverse.com/)    
+        Lots and lots of objects created for 3D printing.  Good place to start when you want something to print.
+
+
 **May 2020**
