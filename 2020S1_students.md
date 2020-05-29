@@ -92,6 +92,72 @@ Updated: 21 May 2020
 * &amp;nbsp; is HTML for non-breaking space.  That is, don't split the line here if you have to.  Two words that have a &nbsp; between them will not split across two lines.
 * I use it to generate blank lines for spacing.
 
+
+<a name="faq009"></a>**FAQ 009** How to embed a Fusion 360 file in your web page?
+
+*  Please follow this how-to: Fusion 360 [How to embed a viewer of a Fusion 360 design into a website](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-embed-a-viewer-of-a-Fusion-360-design-into-a-website.html)
+
+*Example*
+
+<iframe src="https://myhub.autodesk360.com/ue2dff438/shares/public/SH56a43QTfd62c1cd968a8254af243cf0912?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+&nbsp;
+
+<a name="faq010"></a>**FAQ 010**  How-to display a 3D Model (.STL) in a HTML file
+
+* Use Javascript plugins: [JSC3D](https://code.google.com/archive/p/jsc3d/)
+    1.  Read the reference documents and examples from the Site above.
+    2.  Download the repository, extract the following `.jsc3d` files and place in a location with your HTML files (e.g. folder `jsc3d`)
+        - jsc3d.js
+        - jsc3d.webgl.js
+        - jsc3d.touch.js    
+        You need to load these files in with your HTML.
+    3.  Load the JavaScript plugin code in the header area
+
+        ```html
+        <head>
+            <script type="text/javascript" src="jsc3d/jsc3d.js"></script>
+            <script type="text/javascript" src="jsc3d/jsc3d.webgl.js"></script>
+            <script type="text/javascript" src="jsc3d/jsc3d.touch.js"></script>
+        </head>
+        ```
+
+    4.  Use the following code to load the STL file and display it:
+
+        ```html
+        <canvas id="cv" width=640 height=480>
+            It seems you are using an outdated browser that does not support canvas :-(
+        </canvas>
+        <script type="text/javascript">
+            var canvas = document.getElementById('cv');
+            var viewer = new JSC3D.Viewer(canvas);
+            viewer.setParameter('SceneUrl','knight.stl');
+            viewer.setParameter('ModelColor','#CAA618');
+            viewer.setParameter('BackgroundColor1','#E5D7BA');
+            viewer.setParameter('BackgroundColor2','#383840');
+            viewer.setParameter('RenderMode','flat');
+            viewer.setParameter('MipMapping','on');
+            viewer.setParameter('Definition','high');
+            viewer.setParameter('Renderer','webgl');
+            viewer.init();
+            viewer.update();
+        </script>
+        ```
+
+    5.  Change this line to point to your .STL file
+
+        ```html
+
+         viewer.setParameter('SceneUrl','knight.stl');
+
+        ```
+
+Example: [3D model of a Knight Chess Piece](06_STLmodel.html)
+
+
+
+
+
 &nbsp; 
 
 [Blank Classlist](blank_classlist2020.md)

@@ -187,6 +187,16 @@ Here is a quick guide:
 
 &nbsp;
 
+### How to embed a Fusion 360 file in your web page
+
+Reference: Fusion 360 [How to embed a viewer of a Fusion 360 design into a website](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-embed-a-viewer-of-a-Fusion-360-design-into-a-website.html)
+
+*Example*
+
+<iframe src="https://myhub.autodesk360.com/ue2dff438/shares/public/SH56a43QTfd62c1cd968a8254af243cf0912?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+&nbsp;
+
 ### How-to display a 3D Model (.STL) in a HTML file
 
 Reference: Javascript plugin [JSC3D](https://code.google.com/archive/p/jsc3d/)
