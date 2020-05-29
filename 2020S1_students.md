@@ -97,7 +97,13 @@ Updated: 21 May 2020
 
 *  Please follow this how-to: Fusion 360 [How to embed a viewer of a Fusion 360 design into a website](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-embed-a-viewer-of-a-Fusion-360-design-into-a-website.html)
 
-*Example*
+**Example**
+
+The code from the Autodesk site is placed directly in the Markdown file.  The code sample is reproduced below.  You may need to wait a bit before the image shows.
+
+```html
+<iframe src="https://myhub.autodesk360.com/ue2dff438/shares/public/SH56a43QTfd62c1cd968a8254af243cf0912?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+```
 
 <iframe src="https://myhub.autodesk360.com/ue2dff438/shares/public/SH56a43QTfd62c1cd968a8254af243cf0912?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -152,9 +158,23 @@ Updated: 21 May 2020
 
         ```
 
-Example: [3D model of a Knight Chess Piece](06_STLmodel.html)
+**Example:** [3D model of a Knight Chess Piece](06_STLmodel.html)
 
+You can also embed it into the HTML or Markdown file using the following code:
 
+```html
+<iframe src="06_STLmodel.html"
+    width="800" height="600"
+    allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"
+>
+</iframe>
+```
+
+<iframe src="06_STLmodel.html"
+    width="800" height="600"
+    allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"
+>
+</iframe>
 
 
 
