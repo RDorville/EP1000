@@ -94,7 +94,7 @@ References:
 
 <table>
     <tr>
-        <td>**Extruder Characteristics**</td>
+        <td><b>Extruder Characteristics</b></td>
         <td></td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@ References:
             <ul><li>The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.</li><li>Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**</li><li>The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.</li><li>Some 3D printers can have more than one nozzle, allowing for different colors or material.</li></ul>
         </td>
         <td>
-            <img src="images/0907_extruder.png" alt="Extruder">
+            <img src="images/0907_extruder.png" alt="Extruder" width="300px">
         </td>
     </tr>
 </table>
