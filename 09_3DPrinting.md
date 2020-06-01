@@ -34,7 +34,7 @@ References:
 
 |Printer| Ultimaker 2+ | Cubicon Style 3DP-2105 |MBot 3D Grid 4 |
 |:------|:-------------|:-----------------------|:--------------------------|
-   | ![Ultimaker 2+](images/0902a_ultimaker2+.png)   | ![Cubicon Style ](  images/0902b_cubiconstyle.png| ![MBot 3D Grid 4](images/0902c_Mbot3DGrid4.png)|
+|   | ![Ultimaker 2+](images/0902a_ultimaker2+.png)   | ![Cubicon Style ](images/0902b_cubiconstyle.png| ![MBot 3D Grid 4](images/0902c_Mbot3DGrid4.png)|
 |Object Size |210x210x205 mm |150x150x150 mm |235x210x190 mm|
 |Filament Diameter| 2.85mm | 1.75mm | 1.75mm |
 |Type |Open filament | Open Filament | Open Filament |
@@ -90,15 +90,15 @@ References:
 
 |**Extruder Characteristics**|![blank](images/blank.png)|
 |:-------------------------|:--------------------------|
-|<ul><li>The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.</li><li>Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**</li><li>The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.</li><li>Some 3D printers can have more than one nozzle, allowing for different colors or material.</li></ul>|![Extruder](images/0907_extruder.png) |
+| <ul><li>The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.</li><li>Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**</li><li>The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.</li><li>Some 3D printers can have more than one nozzle, allowing for different colors or material.</li></ul>|![Extruder](images/0907_extruder.png) |
 
 |**Layer Height**||
 |:-------------------------|--------------------------:|
-|<ul><li>The height of each printed layer of the 3D print</li><li>Thinner layers give finer prints</li><li>3D prints with thinner layers take longer to print</li><li>Ranges from 0.1~0.4mm for a 0.4 nozzle (typical 0.2mm)</li><li>Affects resolution, speed and smoothness of print</li></ul> | ![Layer height](images/0908_layerHeight.png) |
+| <ul><li>The height of each printed layer of the 3D print</li><li>Thinner layers give finer prints</li><li>3D prints with thinner layers take longer to print</li><li>Ranges from 0.1~0.4mm for a 0.4 nozzle (typical 0.2mm)</li><li>Affects resolution, speed and smoothness of print</li></ul> | ![Layer height](images/0908_layerHeight.png) |
 
 |**Wall Thickness**||
 |:-------------------------|--------------------------:|
-|<ul><li>Controls the number of strands required for the thickness of the wall</li><li>if the Layer Height=0.2mm, then a wall thickness of 1mm will require 5 strands laid side-by-side</li><li>affects print time and strength of print</li> <li>Typical wall thickness is min 0.8mm</li></ul>|![Wall Thickness](images/0909_wallThickness.png)|
+| <ul><li>Controls the number of strands required for the thickness of the wall</li><li>if the Layer Height=0.2mm, then a wall thickness of 1mm will require 5 strands laid side-by-side</li><li>affects print time and strength of print</li> <li>Typical wall thickness is min 0.8mm</li></ul>|![Wall Thickness](images/0909_wallThickness.png)|
 
 |**Infill Percentages**| |
 |:-------------------------|--------------------------:|
