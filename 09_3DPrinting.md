@@ -34,7 +34,7 @@ References:
 
 |Printer| Ultimaker 2+ | Cubicon Style 3DP-2105 |MBot 3D Grid 4 |
 |:------|:-------------|:-----------------------|:--------------------------|
-|   | ![Ultimaker 2+](images/0902a_ultimaker2+.png)   | ![Cubicon Style ](images/0902b_cubiconstyle.png| ![MBot 3D Grid 4](images/0902c_Mbot3DGrid4.png)|
+|   | ![Ultimaker 2+](images/0902a_ultimaker2+.png)   | ![Cubicon Style ](images/0902b_cubiconstyle.png)| ![MBot 3D Grid 4](images/0902c_Mbot3DGrid4.png)|
 |Object Size |210x210x205 mm |150x150x150 mm |235x210x190 mm|
 |Filament Diameter| 2.85mm | 1.75mm | 1.75mm |
 |Type |Open filament | Open Filament | Open Filament |
