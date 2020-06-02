@@ -68,9 +68,9 @@ References:
 
 * The following diagram shows the different parts of a FFF 3D Printer.  The printers may come in different shapes and sizes, however, the parts and principles remain the same.
 
-|3D Printed Parts  |![blank](images/blank.png) |
-|:-------------------------:|:------:|
-| [![3D Printer Parts](images/0905_3dprinterparts.jpg)](images/0905_3dprinterparts.jpg) | &nbsp; |
+|3D Printer Parts  |
+|:-------------------------:|
+| [![3D Printer Parts](images/0905_3dprinterparts.jpg)](images/0905_3dprinterparts.jpg) |
 
 * The important parts for you to note are:
     * the **Hot End** of the extruder.  Temperatures at the hot-end can reach in excess of 180 degC, you could easily burn your fingers
@@ -91,7 +91,7 @@ References:
 
 * Since we are using Fusion 360, how do we convert our 3D model into a STL file ?
 
-|<img scr="images/blank.png" width="450px"></img>| Method   |
+|<img scr="images/blank.png" width="50%">| Method   |
 |:-------------------------|:---------|
 |![Fusion 360 Save as STL](images/0906a_FusionSTL.png) | Direct saving as STL<br>*  Object Browser > Select Object > R-click > Save as STL<br>*  Select Folder and Name |
 |![Make 3D Print](images/0906b_FusionMake3D.png) | Tools > Make > 3D Print |
