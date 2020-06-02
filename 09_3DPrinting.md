@@ -43,7 +43,9 @@ References:
 
 * Although the 3D printers can handle a variety of filaments (PLA, ABS etc) the Fablab@SP uses only PLA based filament for easy printing and access.  Please remember this in your preparation for 3D printing.
 * All three printers can use a common slicer for the preparation of 3D printing jobs - [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
-* A common question asked by all, is which printer should I purchase, if I would want one, here are my personal choices:- [Prusa Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) (if you had the money)- [Creality 3D Ender 3 Pro](https://creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer) (if you don't)
+* A common question asked by all, is which printer should I purchase, if I would want one, here are my personal choices:
+   * [Prusa Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) (if you had the money)
+   * [Creality 3D Ender 3 Pro](https://creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer) (if you don't)
 
 ### The 3D Printing Process
 
@@ -51,7 +53,8 @@ References:
 
 * The 3D printing process can be broken down as follows:
     * Creating a usable 3D design- Converting the design into a 3D representable file (.STL)
-    * Slicing the 3D representable file into layers- Converting the layers into instructions for the 3D printer (gcode)
+    * Slicing the 3D representable file into layers
+    * Converting the layers into instructions for the 3D printer (gcode)
     * The 3D printer creates the 3D object.
 * There are many types of 3D printers, the list below shows the more common types that you will encounter:
     * FFF (Fused Filament Fabrication) where a filament is heated/fused and deposited a layer at a time.
@@ -90,9 +93,9 @@ References:
 
 |<img scr="images/blank.png" width="450px"></img>| Method   |
 |:-------------------------|:---------|
-|![Fusion 360 Save as STL](images/0906a_FusionSTL.png) | Direct saving as STL<br>-  Object Browser > Select Object > R-click > Save as STL<br>-  Select Folder and Name |
+|![Fusion 360 Save as STL](images/0906a_FusionSTL.png) | Direct saving as STL<br>*  Object Browser > Select Object > R-click > Save as STL<br>*  Select Folder and Name |
 |![Make 3D Print](images/0906b_FusionMake3D.png) | Tools > Make > 3D Print |
-|![3D Print Menu](images/0906c_Fusion3Dprint.png) | 3D Print Menu<br>-  Select Object<br>-  Preview Mesh : Yes<br>-  Refinement : Medium<br>-  Output > Send to 3d Print Utility : No<br><br>Output will be saved as an STL file.|
+|![3D Print Menu](images/0906c_Fusion3Dprint.png) | 3D Print Menu<br>*  Select Object<br>*  Preview Mesh : Yes<br>*  Refinement : Medium<br>*  Output > Send to 3d Print Utility : No<br><br>Output will be saved as an STL file.|
 
 * We are now ready to slice our STL file.
     * Slicing cuts the object into layers
@@ -114,7 +117,10 @@ References:
 *  Here are some of the common characteristics that you can tweak
     * Layer height (extruded filament thickness)
     * Wall thickness-  Infill percentages
-    * Bridging and overhangs-  Supports-  Bed adhesion-  Object oreintation
+    * Bridging and overhangs
+    * Supports
+    * Bed adhesion
+    * Object oreintation
 
 
 |**Extruder Characteristics**|![blank](images/blank.png)|
