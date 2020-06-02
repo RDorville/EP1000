@@ -17,7 +17,7 @@ The foremost advantage of 3D printing is the creation of prototypes.  In any des
 
 References:
 
-1)  [DFab Notes on 3D Printing](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/05-3dprint.html) on <github.com>
+1)  [DFab Notes on 3D Printing](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/05-3dprint.html) on (github.com)
 2)  [Fablab Teaching Notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1826847_1&course_id=_51997_1) for 3D Printing can be found at ESP: [My Community > Fablab@SP > Fab Lab Skill-set Training > 3D printers](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1826847_1&course_id=_51997_1)
 
 ## A Brief Look at 3D Printing
