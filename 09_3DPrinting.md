@@ -24,7 +24,9 @@ References:
 
 ### What can be 3D Printed
 
-* Almost anything or an object that you can imaging:- If you can draw it or model it, you can most surely 3D print it (so that's why we learnt Fusion 360!).- Also, items that are not normally created using using [subtractive manufacturing](https://en.wikipedia.org/wiki/Machining), can be 3D printed (more about this later)
+* Almost anything or an object that you can imaging:
+    * If you can draw it or model it, you can most surely 3D print it (so that's why we learnt Fusion 360!).
+    * Also, items that are not normally created using using [subtractive manufacturing](https://en.wikipedia.org/wiki/Machining), can be 3D printed (more about this later)
 
 ![3D Printed Objects](images/0901_3dprintedobjects.png)
 
@@ -47,9 +49,17 @@ References:
 
 ![IBM: 3D Printing Process (2014)](images/0903_3dprintingprocess.jpg)
 
-* The 3D printing process can be broken down as follows:- Creating a usable 3D design- Converting the design into a 3D representable file (.STL)- Slicing the 3D representable file into layers- Converting the layers into instructions for the 3D printer (gcode)- The 3D printer creates the 3D object.
-* There are many types of 3D printers, the list below shows the more common types that you will encounter:- FFF (Fused Filament Fabrication) where a filament is heated/fused and deposited a layer at a time.- [SLA (Stereolithography)](https://en.wikipedia.org/wiki/Stereolithography) uses a photochemical process which places a chemical/resin and uses a light source to harden each layer.- [SLS (Selective Layer Sintering)](https://en.wikipedia.org/wiki/Selective_laser_sintering) is a technique that uses a laser as a power source to sinter/fuse powdered material at points to create a solid structure.
-* As we are mainly using FFF, you will encounter two types of FFF printers- Cartesian (using X-Y-Z), and- Delta (using polar-Z)- In both cases, the printer head is in the Z-axis
+* The 3D printing process can be broken down as follows:
+    * Creating a usable 3D design- Converting the design into a 3D representable file (.STL)
+    * Slicing the 3D representable file into layers- Converting the layers into instructions for the 3D printer (gcode)
+    * The 3D printer creates the 3D object.
+* There are many types of 3D printers, the list below shows the more common types that you will encounter:
+    * FFF (Fused Filament Fabrication) where a filament is heated/fused and deposited a layer at a time.
+    * [SLA (Stereolithography)](https://en.wikipedia.org/wiki/Stereolithography) uses a photochemical process which places a chemical/resin and uses a light source to harden each layer.
+    * [SLS (Selective Layer Sintering)](https://en.wikipedia.org/wiki/Selective_laser_sintering) is a technique that uses a laser as a power source to sinter/fuse powdered material at points to create a solid structure.
+* As we are mainly using FFF, you will encounter two types of FFF printers
+    * Cartesian (using X-Y-Z), and- Delta (using polar-Z)
+    * In both cases, the printer head is in the Z-axis
 
 ![Types of FFF Printers](images/0904_FFFmethods.png)s
 
@@ -59,13 +69,23 @@ References:
 |:-------------------------:|:------:|
 | [![3D Printer Parts](images/0905_3dprinterparts.jpg)](images/0905_3dprinterparts.jpg) | &nbsp; |
 
-* The important parts for you to note are:*- the **Hot End** of the extruder.  Temperatures at the hot-end can reach in excess of 180 degC, you could easily burn your fingers- the **print bed** of our printers are heated to 60 degC in order for the fused filament to adhere.  You have to be extra careful with the bed, not because it can burn your fingers.  If there is slight mis-alignment of the print bed, the print job will fail.  It is essential that the print bed is as level as possible.- the **filament** is kept in a spool at the side/back of the printer, ensure that the feed is constant and free of obstruction.
+* The important parts for you to note are:
+    * the **Hot End** of the extruder.  Temperatures at the hot-end can reach in excess of 180 degC, you could easily burn your fingers
+    * the **print bed** of our printers are heated to 60 degC in order for the fused filament to adhere.  You have to be extra careful with the bed, not because it can burn your fingers.  If there is slight mis-alignment of the print bed, the print job will fail.  It is essential that the print bed is as level as possible.
+    * the **filament** is kept in a spool at the side/back of the printer, ensure that the feed is constant and free of obstruction.
 
 ### The 3D Printing Process
 
 * The 3D Printing Process is a **Digital Fabrication** process.  We start with a digital design and convert it to a format which the 3D printer can implement.
-* The digital process begins with a design of a 3D model, which can be obtained by- Designing with CAD software (e.g. Fusion 360, SketchUp, Rhino)- Curated from archives (e.g. [Thingiverse](https://www.thingiverse.com/), [My Minifactory](https://www.thingiverse.com/) or other libraries)
-* In using CAD, we develop a 3D model in the application of choice, we need to find a common technique of representing this model.  The two common methods are- STL (Standard Tesselaltion Language)- OBJ - Other methods (Ref: All3DP: [3D File Formats](https://all3dp.com/3d-file-format-3d-files-3d-printer-3d-cad-vrml-stl-obj/))
+
+* The digital process begins with a design of a 3D model, which can be obtained by
+    * Designing with CAD software (e.g. Fusion 360, SketchUp, Rhino)
+    * Curated from archives (e.g. [Thingiverse](https://www.thingiverse.com/), [My Minifactory](https://www.thingiverse.com/) or other libraries)
+* In using CAD, we develop a 3D model in the application of choice, we need to find a common technique of representing this model.  The two common methods are
+    * STL (Standard Tesselaltion Language)
+    * OBJ 
+    * Other methods (Ref: All3DP: [3D File Formats](https://all3dp.com/3d-file-format-3d-files-3d-printer-3d-cad-vrml-stl-obj/))
+
 * Since we are using Fusion 360, how do we convert our 3D model into a STL file ?
 
 |<img scr="images/blank.png" width="450px"></img>| Method   |
@@ -74,9 +94,14 @@ References:
 |![Make 3D Print](images/0906b_FusionMake3D.png) | Tools > Make > 3D Print |
 |![3D Print Menu](images/0906c_Fusion3Dprint.png) | 3D Print Menu<br>-  Select Object<br>-  Preview Mesh : Yes<br>-  Refinement : Medium<br>-  Output > Send to 3d Print Utility : No<br><br>Output will be saved as an STL file.|
 
-* We are now ready to slice our STL file.*  Slicing cuts the object into layers*  Each layer is a printable level in the X-Y coordinates*  The 3D Printer head moves up one layer at-a-time in the Z-axis
+* We are now ready to slice our STL file.
+    * Slicing cuts the object into layers
+    * Each layer is a printable level in the X-Y coordinates
+    * The 3D Printer head moves up one layer at-a-time in the Z-axis
 
-* The software we will use is [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) which can be applied to all 3 printers in the Fablab.  There are other slicer software available as well, sometimes proprietory to a particular brand of printer- Simplify 3D- Makerbot Print- MBot 3D- [Others - All3DP](https://all3dp.com/1/best-3d-slicer-software-3d-printer/)
+* The software we will use is [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) which can be applied to all 3 printers in the Fablab.  There are other slicer software available as well, sometimes proprietory to a particular brand of printer
+    * Simplify 3D- Makerbot Print- MBot 3D
+    * [Others - All3DP](https://all3dp.com/1/best-3d-slicer-software-3d-printer/)
 
 *  The main job of the slicer software is to*  convert the STL file into layers,*  determine the print characteristic of each layer*  convert the print characteristics of the layer into a language understanable by the 3D Printer (usually gcode)
 
@@ -86,29 +111,15 @@ References:
 
 *  Before we can start using the slicer software, we need to understand some of the characteristics of our 3D printer.  These characteristics help in the tuning of the software parameters, allowing us to have* finer prints* faster prints* stronger prints
 
-*  Here are some of the common characteristics that you can tweak-  Layer height (extruded filament thickness)-  Wall thickness-  Infill percentages-  Bridging and overhangs-  Supports-  Bed adhesion-  Object oreintation
+*  Here are some of the common characteristics that you can tweak
+    * Layer height (extruded filament thickness)
+    * Wall thickness-  Infill percentages
+    * Bridging and overhangs-  Supports-  Bed adhesion-  Object oreintation
+
 
 |**Extruder Characteristics**|![blank](images/blank.png)|
 |:-------------------------|:--------------------------|
 | <ul><li>The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.</li><li>Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**</li><li>The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.</li><li>Some 3D printers can have more than one nozzle, allowing for different colors or material.</li></ul>|![Extruder](images/0907_extruder.png) |
-
-<table>
-    <tr>
-        <td><b>Extruder Characteristics</b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            <ul>  <li>The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.</li><li>Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**</li><li>The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.</li><li>Some 3D printers can have more than one nozzle, allowing for different colors or material.</li>  </ul>
-        </td>
-        <td>
-            <img src="images/0907_extruder.png" alt="Extruder" width="500px">
-        </td>
-    </tr>
-</table>
-
-
-
 
 
 |**Layer Height**||
@@ -165,22 +176,22 @@ Here is a quick guide:
 1.  Search YouTube using the keywords "Cura", "beginner", "tutorial" and watch an introduction to using the Ultimaker Cura Slicer program.
 2.  Select, as your printer, Ultimaker 2+ with a nozzle size of 0.4mm.  You will be using PLA filament.
 3.  Simulate a 3D print:
-    - Use your Fusion 360 knight model.
-    - Make sure the dimensions are no larger than 50x30x10mm (Height, base-radius, thickness).
-    - Play with the parameters shown above (using Cura)
-    - Simulate a 3D print using Cura
+    * Use your Fusion 360 knight model.
+    * Make sure the dimensions are no larger than 50x30x10mm (Height, base-radius, thickness).
+    * Play with the parameters shown above (using Cura)
+    * Simulate a 3D print using Cura
 4.  Create a table with at least 3 different settings comparing the print of the knight using changes in the following parameters
-    - Wall thickness (typical 1mm)
-    - Layer height (typical 0.2mm)
-    - Infill (typical 15%)
-    - Supports
-    - Bed adhesion
+    * Wall thickness (typical 1mm)
+    * Layer height (typical 0.2mm)
+    * Infill (typical 15%)
+    * Supports
+    * Bed adhesion
 5.  Determine the approximate print times and amount of filament for each of the settings, include them in your table above.
 6.  If you are given only 30 min to print your knight, how will you slice it?  Document the process and create the print file.  Include this in your documentation.
 
 **Note**
 
-1.  You will be given an oppurtunity to print your Knight piece, so please try to complete this assignment before 16th June.
+You will be given an oppurtunity to print your Knight piece, so please try to complete this assignment before 16th June.
 
 &nbsp;
 
