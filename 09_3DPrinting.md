@@ -139,26 +139,51 @@ References:
     * Bed adhesion
     * Object oreintation
 
+The Extruder module
+
 <section class="info"><a href="images/0907_extruder.png">
  <figure class="infoimg">
  <img class="w320" src="images/0907_extruder.png" alt="Extruder module" />
  <figcaption>Extruder module</figcaption>
  </figure></a>
 <div  class="infotext" markdown="1">
- **Extruder Module**
- * The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.
- * Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**.
- * The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.
- * Some 3D printers can have more than one nozzle, allowing for different colors or material.
+**Extruder Module**
+
+* The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.
+* Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**.
+* The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.
+* Some 3D printers can have more than one nozzle, allowing for different colors or material.
+
  </div>
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
 
 There should be 1 section only above.
 
+<!--
 |**Layer Height**||
 |:-------------------------|--------------------------:|
 | <ul><li>The height of each printed layer of the 3D print</li><li>Thinner layers give finer prints</li><li>3D prints with thinner layers take longer to print</li><li>Ranges from 0.1~0.4mm for a 0.4 nozzle (typical 0.2mm)</li><li>Affects resolution, speed and smoothness of print</li></ul> | ![Layer height](images/0908_layerHeight.png) |
+-->
+
+<section class="info"><a href="images/0908_layerHeight.png">
+ <figure class="infoimg">
+ <img class="w200" src="images/0908_layerHeight.png" alt="Layer Height" />
+ <figcaption>Layer Height</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Layer height**
+
+* The height of each printed layer of the 3D print
+* Thinner layers give finer prints
+* 3D prints with thinner layers take longer to print
+* Ranges from 0.1~0.4mm for a 0.4 nozzle (typical 0.2mm)
+* Affects resolution, speed and smoothness of print
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+
 
 |**Wall Thickness**||
 |:-------------------------|--------------------------:|
