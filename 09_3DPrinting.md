@@ -64,7 +64,8 @@ References:
     * [SLA (Stereolithography)](https://en.wikipedia.org/wiki/Stereolithography) uses a photochemical process which places a chemical/resin and uses a light source to harden each layer.
     * [SLS (Selective Layer Sintering)](https://en.wikipedia.org/wiki/Selective_laser_sintering) is a technique that uses a laser as a power source to sinter/fuse powdered material at points to create a solid structure.
 * As we are mainly using FFF, you will encounter two types of FFF printers
-    * Cartesian (using X-Y-Z), and- Delta (using polar-Z)
+    * Cartesian (using X-Y-Z), and
+    * Delta (using polar-Z)
     * In both cases, the printer head is in the Z-axis
 
 ![Types of FFF Printers](images/0904_FFFmethods.png)s

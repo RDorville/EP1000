@@ -1,17 +1,29 @@
+<link rel="stylesheet" type="text/css" href="imagestyle.css" />
+
 ## Sandbox
 
 A place for you to test and try your work before adding it to the site.  It is only accessible using \<repo\>/sandbox.html
 
 
-View Fusion 360 design - [Simplebox](https://a360.co/2XD07pe)
+With a image of 200px
 
-Fusion 360 [How to embed a viewer of a Fusion 360 design into a website(https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-embed-a-viewer-of-a-Fusion-360-design-into-a-website.html)
+<section class="info"><a href="images/0907_extruder.png">
+ <figure class="infoimg">
+ <img class="w200" src="images/0907_extruder.png" alt="Extruder Module" />
+ <figcaption>Extruder Module</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+ <p><b>Instructions</b></p>
+ This is another list item
+ * Item 1
+ * Item 2
+ * Item 3
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+&nbsp;
 
 
-<iframe src="https://rdorville.github.io/EP1000/06_STLmodel.html"
-    width="800" height="600"
-    allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"
->
-</iframe>
-
+**June 2020**
 
