@@ -225,27 +225,120 @@ References:
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
 
-
+<!--
 |**Bridging**|![blank](images/blank.png)|
 |:-------------------------|--------------------------:|
 | <ul><li>Refers to the prints between 2 points that have no connection to each other</li><li>Normally, a 3D printer first prints the base layer, on which it builds up layer by layer. In contrast, there is no base layer between two points when bridging.</li><li>Consequently, printing must be done in the air so that the gap can be bridged.</li><li>There is a limit before the print fails and sagging strands appear</li><li>You need to test for the maximum distance for each printer</li><li>Affects the quality of the print</li></ul> | ![Bridging effects](images/0911_bridging.jpg) |
+-->
 
+<section class="info"><a href="images/0911_bridging.jpg">
+ <figure class="infoimg">
+ <img class="w320" src="images/0911_bridging.jpg" alt="Bridging" />
+ <figcaption>Bridging</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Bridging**
+*  Refers to the prints between 2 points that have no connection to each other</li><li>Normally, a 3D printer first prints the base layer, on which it builds up layer by layer. In contrast, there is no base layer between two points when bridging.
+*  Consequently, printing must be done in the air so that the gap can be bridged.
+*  There is a limit before the print fails and sagging strands appear
+*  You need to test for the maximum distance for each printer
+*  Affects the quality of the print.
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+
+<!--
 |**Overhang**|![blank](images/blank.png)|
 |:-------------------------|--------------------------:|
 | <ul><li>3D printers cannot print in "air"</li><li>There is a limit where there is insufficient support to handle the print</li><li>Most printers can handle an overhang of 45 deg</li><li>Perform a test print to determine your printer's limits</li></ul>| ![Overhang test](images/0912_overhang.png)|
+-->
 
+<section class="info"><a href="images/0912_overhang.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0912_overhang.png" alt="Overhang Limits" />
+ <figcaption>Overhang Limits</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Overhang Limits**
+* 3D printers cannot print in "air"
+* There is a limit where there is insufficient support to handle the print
+* Most printers can handle an overhang of 45 deg
+* Perform a test print to determine your printer's limits (You can find examples in Thingiverse!)
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+<!--
 |**Platform Adhesion**|![blank](images/blank.png)|
 |:-------------------------|--------------------------:|
 | <ul><li>The print bed is usually heated to improve adhesion</li><li>Sometimes, the print object requires help in adhering to the print bed</li><li>Skirts are used to provide an outline - no adhesion</li><li>Brims allow some adhesion to the print perimeter</li><li>Rafts are full platforms on which the 3D print is placed</li></ul>| ![Platform Adhesion](images/0913_platformAdhesion.png)|
+-->
 
+<section class="info"><a href="images/0913_platformAdhesion.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0913_platformAdhesion.png" alt="Platform Adhesion" />
+ <figcaption>Platform Adhesion</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Platform Adhesion**
+* The print bed is usually heated to improve adhesion
+* Sometimes, the print object requires help in adhering to the print bed
+* Skirts are used to provide an outline - no adhesion
+* Brims allow some adhesion to the print perimeter
+* Rafts are full platforms on which the 3D print is placed.  Print adhesion is onto the raft instead of the bed.
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+<!--
 |**Supports**||
 |:-------------------------|--------------------------:|
 | <ul><li>Supports are used to aid in printing overhangs</li><li>Supports make impossible prints possible</li><li>Supports are removed after the print is complete</li><li>Supports add to the print time as well as the touch-up and finishing time to the model</li><li>Orientation of the model helps in the determining of supports</li></ul> | ![Object with supports](images/0914a_supportsOn.png)  ![Object supports removed](images/0914b_supportsOff.png) |
+-->
 
+<section class="info"><a href="images/0914a_supportsOn.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0914a_supportsOn.png" alt="Supports in place" />
+ <figcaption>Supports in place</figcaption>
+ </figure></a>
+ <a href="images/0914b_supportsOff.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0914a_supportsOff.png" alt="Supports removed" />
+ <figcaption>Supports removed</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Supports**
+* Supports are used to aid in printing overhangs
+* Supports make impossible prints possible
+* Supports are removed after the print is complete
+* Supports add to the print time as well as the touch-up and finishing time to the model
+* Orientation of the model helps in the determining of supports
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+<!--
 |**Object Placement & Orientation**|
 |:-------------------------|
 |![Object orientation](images/0915_orientation.png)|
 | <ul><li>The placement of the object plays an important role in the success of the print</li><li>Changing the orientation can improve the adhesion and limit the use of supports</li><li>Use the **Rotate** feature to change the orientation</li><li>Use the **Place on bed** feature to ensure proper placement on the print bed</li></ul> |
+-->
+
+<section class="info"><a href="images/0915_orientation.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0915_orientation.png" alt="Object Placement & Orientation" />
+ <figcaption>Object Placement & Orientation</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Object Placement & Orientation**
+* The placement of the object plays an important role in the success of the print
+* Changing the orientation can improve the adhesion and limit the use of supports
+* Use the **Rotate** feature to change the orientation
+* Use the **Place on bed** feature to ensure proper placement on the print bed
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
 
 &nbsp;
 
