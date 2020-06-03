@@ -139,8 +139,6 @@ References:
     * Bed adhesion
     * Object oreintation
 
-The Extruder module
-
 <section class="info"><a href="images/0907_extruder.png">
  <figure class="infoimg">
  <img class="w320" src="images/0907_extruder.png" alt="Extruder module" />
@@ -149,16 +147,16 @@ The Extruder module
 <div  class="infotext" markdown="1">
 **Extruder Module**
 
-* The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.
-* Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**.
+* The extruder is a heated tube with a nozzle.
+* A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.
+* The extruder heats up the filament and melts it before forcing it out of the nozzle.
+* Nozzle sizes range from 0.1 to 0.8 mm.  The standard nozzle is **0.4mm**.
 * The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.
 * Some 3D printers can have more than one nozzle, allowing for different colors or material.
-
  </div>
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
 
-There should be 1 section only above.
 
 <!--
 |**Layer Height**||
@@ -168,7 +166,7 @@ There should be 1 section only above.
 
 <section class="info"><a href="images/0908_layerHeight.png">
  <figure class="infoimg">
- <img class="w200" src="images/0908_layerHeight.png" alt="Layer Height" />
+ <img class="w320" src="images/0908_layerHeight.png" alt="Layer Height" />
  <figcaption>Layer Height</figcaption>
  </figure></a>
 <div  class="infotext" markdown="1">
@@ -183,10 +181,28 @@ There should be 1 section only above.
 </section> <!--End of Section.info-->
 
 
-
+<!--
 |**Wall Thickness**||
 |:-------------------------|--------------------------:|
 | <ul><li>Controls the number of strands required for the thickness of the wall</li><li>if the Layer Height=0.2mm, then a wall thickness of 1mm will require 5 strands laid side-by-side</li><li>affects print time and strength of print</li> <li>Typical wall thickness is min 0.8mm</li></ul>|![Wall Thickness](images/0909_wallThickness.png)|
+-->
+
+<section class="info"><a href="images/0909_wallThickness.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0909_wallThickness.png" alt="Wall Thickness" />
+ <figcaption>Wall Thickness</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Wall Thickness**
+* Controls the number of strands required for the thickness of the wall
+* if the Layer Height=0.2mm, then a wall thickness of 1mm will require 5 strands laid side-by-side
+* Affects print time and strength of print
+* Typical wall thickness is min 0.8mm
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+
 
 |**Infill Percentages**| |
 |:-------------------------|--------------------------:|
