@@ -1,0 +1,49 @@
+
+img[src*="thumbnail"] {
+   width:150px;
+   height:100px;
+}
+
+
+// for images
+
+.info{
+    display: block;
+    width:100%;
+    margin:auto;
+}
+
+.infoimg{
+    float: left;
+    // width: 25%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 5px;
+    padding: 5px;
+}
+
+.infotext{
+    float: left;
+    # border: thin silver solid;
+    margin: 10px;
+    padding : 10px;
+}
+
+.infoclr{
+    clear: both;
+}
+
+.w200{
+    width: 200px;
+}
+
+.w320{
+    width: 320px;
+}
+
+.w640 {
+    width: 640px;
+}

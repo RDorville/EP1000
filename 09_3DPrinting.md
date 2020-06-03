@@ -1,3 +1,6 @@
+<!--Need to include imagestyle.css sheet-->
+<link rel="stylesheet" type="text/css" href="imagestyle.css" />
+
 ## 3D Printing
 
 3D printing is touted as the new revolution in manufacturing and will soon surpass all methods of product development.  Unfortunately, this is not true.  It is revolutionary, in the fact that it allows manufacturing to be placed in the hands of the common people, however, it will not surpass the manufacturing techniques in place.
@@ -68,9 +71,22 @@ References:
 
 * The following diagram shows the different parts of a FFF 3D Printer.  The printers may come in different shapes and sizes, however, the parts and principles remain the same.
 
+<!--
 |3D Printer Parts  |
 |:-------------------------:|
 | [![3D Printer Parts](images/0905_3dprinterparts.jpg)](images/0905_3dprinterparts.jpg) |
+-->
+
+<section class="info"><a href="images/0905_2dprinterparts.jpg">
+ <figure class="infoimg">
+ <img class="w640" src="images/0905_2dprinterparts.jpg" alt="3D Printer Parts" />
+ <figcaption>3D Printer Parts</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
 
 * The important parts for you to note are:
     * the **Hot End** of the extruder.  Temperatures at the hot-end can reach in excess of 180 degC, you could easily burn your fingers
@@ -122,10 +138,28 @@ References:
     * Bed adhesion
     * Object oreintation
 
-
+<!--
 |**Extruder Characteristics**|![blank](images/blank.png)|
 |:-------------------------|:--------------------------|
 | <ul><li>The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.</li><li>Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**</li><li>The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.</li><li>Some 3D printers can have more than one nozzle, allowing for different colors or material.</li></ul>|![Extruder](images/0907_extruder.png) |
+-->
+
+<section class="info"><a href="images/0907_extruder.png">
+ <figure class="infoimg">
+ <img class="w200" src="images/0907_extruder.png" alt="Extruder module" />
+ <figcaption>Extruder module</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+ **Extruder Module**
+ * The extruder is a heated tube with a nozzle.  A stepper motor feeds the filament into the nozzle.  This allows control of the amount of filament to be extruded (fed in) or retracted.  The extruder heats up the filament and melts it before forcing it out of the nozzle.
+ * Nozzle sizes range from 0.1 to 0.8mm.  The standard nozzle is **0.4mm**.
+ * The flow rate of the filament is controlled by the stepper motor.  You can adjust this to 20% ~150% of the normal flow rate through software.
+ * Some 3D printers can have more than one nozzle, allowing for different colors or material.
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
+
 
 
 |**Layer Height**||
