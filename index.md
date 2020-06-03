@@ -88,3 +88,8 @@ If you have changed/updated the URL for your website, please record it here on t
 **April 2020**
 
 
+&nbsp;
+
+> This is my test area, a sandbox for trying ideas and code
+
+[Sandbox](sandbox.md)
