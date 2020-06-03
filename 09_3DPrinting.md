@@ -77,9 +77,9 @@ References:
 | [![3D Printer Parts](images/0905_3dprinterparts.jpg)](images/0905_3dprinterparts.jpg) |
 -->
 
-<section class="info"><a href="images/0905_2dprinterparts.jpg">
+<section class="info"><a href="images/0905_3dprinterparts.jpg">
  <figure class="infoimg">
- <img class="w640" src="images/0905_2dprinterparts.jpg" alt="3D Printer Parts" />
+ <img class="w640" src="images/0905_3dprinterparts.jpg" alt="3D Printer Parts" />
  <figcaption>3D Printer Parts</figcaption>
  </figure></a>
 <div  class="infotext" markdown="1">
@@ -146,7 +146,7 @@ References:
 
 <section class="info"><a href="images/0907_extruder.png">
  <figure class="infoimg">
- <img class="w200" src="images/0907_extruder.png" alt="Extruder module" />
+ <img class="w320" src="images/0907_extruder.png" alt="Extruder module" />
  <figcaption>Extruder module</figcaption>
  </figure></a>
 <div  class="infotext" markdown="1">
@@ -158,7 +158,6 @@ References:
  </div>
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
-
 
 
 
