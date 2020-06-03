@@ -216,11 +216,11 @@ References:
  </figure></a>
 <div  class="infotext" markdown="1">
 **Infill Percentage**
-* Controls the amount of fill in the internal cavities
-* Higher infills give more strength
-* Higher infills take longer time to print
-* You can select different infill patterns
-* Typical infills 10~18%</li>
+* Controls the amount of fill in the internal cavities.
+* Higher infills give more strength.
+* Higher infills take longer time to print.
+* You can select different infill patterns.
+* Typical infills 10~18%.
  </div>
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
@@ -238,7 +238,8 @@ References:
  </figure></a>
 <div  class="infotext" markdown="1">
 **Bridging**
-*  Refers to the prints between 2 points that have no connection to each other</li><li>Normally, a 3D printer first prints the base layer, on which it builds up layer by layer. In contrast, there is no base layer between two points when bridging.
+*  Refers to the prints between 2 points that have no connection to each other.
+*  Normally, a 3D printer first prints the base layer, on which it builds up layer by layer. In contrast, there is no base layer between two points when bridging.
 *  Consequently, printing must be done in the air so that the gap can be bridged.
 *  There is a limit before the print fails and sagging strands appear
 *  You need to test for the maximum distance for each printer

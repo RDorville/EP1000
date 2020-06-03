@@ -7,13 +7,13 @@ img[src*="thumbnail"] {
 
 // for images
 
-.info{
+section.info{
     display: block;
     width:100%;
     margin:auto;
 }
 
-.infoimg{
+figure.infoimg{
     float: left;
     // width: 25%;
     text-align: center;
@@ -25,7 +25,7 @@ img[src*="thumbnail"] {
     padding: 5px;
 }
 
-.infotext{
+div.infotext{
     float: left;
     border: thin silver solid;
     max-width: 640px;
@@ -33,18 +33,18 @@ img[src*="thumbnail"] {
     padding : 5px;
 }
 
-.infoclr{
+div.infoclr{
     clear: both;
 }
 
-.w200{
+img.w200{
     width: 200px;
 }
 
-.w320{
+img.w320{
     width: 320px;
 }
 
-.w640 {
+img.w640 {
     width: 640px;
 }
