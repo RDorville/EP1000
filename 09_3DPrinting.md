@@ -203,10 +203,28 @@ References:
 </section> <!--End of Section.info-->
 
 
-
+<!--
 |**Infill Percentages**| |
 |:-------------------------|--------------------------:|
 | <ul><li>Controls the amount of fill in the internal cavities</li><li>Higher infills give more strength</li><li>Higher infills take longer time to print</li><li>You can select different infill patters</li><li>Typical infills 10~18%</li></ul>| ![Infill Percentages](images/0910_infill.png)]|
+-->
+
+<section class="info"><a href="images/0910_infill.png">
+ <figure class="infoimg">
+ <img class="w320" src="images/0910_infill.png" alt="Infill Percentage" />
+ <figcaption>Infill Percentage</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+**Infill Percentage**
+* Controls the amount of fill in the internal cavities
+* Higher infills give more strength
+* Higher infills take longer time to print
+* You can select different infill patterns
+* Typical infills 10~18%</li>
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
+
 
 |**Bridging**|![blank](images/blank.png)|
 |:-------------------------|--------------------------:|
