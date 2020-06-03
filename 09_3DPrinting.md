@@ -173,7 +173,6 @@ There should be 1 section only above.
  </figure></a>
 <div  class="infotext" markdown="1">
 **Layer height**
-
 * The height of each printed layer of the 3D print
 * Thinner layers give finer prints
 * 3D prints with thinner layers take longer to print
