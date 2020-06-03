@@ -28,7 +28,7 @@ figure.infoimg{
 div.infotext{
     float: left;
     border: thin silver solid;
-    max-width: 640px;
+    max-width: 500px;
     margin: 5px;
     padding : 5px;
 }
