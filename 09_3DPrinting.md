@@ -304,7 +304,7 @@ References:
  </figure></a>
  <a href="images/0914b_supportsOff.png">
  <figure class="infoimg">
- <img class="w320" src="images/0914a_supportsOff.png" alt="Supports removed" />
+ <img class="w320" src="images/0914b_supportsOff.png" alt="Supports removed" />
  <figcaption>Supports removed</figcaption>
  </figure></a>
 <div  class="infotext" markdown="1">

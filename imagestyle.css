@@ -27,7 +27,7 @@ img[src*="thumbnail"] {
 
 .infotext{
     float: left;
-    // border: thin silver solid;
+    border: thin silver solid;
     max-width: 640px;
     margin: 5px;
     padding : 5px;
