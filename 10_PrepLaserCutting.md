@@ -52,12 +52,17 @@ In this session, we will look at how to prepare our designs for laser cutting.  
 
 For this example, we will use the box profile in which I need to extract the side, front and base of the box.  We assume that the box has been designed as in the [Parametric Modelling](08_ParametricDesign.md) session.
 
-Open your design
-* Expand the bodies/component list 
+|![blank](images/blank2.png) | ![blank](images/blank2.png) |
+|:-------------------|:--------------------|
+|[![kerf](images/1002_objectbrowser.png "Object browser")](images/1002_objectbrowser.png) |Open your design in Fusion 360.<br>In the **Object Browser**, expand and show the bodies/component list.<br>If you have multiple components, make sure that the **root** or **top-most** object is selected |
+|[![kerf](images/1003_bodyprofiletoexport.png "Object browser")](images/1003_bodyprofiletoexport.png) |Open your design in Fusion 360.<br>In the **Object Browser**, expand and show the bodies/component list.<br>If you have multiple components, make sure that the **root** or **top-mose** object is selected |
+|[![kerf](images/1004_selectedplane.png "Object browser")](images/1003_1004_selectedplane.png) | Select the body which you want to extract the profile.<br>To help you, you can turn off the bodies which are not of interest<br>In this case only the FRONT component is selected<br>Click onto the body surface to select the sketch plane. |
 
-Select the body which you want to extract the profile.
-To help you, you can turn off the bodies which are not of interest
-In this case only the FRONT component is selected
+
+
+
+|[![kerf](images/imageFile.png "Object browser")](images/1003_imageFile.png) | explanation text |
+
 
 Make a new sketch on this FRONT plane
 Create > Create Sketch
@@ -94,4 +99,4 @@ BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9Cw
 
 v1.0 kerf
 
-[![kerf](images/1001_kerf.png "Kerf calculations")](images/1001_kerf.png)
+
