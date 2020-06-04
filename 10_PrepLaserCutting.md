@@ -25,3 +25,15 @@ In this session, we will look at how to prepare our designs for laser cutting.  
         -  The thickness of the material
         -  The color/coloration of the material.
     *  Please consult the Technician-in-charge before you cut your objects.  They have valuable advice and experience to share with you.
+
+Top level
+* Level 1
+    - Level 1.1
+    - Level 1.2
+        + Level 2.2.1
+        + Level 2.2.2
+* Level 2
+    - Level 2.1
+    - Level 2.2
+        + Level 2.2.1
+* Level 3
