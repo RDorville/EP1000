@@ -57,35 +57,18 @@ For this example, we will use the box profile in which I need to extract the sid
 |[![kerf](images/1002_objectbrowser.png "Object browser")](images/1002_objectbrowser.png) |Open your design in Fusion 360.<br>In the **Object Browser**, expand and show the bodies/component list.<br>If you have multiple components, make sure that the **root** or **top-most** object is selected |
 |[![kerf](images/1003_bodyprofiletoexport.png "Object browser")](images/1003_bodyprofiletoexport.png) |Open your design in Fusion 360.<br>In the **Object Browser**, expand and show the bodies/component list.<br>If you have multiple components, make sure that the **root** or **top-mose** object is selected |
 |[![kerf](images/1004_selectedplane.png "Object browser")](images/1003_1004_selectedplane.png) | Select the body which you want to extract the profile.<br>To help you, you can turn off the bodies which are not of interest<br>In this case only the FRONT component is selected<br>Click onto the body surface to select the sketch plane. |
+|[![kerf](images/1005_renamesketch.png "Object browser")](images/1003_1005_renamesketch.png) | Make a new sketch on this FRONT plane:<br>1.  Create \> Create Sketch<br>2.  Select(L-Click) the body surface to select the sketch plane.<br>3.  **Important** Click again on the profile (it should turn BLUE), showing you the sketch profile.<br>5.  Click FINISH SKETCH<br>6.  Your sketch should be located in the Object Browser > Sketches<br>7.  Select "Finish Sketch"<br>8.  Rename the sketch to identify it (e.g. FRONT_DXF) |
+|[![kerf](images/1006_safeasdxf.png "Object browser")](images/1003_1006_safeasdxf.png) | Export the profile as DXF:<br>1. Right-click on the Sketch FRONT_DXF<br>2. Select the **Save As DXF** Option<br>3. Enter an appropriate name for the file e.g. FRONT<br>4. enote of the Folder where the document is to be saved. |
+|[![kerf](images/1007_repeatprofiles.png "Object browser")](images/1003_1007_repeatprofiles.png) | Repeat the above steps for each of the profiles that you want to cut FRONT, SIDE, BASE<br>The Front and Sides are mirrored, and are similar, so only one profile need to be saved. |
+
+
+---------
+
+|[![kerf](images/imageFile.png "Object browser")](images/1003_imageFile.png) | ExplanationText |
 
 
 
 
-|[![kerf](images/imageFile.png "Object browser")](images/1003_imageFile.png) | explanation text |
-
-
-Make a new sketch on this FRONT plane
-Create > Create Sketch
-Select the face
-
-Click again on the profile
-The profile should turn BLUE with the sketch highlighted.
-
-Click FINISH SKETCH
-Your sketch should be located in the Object Browser > Sketches
-
-Click on the Newly created Sketch
-Rename the sketch to show that you are using it to prepare your DXF.  An appropriate name could be {profile}_DXF
-I have renamed mine FRONT_DXF
-
-Right-click on the Sketch FRONT_DXF
-Select the **Save As DXF** Option
-Enter an appropriate name for the file e.g. FRONT
-Take note of the Folder where the document is to be saved
-
-Repeat the above steps for each of the profiles that you want to cut
-FRONT, SIDE, BASE
-The Front and Sides are mirrored, and are similar, so only one profile need to be saved.
 
 Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://youtu.be/U4s2p2epaeg)
 
