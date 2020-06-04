@@ -61,6 +61,67 @@ For this example, we will use the box profile in which I need to extract the sid
 |[![kerf](images/1006_safeasdxf.png "Object browser")](images/1003_1006_safeasdxf.png) | Export the profile as DXF:<br>1. Right-click on the Sketch FRONT_DXF<br>2. Select the **Save As DXF** Option<br>3. Enter an appropriate name for the file e.g. FRONT<br>4. enote of the Folder where the document is to be saved. |
 |[![kerf](images/1007_repeatprofiles.png "Object browser")](images/1003_1007_repeatprofiles.png) | Repeat the above steps for each of the profiles that you want to cut FRONT, SIDE, BASE<br>The Front and Sides are mirrored, and are similar, so only one profile need to be saved. |
 
+&nbsp;
+
+### Checking your work and preparing for Laser Cutting
+
+It is important that you check your DXF profiles before you come down to the Laser cutter to cut your work, because
+*  Sometimes the profiles are not exported correctly
+*  You will need time to layout your profiles to save space on the material to be cut
+*  Laser cutter time is expensive (approx $70/hr).  You don't want to spend that time
+    -  correcting your layout
+    -  realising that the profiles have errors
+*  The software used on most Laser cutters is CorelDraw (which is a licensed product) that comes as the default.  However, CorelDraw accepts a large number of Vector/Raster formats which allow you to import.  The more common formats are
+    -  AutoCAD DXF (from most CAD software systems)
+    -  PDF (Adobe Illustrator)
+    -  SVG
+*  You can use the following **Open Source** software to import, check and layout your DXF files before doing a final import to CorelDraw:
+    -  [LibreCAD](https://librecad.org/) or [Portable Version](https://portableapps.com/apps/graphics_pictures/librecad-portable)
+    -  [InkScape](https://inkscape.org/) or [Portable Version](https://portableapps.com/apps/graphics_pictures/inkscape_portable)
+* The following sections show how you can import your DXF into the open source software for checking and layout.
+
+|![blank](images/blank2.png) | ![blank](images/blank2.png) |
+|:-------------------|:--------------------|
+|[![kerf](images/1008_librecadimportblock.png "Object browser")](images/1008_librecadimportblock.png) | **LibreCAD**<br>LibreCAD is an open source CAD drawing program.  You can use it to create 2D profiles and save it to DXF files.  It's default file format is .DXF<br>1.  In LibreCAD, open a new drawing **File > New**<br>2.  Use **File > Import > Block** and select your .DXF file.<br>3.  Keep adding the profiles.  You can layout your laser cut profile using this software.<br>4.  Remember that any **line/graphic** drawn will be cut out by the laser cutter.<br>5.  Check your profiles, save your work as another DXF file e.g. layout.dxf<br>6.  You can do a single import into CorelDraw. |
+|[![kerf](images/1009_inkscapeimportdxf.png "Object browser")](images/1003_1009_inkscapeimportdxf.png) | **Inkscape**<br>1.  Open Inkscape, select a file size that you can work on (e.g. A4 or A3)<br>2.  use File > Import > Select your DXF file<br>3.  Choose "Manual Scale" when importing the DXF.<br>4.  Layout the imported item on the page, import and place others<br>5.  Check your work and export as DXF, PDF or SVG format.<br>&nbsp;<br>**Tip** Use guides to help you layout your profiles. |
+
+&nbsp;
+
+### CorelDraw
+
+If you have your DXF files or files created from the Open Source Software, transfer them to a thumbdrive and bring them to the Fablab where the Laser cutters are located.  Each laser cutter has a local PC interface with CorelDraw pre-installed as this is the default software supplied with the machine.  The most common lasercutter that you will use is the [Epilog Fusion M2](https://www.epiloglaser.com/laser-machines/fusion-laser-series.htm) or the [Universal Laser Systems](https://www.ulsinc.com/).
+
+**You do not have much time allocated to the physical interaction with the laser cutter, so layout your profiles before you come.**
+
+Transfer your DXF layout to CorelDraw as follows:
+
+|![blank](images/blank2.png) | ![blank](images/blank2.png) |
+|:-------------------|:--------------------|
+|[![kerf](images/1010_corelimportdxf.png "Object browser")](images/1003_1010_corelimportdxf.png) | **CorelDraw Import DXF**<br>1. Create a new CorelDraw file (the default template of 40x28 inch or 1017x711 mm, the size of the laser cutter, is available).<br>2. File > Import > Select DXF file<br>3. In the "Import AutoCAD File" popup. ensure that the units are Metric and the Scaling is 1:1<br>4. Place the layout on the drawing.<br>&nbsp;<br>You can also import SVG, DXF and other file formats. |
+|[![kerf](images/1011_profilelayout.png "Object browser")](images/1003_1011_profilelayout.png) | <br>Profiles are laid out to minimize material waste.<br>You can also arrange your profiles to speed up the cutting process (How?)<br>Check that the profiles are correct before cutting<br>To cut clink "Print" |
+
+### Kerf
+
+Laser cutting is very precise, giving you accuracies and repeatability in terms of tenth's of a millimeter.  However, sometimes you would like to create "[Press-Fit]https://www.merriam-webster.com/dictionary/press%20fit" objects that are assembled without glue or any other materials.
+
+When a laser cuts through material, some material is removed in the process. The material that is removed is called the **[Kerf](https://www.merriam-webster.com/dictionary/kerf)**.
+*  The kerf in laser cutters is very small (approx. 0.3 ~ 0.8 mm) depending on the material and how it is cut.
+*  If we can calculate the Kerf (through experimentation) we can make adjustments to ensure that the cuts are press-fit.
+*  Adjusments are usually made by
+    -  decreasing the size of the "holes"
+    -  increasing the size of the "tabs"
+*  Can be done **parametrically** by adding an adjustment value to compensate for the kerf.
+
+|![blank](images/blank2.png) | ![blank](images/blank2.png) |
+|:-------------------|:--------------------|
+|[![kerf](images/1001_kerf.png "Kerf calculations")](images/1001_kerf.png) | Kerf is the material removed when lasercutting.<br>Assume a profile 20x20mm is cut.<br>After cutting the cut piece is measured (still 20x20mm) and the hole is measured (20.8x20.8mm).<br>The hole is larger because material has to be removed in the cut.  The amount of material removed is called the Kerf.<br>In this case, Kerf = (20.8 - 20)/2 = 0.4mm<br>Hence to make tight joints, you have to compensate for this kerf. |
+
+&nbsp;
+
+### References:
+
+1.  Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://youtu.be/U4s2p2epaeg)
+2.  BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9CwhyDT41Y)
 
 ---------
 
@@ -70,15 +131,14 @@ For this example, we will use the box profile in which I need to extract the sid
 
 
 
-Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://youtu.be/U4s2p2epaeg)
-
-BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9CwhyDT41Y)
 
 
 
-|![blank](images/blank2.png) | ![blank](images/blank2.png) |
-|:-------------------|:--------------------|
-|[![kerf](images/1001_kerf.png "Kerf calculations")](images/1001_kerf.png) | Kerf is the material removed when lasercutting.<br>Assume a profile 20x20mm is cut.<br>After cutting the cut piece is measured (still 20x20mm) and the hole is measured (20.8x20.8mm).<br>The hole is larger because material has to be removed in the cut.  The amount of material removed is called the Kerf.<br>In this case, Kerf = (20.8 - 20)/2 = 0.4mm<br>Hence to make tight joints, you have to compensate for this kerf. |
+
+
+
+
+
 
 v1.0 kerf
 
