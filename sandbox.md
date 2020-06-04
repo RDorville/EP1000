@@ -25,5 +25,18 @@ With a image of 200px
 &nbsp;
 
 
+---------
+blank2.png is 2000x2px transparent
+
+|![blank](images/blank2.png) | ![blank](images/blank2.png) |
+|:-------------------|:--------------------|
+|[![kerf](images/imageFile.png "Object browser")](images/1003_imageFile.png) | ExplanationText |
+
+---------
+
+
+
+
+
 **June 2020**
 

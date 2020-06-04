@@ -123,9 +123,53 @@ When a laser cuts through material, some material is removed in the process. The
 1.  Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://youtu.be/U4s2p2epaeg)
 2.  BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9CwhyDT41Y)
 
----------
+&nbsp;
 
-|[![kerf](images/imageFile.png "Object browser")](images/1003_imageFile.png) | ExplanationText |
+### Assignment 9
+
+In this assignment, you will attempt to export your box/3d object for lasercutting.  You will also attempt to create a **parameteric** press-fit construction kit by adjusting the kerf.
+
+I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
+
+| Time   | Task |
+|--------|:------------------------------------------------|
+|30 min  | Watch a tutorial on LaserCutting & Kerf |
+|30 min  | Export and layout your 3D model for laser cutting  |
+|60 min  | Create a parametric press-fit construction kit |
+
+This is a short assignment, since you have Mid-semester tests & assignments, but should keep you occupied during the holidays.  Try to complete all layouts in DXF so that we can commence cutting when school re-opens in July.
+
+Here is a quick guide:
+
+1.  Watch both of the videos above to get an idea of how laser cutting works and the definition of kerf.
+2.  Select your parametrically designed box and prepare a layout for lasercutting.  Use the following parameters:
+    * thickness of wood 3mm
+    * size of entire layout, no larger than A3 (optimal A4) size
+    * minimize the wastage of material
+    * save as a single DXF file ready for lasercutting.
+3.  Examine the following references:
+    * Instructables: [Press-fit Construction Kit](https://www.instructables.com/id/Press-fit-Construction-Kit/) Spheres
+    * Instructables: [Press-fit Construction Fit Wooden Cat](https://www.instructables.com/id/PRESS-FIT-CONSTRUCTION-FIT-WOODEN-CAT/)
+    * Google Search: [Press fit construction kit laser cutting](https://duckduckgo.com/?q=Press-fit+construction+kit+laser+cutting&t=canonical&ia=web)
+4.  Design a simple press-fit kit for yourself, taking into considerstion:
+    * the wood thickness
+    * the kerf (to be calculated from lab experiments)
+    * about 2~5 pieces which can be reused.
+    * FabWiki: [Inkscape how to make a pressfit design](http://wiki.fablab.is/wiki/Inkscape_how_to_make_a_pressfit_design)
+5.  Layout your pieces (can be multiple) ready for laser cutting.
+
+Remember to document your work and include 
+*  screen-shots and how-tos, appropriately written
+*  original Fusion 360 and DXF files
+*  a **hero-shot** of your work (which can be added later) after lasercutting
+
+**Note**
+
+You will be given an oppurtunity to lasercut your layouts, so please try to complete this assignment before 27th June.
+
+&nbsp;
+
+**June 2020**
 
 
 
