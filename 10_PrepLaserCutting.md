@@ -86,9 +86,11 @@ Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://
 
 BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9CwhyDT41Y)
 
-|![blank](blank.png) | ![blank](blank.png) |
+
+
+|![blank](images/blank2.png) | ![blank](images/blank2.png) |
 |:-------------------|:--------------------|
-|[![kerf](![1001_kerf.png](images/1001_kerf.png "Kerf calculations")](images/1001_kerf.png) | Kerf is the material removed when lasercutting.<br>Assume a profile 20x20mm is cut.<br>After cutting the cut piece is measured (still 20x20mm) and the hole is measured (20.8x20.8mm).<br>The hole is larger because material has to be removed in the cut.  The amount of material removed is called the Kerf.<br>In this case, Kerf = (20.8 - 20)/2 = 0.4mm<br>Hence to make tight joints, you have to compensate for this kerf. |
+|[![kerf](![images/1001_kerf.png](images/1001_kerf.png "Kerf calculations")](images/1001_kerf.png) | Kerf is the material removed when lasercutting.<br>Assume a profile 20x20mm is cut.<br>After cutting the cut piece is measured (still 20x20mm) and the hole is measured (20.8x20.8mm).<br>The hole is larger because material has to be removed in the cut.  The amount of material removed is called the Kerf.<br>In this case, Kerf = (20.8 - 20)/2 = 0.4mm<br>Hence to make tight joints, you have to compensate for this kerf. |
 
 v1.0 kerf
 
