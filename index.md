@@ -35,7 +35,7 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 &nbsp;
 
 1.  [2020 Sem 1 Class Websites](2020S1_students.md)
-2.  [EP1000 Class Kit](EP1000_class_kit.md) components list.
+2.  [EP1000 Class Kit](EP1000classkit.md) components list.
 
 
 &nbsp;
