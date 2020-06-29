@@ -170,20 +170,3 @@ You will be given an oppurtunity to lasercut your layouts, so please try to comp
 &nbsp;
 
 **June 2020**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-v1.0 kerf
-
-

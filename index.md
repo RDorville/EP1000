@@ -25,7 +25,12 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |07  |Mon 01 June |[3D Printing](09_3DPrinting.md)|
 |    |Fri 04 June |[Preparation for Laser Cutting](10_PrepLaserCutting.md)|
 |    |Mon 08 June |**Mid term break**|
-|    |            |    |
+|08  |Mon 22 June |[Introduction to Electronics](11_Electronics.md) |
+|    |Fri 26 June |Practical Sessions - Safety, 3D Printingin, Lasercutting|
+|09  |Mon 29 June |Introduction to Arduino System & Microcontrollers|
+|    |Fri 03 July |Simple Input & Output Interfacing|
+|10  |Mon 06 July |Input devices|
+|    |Fri 10 July |Input devices & Practical Sessions|
 
 
 &nbsp;
