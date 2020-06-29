@@ -48,7 +48,7 @@ Kirchoff's first law (the current law)
 
 Kirchoff's second law (the loop/mesh law)
 
-When the direction is taken into account, the sum of the potential differenes in any closed circuit is zero.
+- When the direction is taken into account, the sum of the potential differenes in any closed circuit is zero.
 
 
 ### Electrical Components
@@ -110,6 +110,8 @@ It is common for electrical components to have a prefix (e.g. Kilo) placed in fr
 &nbsp;
 
 ### Learning Electronics
+
+Watch this [Simple Guide to Electronic Components](https://youtu.be/6Maq5IyHSuc) to help you identify the physical electrical components that you may encounter.
 
 A good and simple introduction to electronics can be found at the Open University site [OpenLearn](https://www.open.edu/openlearn/) - [An Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/introduction-electronics/content-section-0?active-tab=content-tab).  After finishing this very short course you may also print out a certificate of attendance!
 
