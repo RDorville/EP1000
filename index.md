@@ -26,11 +26,16 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |    |Fri 04 June |[Preparation for Laser Cutting](10_PrepLaserCutting.md)|
 |    |Mon 08 June |**Mid term break**|
 |08  |Mon 22 June |[Introduction to Electronics](11_Electronics.md) |
-|    |Fri 26 June |Practical Sessions - Safety, 3D Printingin, Lasercutting|
+|    |Fri 26 June |Practical Sessions - Safety, 3D Printingin, Lasercutting<br>Collect [EP1000 Class Kit](EP1000_class_kit.md)|
 |09  |Mon 29 June |Introduction to Arduino System & Microcontrollers|
 |    |Fri 03 July |Simple Input & Output Interfacing|
 |10  |Mon 06 July |Input devices|
 |    |Fri 10 July |Input devices & Practical Sessions|
+
+&nbsp;
+
+1.  [2020 Sem 1 Class Websites](2020S1_students.md)
+2.  [EP1000 Class Kit](EP1000_class_kit.md) components list.
 
 
 &nbsp;
