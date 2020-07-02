@@ -27,10 +27,12 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |    |Mon 08 June |**Mid term break**|
 |08  |Mon 22 June |[Introduction to Electronics](11_Electronics.md) |
 |    |Fri 26 June |Practical Sessions - Safety, 3D Printingin, Lasercutting<br>Collect [EP1000 Class Kit](ep1000_class_kit.md)|
-|09  |Mon 29 June |Introduction to Arduino System & Microcontrollers|
-|    |Fri 03 July |Simple Input & Output Interfacing|
-|10  |Mon 06 July |Input devices|
+|09  |Mon 29 June |[Introduction to Arduino System & Microcontrollers](Embedded_Programming_with_Arduino.pdf)|
+|    |Fri 03 July |[Simple Input & Output Interfacing](12_arduinoprogramming.md) ||
+|10  |Mon 06 July |Analog I/O & Input devices|
 |    |Fri 10 July |Input devices & Practical Sessions|
+|11  |Mon 13 July |Output devices|
+|    |Fri 17 July |Output devices & Practical Sessions|
 
 &nbsp;
 
