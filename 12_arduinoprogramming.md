@@ -56,7 +56,7 @@ Structured programming is made up of **THREE** main structures
     + Allow repetition of a task, instruction(s) or strucfure based on a condition.  It can be repeated none, once or many times.
     + Also known as conditional looping.
 
-![Structured Programming](1202_structuredprogramming.png "Structured Programming structures")
+![Structured Programming](images/1202_structuredprogramming.png "Structured Programming structures")
 
 You can write almost 90% of all programs using structured programming!
 
@@ -357,7 +357,7 @@ Loops provide a means of performing a task or executing a block of statements re
 - Functions must return a result, which is the data type of the function declaration.
 - Functions are declared outside any other functions, usually below the loop function.
 
-![Arduino function]
+![Arduino function](images/1203_function.jpg "Function declaration")
 
 ```c++
 void setup() {
