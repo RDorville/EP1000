@@ -431,6 +431,8 @@ Reference: [Serial Communications](https://www.arduino.cc/reference/en/language/
 
 ### References:
 
+Arduino Programming
+
 1.  TutorialsPoint: [Learn Arduino](https://www.tutorialspoint.com/arduino/) for beginners
 2.  Electronics Hub: [Basic Arduino Tutorials for Beginners](https://www.electronicshub.org/arduino-tutorial/)
 3.  Adafruit - Simon Monk [Arduino Getting Started](https://learn.adafruit.com/lesson-0-getting-started/boards-and-ports)
@@ -438,6 +440,11 @@ Reference: [Serial Communications](https://www.arduino.cc/reference/en/language/
 4.  Great books from Simon Monk:
     - Programming Arduino (2nd Ed)
     - Programming Arduino: Getting Started with Sketches (2nd ed.)
+
+I/O Programming
+
+1.  ElectroSome: [Using Pushbutton Switches](https://electrosome.com/switch-arduino-uno/)
+
 
 &nbsp;
 
@@ -466,6 +473,8 @@ Complete the following programming assignments:
 2.  Controlling 3 or more LEDs
     - using the same technique, connect 3 or more LEDs of different colors to the Arduino board using pins 6, 7, and 8.
     - write a program to produce running lights i.e. the LEDs are lit in sequence e.g. R -> G -> W -> R -> G -> W and so on.
+
+![Uno SW LED](images/1204_UnoSwLED.png "Uno with Switch and LED")
 
 3.  Adding a switch to the flashing lights
     - add a switch to the circuit in (2).  You should use a pull-up resistor of 10K if you are operating in INPUT mode.
