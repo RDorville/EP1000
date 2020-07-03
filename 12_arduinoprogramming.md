@@ -34,7 +34,7 @@
             * using an incorrect function or statement
         + Not easily identified, rare.
 
-### Structued Programming
+### Structured Programming
 
 Structured programming can reduce the occurance of logical errors in any programming language.  It is a technique tha specifies the way/method of writing code, which is easy to understand and follow and produces good results.
 
@@ -215,6 +215,7 @@ const float PI = 3.141516;
     + Local variables
         * inside a function or a block
         * they are only used by the statements within the block
+
         ```c++
         void setup() {
                             // initialisation statements here
@@ -229,9 +230,11 @@ const float PI = 3.141516;
             }
         }
         ```
+
     - Global variables
         + Defined outside the functions, usually at the top of the program.
         + variable is visible throughout the program.
+
         ```c++
         int age;            // global variable
 
@@ -260,10 +263,10 @@ Operators are symbols that tells the compiler to perform a specific mathematical
         * == equality, != no equal to, > greater than, < less than
         * gives a logical result (true or false)
     + Boolean operators
-        * &amp;&amp; AND, || OR, ! logical NOT
+        * &amp;&amp; AND, \|\| OR, ! logical NOT
         * gives a logical result
     + Bitwise operators
-        * & and. | or, ! not/inverse, << shift left, >> shift right
+        * & and. \| or, ! not/inverse, << shift left, >> shift right
         * changes the bit pattern of the operator
 
 ### Control statements
