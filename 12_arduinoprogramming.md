@@ -436,8 +436,12 @@ Arduino Programming
 1.  TutorialsPoint: [Learn Arduino](https://www.tutorialspoint.com/arduino/) for beginners
 2.  Electronics Hub: [Basic Arduino Tutorials for Beginners](https://www.electronicshub.org/arduino-tutorial/)
 3.  Adafruit - Simon Monk [Arduino Getting Started](https://learn.adafruit.com/lesson-0-getting-started/boards-and-ports)
-3.  [Arduino IDE Reference](https://www.arduino.cc/reference/en/)
-4.  Great books from Simon Monk:
+4.  [Arduino Getting Started](https://arduinogetstarted.com/
+
+Online References
+
+1.  [Arduino IDE Reference](https://www.arduino.cc/reference/en/)
+2.  Great books from Simon Monk:
     - Programming Arduino (2nd Ed)
     - Programming Arduino: Getting Started with Sketches (2nd ed.)
 
