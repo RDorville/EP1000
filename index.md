@@ -38,10 +38,8 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 
 ### Final project
 
-1.  [Specifications & Requirements](finalProject/Final Project.md)
-
-Updated: 9th July 2020
-Version: 1.0
+1.  [Specifications & Requirements](finalProject/Final Project.md)    
+    Version: 1.0 - 9th July 2020
 
 Note:
 
@@ -49,6 +47,8 @@ For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProjec
 
 
 &nbsp;
+
+### Other Information
 
 1.  [2020 Sem 1 Class Websites](2020S1_students.md)
 2.  [EP1000 Class Kit](ep1000classkit.md) components list.
