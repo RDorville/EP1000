@@ -31,7 +31,7 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |    |Fri 03 July |[Simple Input & Output Interfacing](12_arduinoprogramming.md) |
 |10  |Mon 06 July |[Analog I/O & Input devices](13_AnalogIO.md)|
 |    |Fri 10 July |*Public Holiday - Polling Day*|
-|11  |Mon 13 July |Input devices & Practical Sessions|
+|11  |Mon 13 July |[Input devices](14_InputDevices.md)|
 |    |Fri 17 July |Output devices & Practical Sessions|
 
 &nbsp;
