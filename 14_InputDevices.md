@@ -98,7 +98,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
             +  typical Singapore temperature = 28 - 32 degrees Centigrade
     *  humidity is the measure of the concentration of water vapour present in the air.  Singapore's humidity is between 70-90%.
     - the following devices can be used with the Arduino system
-        - [DHT-11](https://components101.com/dht11-temperature-sensor
+        - [DHT-11](https://components101.com/dht11-temperature-sensor)
             - operating voltage range 3.5~5.5V
             - temperature range 0-50C, humidity 20-90%
             - resolution 16-bit
@@ -168,7 +168,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 
     ![Measuring Light with LDR](images/14_LDR.png "Measuring Light with LDR")
 
-        - [Using a Photocell](https://learn.adafruit.com/photocells/using-a-photocell)
+    - [Using a Photocell](https://learn.adafruit.com/photocells/using-a-photocell)
 
 &nbsp;
 
@@ -176,7 +176,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
     + These are modules that allow you to keep track of the time.  A RTC uses a small battery, crystal and memory to maintain a on-going clock which can be read to provide the current date and time.
     - Real-time Clock Modules
         - [RTC DS3231 using I2C](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe)
-        - [RTC DS1302 using single-wire](https://playground.arduino.cc/Main/DS1302/
+        - [RTC DS1302 using single-wire](https://playground.arduino.cc/Main/DS1302/)
 
 &nbsp;
 
