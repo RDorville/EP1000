@@ -246,5 +246,17 @@ Complete the following programming assignments:
 
 &nbsp;
 
+### Useful sites for Arduino Interfacing
+
+Here are some of the more "reputable/trust-worthy" sites for Arduino modules
+
+- [Last Minute Engineers](https://lastminuteengineers.com/)
+- [Dronebot Workshop](https://dronebotworkshop.com/)
+- [Adafruit](https://www.adafruit.com/category/17)
+- [Instructables](https://www.instructables.com/id/Arduino-Projects/)
+- [Arduino Project Hub](https://create.arduino.cc/projecthub/projects/tags/arduino)
+
+&nbsp;
+
 **July 2020**
 
