@@ -40,6 +40,10 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 
 1.  [Specifications & Requirements](finalProject/Final Project.md)    
     Version: 1.0 - 9th July 2020
+2.  [Frequently Asked Questions](finalProject/faq.md) for Final Project    
+    Updated: 13th July 2020
+3.  [Available components](finalProject/component_list.md)    
+    Updated: 13th July 2020
 
 Note:
 
