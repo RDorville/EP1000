@@ -88,29 +88,163 @@ Input devices are often called **Sensors**.  Output devices are often called **A
         - [Touch Capacitative switch](https://duckduckgo.com/?q=touch+capacitative+switch&t=canonical&iar=images&iax=images&ia=images)
             + switch works based on body capacitace.
             + when a person touches it, the body increases the capacitance of the switch and triggers the switch
-
-
+&nbsp;
 - Temperature, Humidity
-    - DHT-11 (or DHT-22)
-    - LM35
-    - DS1820
+    + the environment can be measured using a number of devices, the most common and cheapest is to use the DHT-11 temperature and humidity sensor.
+        + temperature is a physical quantity that expresses hot or cold.
+        + reference temperatures
+            +  freezing point of water = 0 degrees Centigrade
+            +  boiling point of water = 100 degrees Centigrade
+            +  typical Singapore temperature = 28 - 32 degrees Centigrade
+    *  humidity is the measure of the concentration of water vapour present in the air.  Singapore's humidity is between 70-90%.
+    - the following devices can be used with the Arduino system
+        - [DHT-11](https://components101.com/dht11-temperature-sensor
+            - operating voltage range 3.5~5.5V
+            - temperature range 0-50C, humidity 20-90%
+            - resolution 16-bit
+            - accuracy +/- 1C, +/- 1%
+        - [DHT-22](https://components101.com/sensors/dht22-pinout-specs-datasheet)
+            - temperature range -40~80C, humidity 0~100%
+            - resolution 16-bit
+            - accuracy +/- 0.5C, +/- 1%
+        - [LM35](https://components101.com/lm35-temperature-sensor) temperature sensor
+            + operating voltage range -2~35V, typical 5V
+            + temperature range -55C ~ 150C
+            + accuracy +/- 0.5C
+        - [DS18B20](https://components101.com/sensors/ds18b20-temperature-sensor) temperature probe
+            + operating voltage range 3V ~ 5V
+            + temperature range -55C ~ 125C
+            + accuracy +/- 0.5C
+    - Interfacing to the Arduino Uno
+
+    ![DHT-11 Temperature & humidity Sensor](images/14_dht11.png "DHT-11 Temperature & humidity Sensor")
+
+    - [Interfacing the DHT-11](https://create.arduino.cc/projecthub/Arca_Ege/using-dht11-b0f365)
+        + requires the use of the DHT-11 library
+
+&nbsp;
+
 - Distance
-    - Ultrasonic HC-SR04
-    - Photoelectric InfraRed sensor Avoidance detection
+    + This depends on the distance to be measured.  The devices can range from a limit switch to an ultrasonic sensor.
+    - [Photoelectric InfraRed Avoidance detection/Proximity sensor](https://osoyoo.com/2018/12/21/arduino-lesson-ir-obstacle-avoidance-module/)
+        + distance: 2cm ~ 40cm
+        + can use **EN**able pulse or continuous measurement
+        + avoidance distance is adjusted with potentiometer
+        + does not measure distance, just detects it
+    - [Ultrasonic HC-SR04](https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/)
+        + distance: 2cm ~ 4 m
+        + uses SONAR, returns a pulse proportonal to the distance
+        + ranging accuracy 3mm, measuring angle 15 degrees
+        + distance is equivalent to [pulse measured](https://www.tutorialspoint.com/arduino/arduino_ultrasonic_sensor.htm)
+
+    ![HC-SR04 Ultrasonic Sensor](images/14_ultrasonic.png "HC-SR04 Ultrasonic Sensor")
+
+&nbsp;
+
 - Motion detection
-    - PIR Motion Detection HC-SR501
-    - Microwave module Doplar detection RCWL-0516
-- Water
-    - Water level sensor
-- Light
+    + Commonly used to detect the presence of humans or animals in a room/vicinity.
+    - [HC-SR501 PIR Sensor](https://dronebotworkshop.com/techfile/passive-infrared-sensors-pir/)
+        + PIR - Passive Infra Red Sensor
+        + Detectable cover distance 120 degrees, 7 meters
+        + has a repeatable and non-repeatable operating mode
+
+    ![PIR Sensor for Motion Detection](images/14_PIRsensor.png "PIR Sensor for Motion Detection")
+
+    - [Microwave module Doplar detection RCWL-0516](https://dronebotworkshop.com/rcwl-0516-experiments/)
+        + Stand-alone module using "Doplar Radar" to detect motion
+        + Can be connected to a computer processor
+        + Detectable cover distance 7 meters
+
+&nbsp;
+
+- [Light Measurement & Detection](https://www.electronicshub.org/light-sensors/)
+    + Light intensity can be detected/measured using LDR (Light Dependent Resistors) or Light Sensor Modules (using Phototransistor circuits)
     - LDR 5516
-    - LM393 Light Sensor Module
-    - BH1750FVI Digital Light intensity Sensor Module
+        + Low cost measurement/detection of light using LDR
+        + Variable analog voltage received as input\
+        + Can be calibrated
+        + Measured using Arduino analogRead() function
+        + Use a 5K ~ 10K resistor for the Arduino Uno
+
+    ![Measuring Light with LDR](images/14_LDR.png "Measuring Light with LDR")
+
+        - [Using a Photocell](https://learn.adafruit.com/photocells/using-a-photocell)
+
+&nbsp;
+
 - Time
+    + These are modules that allow you to keep track of the time.  A RTC uses a small battery, crystal and memory to maintain a on-going clock which can be read to provide the current date and time.
     - Real-time Clock Modules
-        - RTC DS3231 using I2C
-        - RTC DS1302 using single-wire
+        - [RTC DS3231 using I2C](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe)
+        - [RTC DS1302 using single-wire](https://playground.arduino.cc/Main/DS1302/
+
+&nbsp;
+
+- [Rotary Encoders](https://dronebotworkshop.com/rotary-encoders-arduino/)
+    + a rotary encoder reads the positional value of a shaft by comparing 2 pulses as the shaft turns.
+    + looks like a potentiomenter, but does not change resistance
+    + rotary encoders are now used for volume controls, motor encoders etc
 - Weight
-    - Load Cell Weight Sensor HX711 AD Converter
+    + A load cell provides a means of measuring the weight of an object.  This is done by the measuring the contraction of metals.  Usually a module is provided to read the data from a load cell and transfer the results to the computer processor.
+    - [Load Cell Weight Sensor HX711 AD Converter](https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/)
+- Water
+    - [Water level sensor](https://www.instructables.com/id/How-to-use-a-Water-Level-Sensor-Arduino-Tutorial/)
+
+&nbsp;
+
 - Arduino Sensor Kit
+    + [37 in 1 kit](https://www.instructables.com/id/Arduino-37-in-1-Sensors-Kit-Explained/)
+
+&nbsp;
+
+### Assignment 14
+
+In this assignment, you will attempt to interface two input devices to your arduino..
+
+I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
+
+| Time   | Task |
+|--------|:------------------------------------------------|
+|30 min  | Interface the Ultrasonic sensor to your Uno board |
+|30 min  | Interface the DHT-11 sensor to your Uno board ||
+|60 min  | Plan what you want to do as your final project |
+
+
+This assignment requires the wiring of the circuitry using the Arduino Uno board and breadboard with other components.  You may need to consult your lecturer during the breakout sessions regarding troubleshooting of the circuitry.
+
+Complete the following programming assignments:
+
+### Interfacing assignments
+
+1.  Wire up and interface the
+    - Ultrasonic sensor
+    - DHT-11 temperature and humidity sensor
+2.  Draw the circuit diagram (you can use the online app [Circuit Diagram](https://www.circuit-diagram.org/editor/)) to document your work.
+3.  Write the program(s) to make the devices work.
+    -  indicate whether you need to use libaries
+    -  show your resuls using the Serial Monitor and/or Serial Plotter
+4.  Take a hero shot (photo or video) of your interfacing achievements
+5.  Write up your blog.
+
+### Final Project Planning
+
+1.  Go through the list of suggested projects in the Final Project section.
+2.  Google/Search for completed ideas which you might want to use.
+3.  Decide on a final project
+    -  Indicate what changes you would like to make
+    -  Do a sketch of what your final project would look like
+    -  Write down the tasks that you need to complete, taking into consideration
+        -  what you need to design in 2D/3D
+        -  what you need to lasercut
+        -  what you need to 3D print
+        -  what sensors you require
+        -  whether the program is available to you, what changes do you need to make
+    *  Write down the Bill-of-materials (BOM)
+    *  Complete the above and post it in the Final Project Section
+        *  Label this Initial Plan
+        *  Provide photos, sketches, evidence of your work
+
+&nbsp;
+
+**July 2020**
 
