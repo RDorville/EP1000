@@ -2,7 +2,7 @@
 ## Final Project - Frequently Asked Questions
 
 #### What is a "Hero" Shot?
-> When you have completed your assignment, and it works.  A "hero" shot shows the working assignment e.g. screenshot or a video demonstrating that your solution works.  You're the "hero" in doing that!
+> When you have completed your assignment, and it works.  A "hero" shot shows the working assignment e.g. screen shot or a video demonstrating that your solution works.  You're the "hero" in doing that!
 > 
 > [Definition: Hero Shot](https://unbounce.com/conversion-glossary/definition/hero-shot/)
 
@@ -35,7 +35,21 @@
 >  2. Drawn all CAD files for 2D and 3D work
 >  3. Created the case/fittings using Laser cutting and 3D printing
 >  4. Used 
->      - an Arduino Uno or microcontroller
+>      - an Arduino Uno or micro controller
 >      - Interfaced an output device
 >      - Interfaced an input device
 >      - made changes to your code to reflect your own design parameters
+
+#### You've asked us to produce initial sketches of our ideas.  Where do we submit these ideas?<br>
+>  You should scan/take photos of your sketches and place them into your project folder.  This provides useful information towards your thought process and design.
+>  You could create the following structure on you website
+>  root
+>  -  HTML files on each week's work and assignments
+>  -  images folder
+>  -  project folder
+>     -  sketches, photos, video
+>     -  plans and designs for the final project
+>     -  documentation
+
+
+

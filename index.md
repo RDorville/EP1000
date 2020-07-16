@@ -32,11 +32,11 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |10  |Mon 06 July |[Analog I/O & Input devices](13_AnalogIO.md)|
 |    |Fri 10 July |*Public Holiday - Polling Day*|
 |11  |Mon 13 July |[Input devices](14_InputDevices.md)|
-|    |Fri 17 July |Output devices & Practical Sessions|
+|    |Fri 17 July |[Output devices](15_OutputDevices.md)|
 
 &nbsp;
 
-### Final project
+###Final project
 
 1.  [Specifications & Requirements](finalProject/Final Project.md)    
     Version: 1.0 - 9th July 2020
@@ -52,7 +52,7 @@ For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProjec
 
 &nbsp;
 
-### Other Information
+###Other Information
 
 1.  [2020 Sem 1 Class Websites](2020S1_students.md)
 2.  [EP1000 Class Kit](ep1000classkit.md) components list.
@@ -60,7 +60,7 @@ For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProjec
 
 &nbsp;
 
-### [Student websites](2020S1_students.md)
+###[Student websites](2020S1_students.md)
 
 These are the [student websites](2020S1_students.md) which show-off their work and progress through the module.
 
@@ -68,45 +68,40 @@ If you have changed/updated the URL for your website, please record it here on t
 
 &nbsp;
 
-### Overview
+###Overview
 
-* [Project Management](01_project_management.md)
+* Project Management
     * Project Management Techniques
         * Safety Issues
         * Project Management Principles
         * Version control
-    * [Documentation techniques](02_documentation_techniques.md)
+    * Documentation techniques
         * Website development using
             * HTML
             * Markdown
         * Site hosting through GitHub
-    + [Version control](03_version_control.md)
+    + Version control
         + What is version control?
         + git
-
-* [Computer Aided Design](sorry.md)
+* Computer Aided Design
     * Using Fusion 360
     * 2D drawing techniques
     * 3D Modelling
-
-* [3D Printing techniques](sorry.md)
+* 3D Printing techniques
     * Slicing techniques
     * 3D printing techniques
     * Practical implications
-
-* [2D Cutting techniques](sorry.md)
+* 2D Cutting techniques
     * Laying out for 2D cutting
     * Laser cutting techniques
     * Engraving methods
     * Other cutting methodolgies
-
-* [Embedded programming](sorry.md)
+* Embedded programming
     * The ATMega328 microcontroller
     * Arduino Uno System
     * Input & output devices
     * Simple Interfacing techniques
-
-* [Project Prototyping](sorry.md)
+* Project Prototypingsorry.md
     * Ideation & Design
     * Documentation
     * Fabricating the prototype

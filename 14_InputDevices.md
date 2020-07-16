@@ -5,7 +5,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 ### Sensors
 
 - A sensor is a device, module, machine or subsystem whose purpose is to detect events or changes in its environment and send the information to other electronics, frequently a computer processor. (Ref: [Wikipedia: Sensor](https://en.wikipedia.org/wiki/Sensor))
-- Used in everyday objects to read changes in the enviroment.
+- Used in everyday objects to read changes in the environment.
 - Sensor readings are usually analog by nature.
 - Changes are usually slower in availability (compared to computer processors) and require some processing techniques.
 
@@ -31,7 +31,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 - Sensor data
     + Real environment data is analog by nature.  It may be some physical element e.g. temperature, distance
     + A sensor converts this data into an **equivalent** electrical signal/voltage that is sent to the computer processor.
-    + The computer processor has to read this electrical signal and convert it into an understansable value.
+    + The computer processor has to read this electrical signal and convert it into an understandable value.
     - Analog signals
         - most common type of sensor data
         - requires conversion to a digital value, usually with an ADC
@@ -42,14 +42,14 @@ Input devices are often called **Sensors**.  Output devices are often called **A
         - processor needs to decode to understand the value
 - Arduino Libraries
     + The Arduino System is very popular because there is large number of libraries (of code) available for almost every Sensor that you can think of.
-    + Add libraries to the Arduion IDE System (Ref: Arduino.cc [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries))
+    + Add libraries to the Arduino IDE System (Ref: Arduino.cc [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries))
         * There are two types of libraries,
-            - Searchable using the Arduino IDE sytem (Internal)
+            - Search able using the Arduino IDE system (Internal)
             - External libraries, available as compressed C++ code.
         * How to add a library using the Library Manager
             1.  `IDE > Sketch > Install Library > Manage Libraries`
             2.  Search for the library
-            3.  Hightlight and click Install, when complete, it should state "Installed"
+            3.  Highlight and click Install, when complete, it should state "Installed"
         * How to add an External library (.ZIP format)
             1.  Search for the library on the Internet
             2.  Download the library, usually in a compressed .ZIP file
@@ -63,12 +63,12 @@ Input devices are often called **Sensors**.  Output devices are often called **A
             5.  Copy the extracted library folder to [Sketchbook folder] > Libraries folder
             6.  Close the IDE.  Re-open.
     - Check that the Library has been added using `IDE > Sketch > Include Library`.  You should see your installed library there.
-    + To apply the library code to your application, add the header file a the top of your sketch using `IDE > Sketch > Include Libary > LibName`.  The header file has an extension of `.h`.
+    + To apply the library code to your application, add the header file a the top of your sketch using `IDE > Sketch > Include Library > LibName`.  The header file has an extension of `.h`.
 
 ### Types of  Sensors
 
 - Switches
-    - An electrical component that can disconnect or connect the conducting pather of a circuit.
+    - An electrical component that can disconnect or connect the conducting path of a circuit.
     - Provides a LOW or HIGH signal depending on the circuitry.
     - Use `digitalRead()` to determine value of a switch.
     - Be aware of debouncing techniques when mechanical switches are in use.
@@ -86,7 +86,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
             + a switch which is closed or opened by a sliding mechanism.
             + when changed, the switch remains in the new state.
         - [Touch Capacitative switch](https://duckduckgo.com/?q=touch+capacitative+switch&t=canonical&iar=images&iax=images&ia=images)
-            + switch works based on body capacitace.
+            + switch works based on body capacitance.
             + when a person touches it, the body increases the capacitance of the switch and triggers the switch
 &nbsp;
 - Temperature, Humidity
@@ -96,7 +96,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
             +  freezing point of water = 0 degrees Centigrade
             +  boiling point of water = 100 degrees Centigrade
             +  typical Singapore temperature = 28 - 32 degrees Centigrade
-    *  humidity is the measure of the concentration of water vapour present in the air.  Singapore's humidity is between 70-90%.
+    *  humidity is the measure of the concentration of water vapor present in the air.  Singapore's humidity is between 70-90%.
     - the following devices can be used with the Arduino system
         - [DHT-11](https://components101.com/dht11-temperature-sensor)
             - operating voltage range 3.5~5.5V
@@ -133,7 +133,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
         + does not measure distance, just detects it
     - [Ultrasonic HC-SR04](https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/)
         + distance: 2cm ~ 4 m
-        + uses SONAR, returns a pulse proportonal to the distance
+        + uses SONAR, returns a pulse proportional to the distance
         + ranging accuracy 3mm, measuring angle 15 degrees
         + distance is equivalent to [pulse measured](https://www.tutorialspoint.com/arduino/arduino_ultrasonic_sensor.htm)
 
@@ -158,7 +158,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 &nbsp;
 
 - [Light Measurement & Detection](https://www.electronicshub.org/light-sensors/)
-    + Light intensity can be detected/measured using LDR (Light Dependent Resistors) or Light Sensor Modules (using Phototransistor circuits)
+    + Light intensity can be detected/measured using LDR (Light Dependent Resistors) or Light Sensor Modules (using Photo transistor circuits)
     - LDR 5516
         + Low cost measurement/detection of light using LDR
         + Variable analog voltage received as input\
@@ -182,7 +182,7 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 
 - [Rotary Encoders](https://dronebotworkshop.com/rotary-encoders-arduino/)
     + a rotary encoder reads the positional value of a shaft by comparing 2 pulses as the shaft turns.
-    + looks like a potentiomenter, but does not change resistance
+    + looks like a potentiometer, but does not change resistance
     + rotary encoders are now used for volume controls, motor encoders etc
 - Weight
     + A load cell provides a means of measuring the weight of an object.  This is done by the measuring the contraction of metals.  Usually a module is provided to read the data from a load cell and transfer the results to the computer processor.
@@ -199,14 +199,14 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 
 ### Assignment 14
 
-In this assignment, you will attempt to interface two input devices to your arduino..
+In this assignment, you will attempt to interface two input devices to your Arduino.
 
 I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
 
 | Time   | Task |
 |--------|:------------------------------------------------|
 |30 min  | Interface the Ultrasonic sensor to your Uno board |
-|30 min  | Interface the DHT-11 sensor to your Uno board ||
+|30 min  | Interface the DHT-11 sensor to your Uno board |
 |60 min  | Plan what you want to do as your final project |
 
 
@@ -219,12 +219,12 @@ Complete the following programming assignments:
 1.  Wire up and interface the
     - Ultrasonic sensor
     - DHT-11 temperature and humidity sensor
-2.  Draw the circuit diagram (you can use the online app [Circuit Diagram](https://www.circuit-diagram.org/editor/)) to document your work.
+2.  Draw the circuit diagram (you can use the on line app [Circuit Diagram](https://www.circuit-diagram.org/editor/)) to document your work.
 3.  Write the program(s) to make the devices work.
-    -  indicate whether you need to use libaries
-    -  show your resuls using the Serial Monitor and/or Serial Plotter
+    -  indicate whether you need to use libraries
+    -  show your results using the Serial Monitor and/or Serial Plotter
 4.  Take a hero shot (photo or video) of your interfacing achievements
-5.  Write up your blog.
+5.  Write up your website page.
 
 ### Final Project Planning
 
