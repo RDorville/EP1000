@@ -64,8 +64,8 @@ Output devices are often called **Actuators**.  An Actuator is a component that 
         digitalWrite(GREEN, HIGH);
 
         // to get shades
-        analogWrite(127, 0, 0);         // mid-Red
-        analogWrite(255,255,0);         // bright Yellow
+        RGB_lightup(127, 0, 0);         // mid-Red
+        RGB_lightup(255,255,0);         // bright Yellow
         ...
 
     // function to get different colors from an RGB using analogWrite()
