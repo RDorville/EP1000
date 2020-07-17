@@ -114,6 +114,16 @@ Output devices are often called **Actuators**.  An Actuator is a component that 
 &nbsp;
 
 * Other displays
+    -   [NeoPixel LEDs](https://components101.com/displays/neopixel-led-strip)
+        +   These are LED strips of serially interconnected RGB LEDs that are individually addressable and programmable.
+        +   Programming is done through a single serial data line which sends the address and light-up information of a particular LED on the strip.
+        +   Neopixel LEDs are good for configurable lighting, where you can change the intensity (number of LEDs lighted) as well as the color.
+        +   Neopixel LEDs require quite a lot of current, so don't expect to light up more than 8 using the USB supply!
+        +   Adafruit provides an excellent [NeoPixel Guide](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use) and library.
+        +   Arduino Project Hub [NeoPixel Example](https://create.arduino.cc/projecthub/glowascii/neopixel-leds-arduino-basics-126d1a) and [Tutorial](https://create.arduino.cc/projecthub/robocircuits/neopixel-tutorial-1ccfb9)
+    ![Single Pin NeoPixel Strip Control](images/1508_neopixel.jpg "Single Pin NeoPixel Strip Control")
+    Ref: Tweaking For All - [All LEDStrip effects in one](https://www.tweaking4all.com/hardware/arduino/arduino-all-ledstrip-effects-in-one/)<br>
+    
     -   [OLED (SSD1306)](https://components101.com/oled-display-ssd1306)
         +   these are newer monochrome displays
         +   small and inexpensive
