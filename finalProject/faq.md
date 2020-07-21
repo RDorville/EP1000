@@ -51,5 +51,15 @@
 >     -  plans and designs for the final project
 >     -  documentation
 
+#### I have posted my required component list to the Telegram group, what's next<br>
+>  The list of materials used in the project (called the Bill-of-Materials (BOM)) should be included in your Project Site as part of the requirements of the project documentation.
+>  You will not get any credit if you post it to the Telegram group.
+>  Once, you have posted the BOM, discuss with your lecturer whether the parts are available, and the expected arrival date.
+>  Do not wait for the parts to come, there are other design aspects to be done.
+
+
+#### Can I just buy an enclosure and stuff my electronics, sensors into it?  I have found a box that suits my purpose<br>
+>  Unfortunately, the only modules that can be used pre-built are the microcontroller and the electronic modules, the others you will need to design from scratch.
+>  You will also need to show your design files for the 2D and 3D work on the enclosures and housing.
 
 
