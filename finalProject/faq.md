@@ -63,3 +63,16 @@
 >  You will also need to show your design files for the 2D and 3D work on the enclosures and housing.
 
 
+#### What sort of sketches should I be doing for the planning of the project<br>
+>  Any sketch would be ok, as long as it shows what you intend to do.
+>  Here is an example:
+>  ![Example Project Sketch](../finalProject/teamaker_concept.jpg "My concept of a automated tea-maker")
+> (Thanks, Noel K!)
+
+
+#### How do I create a Bill-of-Materials, how does it look like, which should I have one?<br>
+>  A BOM indicates what you need to complete your project, approximately how much you are going to spend/purchase/aquire.
+>  It allows you to plan the arrival of the components and to give enough time to aquire them.
+>  A BOM will also show whether it is realistic to continue with your project.
+![BOM Example](../finalProject/BOMexample.jpg "Example of a BOM")
+>  (Thanks, Ting KE)
