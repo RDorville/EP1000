@@ -39,7 +39,7 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |    |Fri 31 July |*Public Holiday - Hari Raya Haji*|
 |14  |Mon 03 Aug  |Final project - implementation |
 |    |Fri 07 July |                      |
-|15  |Mon 10 Aug  |*Public Holiday - National Day (Sunday)|
+|15  |Mon 10 Aug  |*Public Holiday - National Day (Sunday)*|
 |    |Tue-Fri     |Final project - open consultations|
 |16  |Mon 17 Aug  |Final project - Presentations|
 |    |Fri 21 Aug  |2359hrs closing of module |
@@ -54,7 +54,7 @@ Here are the summaries for each of the class sessions that we have conducted.  P
     Updated: 20th July 2020
 3.  [Available components](finalProject/component_list.md)    
     Updated: 13th July 2020
-4.  [Some tips & tricks](../finalProject/notes_tt01.md)
+4.  [Some tips & tricks](finalProject/notes_tt01.md)
 
 Note:
 
