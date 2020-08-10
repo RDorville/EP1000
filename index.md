@@ -33,6 +33,16 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |    |Fri 10 July |*Public Holiday - Polling Day*|
 |11  |Mon 13 July |[Input devices](14_InputDevices.md)|
 |    |Fri 17 July |[Output devices](15_OutputDevices.md)|
+|12  |Mon 20 July |Final project - design|
+|    |            |                      |
+|13  |Mon 27 July |CAD designs, electronics prototyping |
+|    |Fri 31 July |*Public Holiday - Hari Raya Haji*|
+|14  |Mon 03 Aug  |Final project - implementation |
+|    |Fri 07 July |                      |
+|15  |Mon 10 Aug  |*Public Holiday - National Day (Sunday)|
+|    |Tue-Fri     |Final project - open consultations|
+|16  |Mon 17 Aug  |Final project - Presentations|
+|    |Fri 21 Aug  |2359hrs closing of module |
 
 &nbsp;
 
@@ -44,6 +54,7 @@ Here are the summaries for each of the class sessions that we have conducted.  P
     Updated: 20th July 2020
 3.  [Available components](finalProject/component_list.md)    
     Updated: 13th July 2020
+4.  [Some tips & tricks](../finalProject/notes_tt01.md)
 
 Note:
 
