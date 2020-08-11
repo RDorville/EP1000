@@ -90,6 +90,8 @@ We would like to suggest the following project plan towards the completion of yo
 |                 | 4 hr      | Embedded design, I/O considerations, testing |
 |Wed 05 Aug       | 12 hr     | Finishing touches, testing
 |Wed 12 Aug       | 12 hr     | Submission of project, presentation preparation | allocation of presentation date |
+|**Mon 17 Aug** |  |Presentation (to be allocated) |
+|**Fri 21 Aug** |  | 2359hrs Final deadline for all submissions |
 
 Note that there is no time(s) allocated for the documentation.  You **MUST** document as you go, otherwise you will not be able to complete the tasks as well as write the documentation at the same time.
 
@@ -110,7 +112,5 @@ The following are some project suggestions.  The titles and explanations are ver
 10. [Laser Engraved clocks using light](https://www.instructables.com/id/PlexiClock/)
 11. [Time lapse photo controller](https://makezine.com/projects/built-a-motion-control-rig-for-time-lapse-photography/)
 12. [Most Useless Machine Ever Project](https://www.instructables.com/id/Arduino-Most-Useless-Machine-Ever-project/)
-
-
 
 
