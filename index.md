@@ -33,10 +33,20 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 |    |Fri 10 July |*Public Holiday - Polling Day*|
 |11  |Mon 13 July |[Input devices](14_InputDevices.md)|
 |    |Fri 17 July |[Output devices](15_OutputDevices.md)|
+|12  |Mon 20 July |Final Project - Design |
+|    |Fri 24 July |  |
+|13  |Mon 27 July |Practical work at Fablab |
+|    |Fri 31 July |*Public Holiday - Hari Raya Haji* |
+|14  |Mon 03 Aug  |Final Project - Implementation |
+|    |Fri 07 Aug  |  |
+|15  |Mon 10 Aug  |*Public Holiday - National Day Holiday*|
+|    |Fri 14 Aug  |Final Project - Implementation |
+|16  |Mon 17 Aug  |Final Project - Presentations |
+|    |Fri 21 Aug  |Deadline 2359 hrs - All material to be submitted |
 
 &nbsp;
 
-###Final project
+### Final project
 
 1.  [Specifications & Requirements](finalProject/Final Project.md)    
     Version: 1.0 - 9th July 2020
@@ -46,6 +56,8 @@ Here are the summaries for each of the class sessions that we have conducted.  P
     Updated: 13th July 2020
 4.  [Final Presentation Requirements](finalProject/final_presentation_requirements.md)    
     You will be required to present your final project in the week starting 17th August (Mon & Fri).  Please read the following document to find out what you have to prepare for the presentation - [Final Presentation Requirements](finalProject/final_presentation_requirements.md)
+5.  [Notes, tips, tricks](finalProject/notes_tt01.md)    
+    Here are some notes, tips and tricks on how to complete your project.  This section will be updated as I get more material in, keep coming back for more information (updated 10th August 2010)
 
 Note:
 
@@ -54,7 +66,7 @@ For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProjec
 
 &nbsp;
 
-###Other Information
+### Other Information
 
 1.  [2020 Sem 1 Class Websites](2020S1_students.md)
 2.  [EP1000 Class Kit](ep1000classkit.md) components list.
@@ -62,7 +74,7 @@ For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProjec
 
 &nbsp;
 
-###[Student websites](2020S1_students.md)
+### [Student websites](2020S1_students.md)
 
 These are the [student websites](2020S1_students.md) which show-off their work and progress through the module.
 
@@ -70,7 +82,7 @@ If you have changed/updated the URL for your website, please record it here on t
 
 &nbsp;
 
-###Overview
+### Overview
 
 * Project Management
     * Project Management Techniques

@@ -55,6 +55,7 @@ Most of the projects propose fall into these categories, perhaps this websites c
 * USB Volume control<br>
 Suggest that you use a DigiSpark ATTiny85, which we have in Fablab, the programming is similar to the Arduino Mega
     * [How To Program A Digispark (ATTINY85)](https://youtu.be/1IYCBuY5dw0)
+    * [Digistump DigiSpark Wiki](http://digistump.com/wiki/digispark)
     * [Simple DIY USB Control Knob](https://www.instructables.com/id/Digispark-Volume-Control/)
     * [USB Volume Knob Using DigiSpark and Rotary Encoder](https://www.instructables.com/id/USB-Volume-Knob-Using-DigiSpark-and-Rotary-Encoder/)
 
