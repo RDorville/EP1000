@@ -4,6 +4,14 @@ In this module you will learn how to use Digital Fabrication techniques in desig
 document and publish your work.  You will use Computer Aided Design techniques, 3D printing and laser cutting methods to develop your prototype.  In addition,
 you will be use a microcontroller to add intelligence to your project.
 
+## Final Project Instructions
+
+Please note that your final presentations will be held on Friday 21st August 2020 and Monday 24th August 2020.
+
+Please read the following: [Final Project Presentation Instructions](finalProject/finalInstructions.md)
+
+
+
 ### Class Discussions & Assignments
 
 Here are the summaries for each of the class sessions that we have conducted.  Please refer to these summaries to help you with your work and assignments.  As always if there are any questions, queries or corrections please do not hesitate to contact me for clarification.
@@ -57,7 +65,10 @@ Here are the summaries for each of the class sessions that we have conducted.  P
 4.  [Final Presentation Requirements](finalProject/final_presentation_requirements.md)    
     You will be required to present your final project in the week starting 17th August (Mon & Fri).  Please read the following document to find out what you have to prepare for the presentation - [Final Presentation Requirements](finalProject/final_presentation_requirements.md)
 5.  [Notes, tips, tricks](finalProject/notes_tt01.md)    
-    Here are some notes, tips and tricks on how to complete your project.  This section will be updated as I get more material in, keep coming back for more information (updated 10th August 2010)
+    Here are some notes, tips and tricks on how to complete your project.  This section will be updated as I get more material in, keep coming back for more information.    
+    Updated 10th August 2020
+6.  [Final Instructions](finalProject/finalInstructions.md)    
+    Updated 14th August 2020
 
 Note:
 
