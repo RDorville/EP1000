@@ -45,6 +45,5 @@ The assignment for this **class** is [Assignment 1 Safety](assignments/01_safety
 
 &nbsp;
 
-:house: [**Home**](index.md)
-
+![[Home](index.md)](images/home.png)  
 October 2020

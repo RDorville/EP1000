@@ -44,7 +44,7 @@ FabLab Singapore Polytechnic is part of the Global Digital Fabrication family of
 1.  [3D Printing objects](https://www.pinterest.com/kyracwu/digital-fabrication-3d-printing/)
     - Examples in [Thingiverse](https://www.thingiverse.com/)
 2.  Computer Controlled cutting 
-    - [Examples][https://www.pinterest.com/search/pins/?q=Laser%20cutting&rs=typed&term_meta[]=Laser%7Ctyped&term_meta[]=cutting%7Ctyped],
+    - MIT [Laser cut Car](http://fab.cba.mit.edu/classes/863.14/people/dan_chen/computer-controlled-cutting-laser-cutter/)
     - [Creative Laser cutting](https://youtu.be/W58UjRpXQ9I)
     - [CNC Cutting Plotter](https://youtu.be/HsxXjeY6vNI) 2:19
     - [Vinyl Cutting](https://youtu.be/10-DYGvMFPc)
@@ -58,5 +58,5 @@ FabLab Singapore Polytechnic is part of the Global Digital Fabrication family of
 
 &nbsp;
 
-:blush: [Home](index.md)  
+![[Home](index.md)](images/home.png)  
 October 2020
