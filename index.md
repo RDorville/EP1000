@@ -1,144 +1,107 @@
 ## EP1000 Digital Fabrication Prototyping Fundamentals
 
 In this module you will learn how to use Digital Fabrication techniques in designing and creating prototypes.  In the process you will learn how to
-document and publish your work.  You will use Computer Aided Design techniques, 3D printing and laser cutting methods to develop your prototype.  In addition,
-you will be use a microcontroller to add intelligence to your project.
+document and publish your work.  You will use Computer Aided Design techniques, 3D printing and laser cutting methods to develop your prototype.  In addition, you will be use a microcontroller to add intelligence to your project.
 
-## Final Project Instructions
-
-Please note that your final presentations will be held on Friday 21st August 2020 and Monday 24th August 2020.
-
-Please read the following: [Final Project Presentation Instructions](finalProject/finalInstructions.md)
-
-
-
-### Class Discussions & Assignments
-
-Here are the summaries for each of the class sessions that we have conducted.  Please refer to these summaries to help you with your work and assignments.  As always if there are any questions, queries or corrections please do not hesitate to contact me for clarification.
-
-|Week  |**Date**    | **Discussion & Assignment**       |
-|:---|:---------- |:----------------------------------|
-|01  |Mon 20 Apr  |[Safety & Tools](01_project_management.md) |
-|    |Fri 24-Apr  |[Software Tools & HTML](01_project_management.md)|
-|02  |Mon 27 Apr  |[Webpage development](02_documentation_techniques.md)|
-|    |Fri 01 May  |*Labor Day Holiday*|
-|03  |Mon 04 May  |[Website hosting, Github](025_website_development.md)|
-|    |Fri 08 May  |[Project Management using git](03_version_control.md)|
-|04  |Mon 11 May  |[Computer Aided Design](04_CAD.md)|
-|    |Fri 15 May  |[Drawing 3D objects using extrusion](05_Fusion360.md)|
-|05  |Mon 18 May  |[Modelling 3D Objects](06_3dmodelling.md)|
-|    |Fri 22 May  |[Fusion 360 Features](07_F360Features.md)|
-|06  |Mon 25 May  |*Hari Raya Holiday*|
-|    |Fri 29 May  |[Parametric Modelling](08_ParametricDesign.md)|
-|07  |Mon 01 June |[3D Printing](09_3DPrinting.md)|
-|    |Fri 04 June |[Preparation for Laser Cutting](10_PrepLaserCutting.md)|
-|    |Mon 08 June |**Mid term break**|
-|08  |Mon 22 June |[Introduction to Electronics](11_Electronics.md) |
-|    |Fri 26 June |Practical Sessions - Safety, 3D Printingin, Lasercutting<br>Collect [EP1000 Class Kit](ep1000_class_kit.md)|
-|09  |Mon 29 June |[Introduction to Arduino System & Microcontrollers](Embedded_Programming_with_Arduino.pdf)|
-|    |Fri 03 July |[Simple Input & Output Interfacing](12_arduinoprogramming.md) |
-|10  |Mon 06 July |[Analog I/O & Input devices](13_AnalogIO.md)|
-|    |Fri 10 July |*Public Holiday - Polling Day*|
-|11  |Mon 13 July |[Input devices](14_InputDevices.md)|
-|    |Fri 17 July |[Output devices](15_OutputDevices.md)|
-|12  |Mon 20 July |Final Project - Design |
-|    |Fri 24 July |  |
-|13  |Mon 27 July |Practical work at Fablab |
-|    |Fri 31 July |*Public Holiday - Hari Raya Haji* |
-|14  |Mon 03 Aug  |Final Project - Implementation |
-|    |Fri 07 Aug  |  |
-|15  |Mon 10 Aug  |*Public Holiday - National Day Holiday*|
-|    |Fri 14 Aug  |Final Project - Implementation |
-|16  |Mon 17 Aug  |Final Project - Presentations |
-|    |Fri 21 Aug  |Deadline 2359 hrs - All material to be submitted |
+This module is offered as an elective to students of Singapore Polytechnic as part of their Diploma course.
 
 &nbsp;
 
-### Final project
+## Module Aims
 
-1.  [Specifications & Requirements](finalProject/Final Project.md)    
-    Version: 1.0 - 9th July 2020
-2.  [Frequently Asked Questions](finalProject/faq.md) for Final Project    
-    Updated: 20th July 2020
-3.  [Available components](finalProject/component_list.md)    
-    Updated: 13th July 2020
-4.  [Final Presentation Requirements](finalProject/final_presentation_requirements.md)    
-    You will be required to present your final project in the week starting 17th August (Mon & Fri).  Please read the following document to find out what you have to prepare for the presentation - [Final Presentation Requirements](finalProject/final_presentation_requirements.md)
-5.  [Notes, tips, tricks](finalProject/notes_tt01.md)    
-    Here are some notes, tips and tricks on how to complete your project.  This section will be updated as I get more material in, keep coming back for more information.    
-    Updated 10th August 2020
-6.  [Final Instructions](finalProject/finalInstructions.md)    
-    Updated 14th August 2020
+In this elective, students are introduced to design thinking concepts, which they will use to design some functional prototypes to meet certain user requirements. Fundamental digital fabrication skills and technologies such as computer-aided design, 2D and 3D modelling, mechanical & electronic design and programming skills are developed through a range of hands-on real world activities. Project management, web and version control techniques, which are important for project development, will also be imparted to students.
 
-Note:
+&nbsp;
 
-For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProject/Final Project.pdf)
+## Teaching Methods
+
+The module incorporates active and experiential learning (CDIO Standard 8) through a combination of tutorials, e-learning and practical workshop sessions. To help the students better understand the basic essential concepts, demonstrations will also be conducted in the lab/workshop (CDIO Standard 6). Audio visual media, hardware and various teaching aids will be used in the course delivery for effective learning.
+
+Students have to demonstrate their ability to work individually and in groups to encourage teamwork, personal and interpersonal communication skills.
+
+&nbsp;
+
+## Method of Assessment
+
+Assessment will be based on exercises and projects through three in-course assessments (ICA) as follows:
+
+| S/No   | Code   | Description                    | Weightage  |
+|:------:|:------:|--------------------------------|:----------:|
+| 1      |CA1     | Safety, Documentation, Website | 20%        |
+| 2      |CA2     | Digital Fabrication Skills     | 40%        |
+| 3      |CA3     | Summative Project              | 40%        |
+
+&nbsp;
+
+## Course Schedule
+
+**Session 20/21 Semester 2**
+
+| **Week**  | **Date**   | **Topic** |  **Remarks** |
+|:-----:|:------------|--------|--------|
+| 1     | 19 Oct 2020 |Introduction, Fablab Safety, Tools   ||
+| 2     | 26 Oct 2020 |Software tools, HTML & CSS, Website  ||
+| 3     | 2 Nov 2020  |Personal website development, Markdown   ||
+| 4     | 9 Nov 2020  |Computer Graphics, Computer Aided Design |   14th Nov Depavali|
+| 5     | 16 Nov 2020 |2D Drawing and Modelling     ||
+| 6     | 23 Nov 2020 |3D Modelling     ||
+| 7     | 30 Nov 2020 |3D Printing      ||
+| 8     | 7 Dec 2020  |Computer Controlled Cutting  ||
+| 9     | 14 Dec 2020 | ||
+| 10    | 21 Dec 2020 | Mid-term break |25th Dec Christmas |
+| 11    | 28 Dec 2020 | |1st Jan New Year|
+| 12    | 4 Jan 2021  |Electronics, Embedded programming    ||
+| 13    | 11 Jan 2021 |Basic output devices     ||
+| 14    | 18 Jan 2021 |Basic input devices  ||
+| 15    | 25 Jan 2021 |Module Project   ||
+| 16    | 1 Feb 2021  |Module Project   ||
+| 17    | 8 Feb 2021  |Module Project   ||
+| 18    | 15 Feb 2021 |Project Presentation & Demonstration  |  12 & 13th Feb CNY||
+
+&nbsp;
+
+## Course Notes
+
+### Topics
+
+1.  [Digital Fabrication](00_digital_fabrication.md)
+2.  [FabLab Safety](01_fablab_safety.md)
+3.  FabLab Tools
+4.  Project Management
+5.  Web Development
+6.  Version Control
+7.  Computer Aided Design
+8.  3D Printing
+9.  Computer Controlled Cutting
+10.  Embedded Programming
+11.  Output Devices
+12.  Input Devices
+13.  Project
+
+### Links
+
+1.  [SC's Module link](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/)
+2.  [Tutorials & templates](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/00-tutorials.html)
+3.  [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)
+4.  Session 2020/21 Semester 2
+    - Class 01
+    - Class 02
+
+&nbsp;
+
+## Announcements
+
+- 19 October 2020<br>
+  Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious :blush:)
+
+
+**October 2020**
 
 
 &nbsp;
 
-### Other Information
 
-1.  [2020 Sem 1 Class Websites](2020S1_students.md)
-2.  [EP1000 Class Kit](ep1000classkit.md) components list.
-
-
-&nbsp;
-
-### [Student websites](2020S1_students.md)
-
-These are the [student websites](2020S1_students.md) which show-off their work and progress through the module.
-
-If you have changed/updated the URL for your website, please record it here on the shared [Google Spreadsheet](https://drive.google.com/file/d/1X9X7FhpFlZU25ybGc4Znd4XozB-3NqZJ/view?usp=sharing) and I will make the necessary link changes.
-
-&nbsp;
-
-### Overview
-
-* Project Management
-    * Project Management Techniques
-        * Safety Issues
-        * Project Management Principles
-        * Version control
-    * Documentation techniques
-        * Website development using
-            * HTML
-            * Markdown
-        * Site hosting through GitHub
-    + Version control
-        + What is version control?
-        + git
-* Computer Aided Design
-    * Using Fusion 360
-    * 2D drawing techniques
-    * 3D Modelling
-* 3D Printing techniques
-    * Slicing techniques
-    * 3D printing techniques
-    * Practical implications
-* 2D Cutting techniques
-    * Laying out for 2D cutting
-    * Laser cutting techniques
-    * Engraving methods
-    * Other cutting methodolgies
-* Embedded programming
-    * The ATMega328 microcontroller
-    * Arduino Uno System
-    * Input & output devices
-    * Simple Interfacing techniques
-* Project Prototyping
-    * Ideation & Design
-    * Documentation
-    * Fabricating the prototype
-    * Adding intelligence
-    * Project presentation
-
-&nbsp;
-
-**April 2020**
-
-
-&nbsp;
+### Sandbox testing
 
 > This is my test area, a sandbox for trying ideas and code
 
