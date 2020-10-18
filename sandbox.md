@@ -34,6 +34,11 @@ blank2.png is 2000x2px transparent
 
 ---------
 
+Image with link
+[![Using FabLab During COVID](images/0100_fablab_covid_use.png "Using FabLab During COVID")](https://youtu.be/fD2nO_e3zO0)
+
+
+
 
 ### Temp storage -------------------------------------------------------
 
@@ -132,8 +137,5 @@ Adding Color to Markdown
 
 
 
-:house: [**Home**](index.md)
-
+[![Home](images/home.png "Home")](index.md) [Home](index.md)   
 October 2020
-
-

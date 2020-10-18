@@ -18,6 +18,12 @@ As parts 1 to 4 can be done on a computer, hence the "Digital" aspect of the the
 
 Digital Fabrication removes a lot of time gathering the experience and expertise in the manufacturing process by creating a viable, testable digital virtual product.
 
+Links:
+
+- Prof. Neil Gershenfeld's presentation on [Introduction to Digital Fabrication (pg ~35)](http://ng.cba.mit.edu/show/script/19.09.fab.html) 
+- MIT Course "[How to Make Almost Anything](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-863-how-to-make-almost-anything-fall-2002/)"
+- [Impact of Digital Fabrication (video)](http://ng.cba.mit.edu/show/slide/16.08.fablabs.html?20:%7B%22duration%22%3A0%2C%22controls%22%3A1%2C%22autoplay%22%3A1%2C%22toplay%22%3A1%7D&17.12.revolutions.html&17.03.Moore.html&17.03.MooreAltair.html&17.03.MooreAltairLass.html&13.08.PopSci.html&17.07.whirlmill.html&16.12.Analyzer.html&17.08.ShannonVonNeumann.html&16.03.amino.html&19.08.papers.html&19.05.alums.html&19.05.tools.html&12.06.HTMAA.html&17.12.TX-0.html&17.12.PDP.html&12.01.no_reason.html&12.07.ten.html&17.03.1e3.0.html&17.03.1e3.1.html&16.08.fablabs.html&18.01.fablab.html&13.11.projects.html&18.04.labmap.html&14.03.Blair.html&13.04.CITC.html&11.06.Haystack.html&17.12.Bhutan.html&17.04.floating.html&19.01.PW.html&13.10.NI.html&15.01.Israel.html&10.08.innovate.html&19.08.Academany.html&18.01.projects.html&15.04.fabeconomy.html&16.08.HTGAA.html&18.01.textile.html&12.01.distance_distributed.html&09.05.Seymour_turtle.html&14.05.FAB10.html&14.07.pledge.html&18.08.FabCity.html&17.11.Poblenou.html&14.06.mobile-WH.html&14.06.NFLN.html&16.07.SDGGHL.html&18.09.TdH.html&15.08.FAB11.html&16.07.FAB12.html&17.04.FAB13.html&18.03.FAB14.html&19.03.FAB15.html&18.01.FAB16.html&19.05.FFACIOn.html&17.06.iorgs.html&17.03.1e3.2.html&17.06.MTM.html&19.05.machines.html&17.06.modular.html&17.03.Jens.html&19.07.squidworks.html&18.01.Jake.html&19.05.M3Ds.html&17.03.1e3.3.html&17.12.inventory.html&17.06.assemble.html&15.04.digcompn.html&19.09.robots.html&19.04.wing.html&17.03.1e3.4.html&16.12.speed.html&19.05.AAproject.html&19.08.printmin.html&16.04.assemstructn.html&16.12.elfn.html&19.07.assembler.html&19.05.robots.html&18.04.walk_control.html&17.11.aligning.html&17.08.2DOFdesign.html&16.12.FTG.html&18.04.JVNTuring.html&16.04.Mars.html&17.03.1e3.4.html&17.11.DR.html&blank.html)
+
 Some useful readings:
 
 - Wiki 2 [Digital modeling and fabrication](https://wiki2.org/en/Digital_modeling_and_fabrication)
@@ -54,9 +60,5 @@ FabLab Singapore Polytechnic is part of the Global Digital Fabrication family of
 
 &nbsp;
 
-<i class="icon-check"></i>
-
-&nbsp;
-
-![[Home](index.md)](images/home.png)  
+[![Home](images/home.png "Home")](index.md) [Home](index.md)   
 October 2020

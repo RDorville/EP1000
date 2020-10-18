@@ -30,7 +30,11 @@ You need to score at least 90% before you can pass this assessment.  This score 
 
 &nbsp;
 
-Links: Singapore [Workplace Safety & Health](https://www.mom.gov.sg/workplace-safety-and-health)
+Links:
+
+- Singapore [Workplace Safety & Health](https://www.mom.gov.sg/workplace-safety-and-health)
+- ESP FabLabSP [Safety Notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1539071_1)
+- ESP FabLabSP [Safety Assessment](https://esp.sp.edu.sg/webapps/assessment/take/launchAssessment.jsp?course_id=_51997_1&content_id=_1539122_1&mode=view)
 
 &nbsp;
 
