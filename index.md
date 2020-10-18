@@ -56,7 +56,7 @@ Assessment will be based on exercises and projects through three in-course asses
 | 15    | 25 Jan 2021 |Module Project   ||
 | 16    | 1 Feb 2021  |Module Project   ||
 | 17    | 8 Feb 2021  |Module Project   ||
-| 18    | 15 Feb 2021 |Project Presentation & Demonstration  |  12 & 13th Feb CNY||
+| 18    | 15 Feb 2021 |Project Presentation & Demonstration  |  12 & 13th Feb CNY|
 
 &nbsp;
 
@@ -78,6 +78,32 @@ Assessment will be based on exercises and projects through three in-course asses
 12.  Input Devices
 13.  Project
 
+### Assignments
+
+Here are the assignments which you will be working on in the course of this module, some of the assignments will contribute to the final marks of this module.
+
+1. [Safety](assignments/01_safety.md)
+2. Tools
+3. Web site development
+4. Computer Aided Design
+5. 2D Design
+6. 3D Design
+7. Soldering & Breadboard prototyping
+8. Embedded programming
+9. Output devices
+10. Input devices
+
+You will also "make" a final project of your choice which demonstrates
+
+- digitial design
+- computer cutting operations
+- 3D printing
+- embedded programming with 
+    - an output device
+    - an input device
+* documentation and presentation of your product.
+
+
 ### Links
 
 1.  [SC's Module link](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/)
@@ -92,7 +118,7 @@ Assessment will be based on exercises and projects through three in-course asses
 ## Announcements
 
 - 19 October 2020<br>
-  Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious :blush:)
+  Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious)
 
 
 **October 2020**
