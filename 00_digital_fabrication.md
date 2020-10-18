@@ -54,5 +54,5 @@ FabLab Singapore Polytechnic is part of the Global Digital Fabrication family of
 
 &nbsp;
 
-:house: [Home](index.md)
+:blush: [Home](index.md)  
 October 2020
