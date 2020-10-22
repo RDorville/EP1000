@@ -58,7 +58,7 @@ How would you construct the above project using
 - which tools would you consider essential to a maker?
 - discuss within a group, a sample toolbox for makers.
 
-Here is a quick tutorial (courtesy of FabLabSP Staff: Louis, Mark & Walter): [Pro typing using Corrugated Cardboard](worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
+Here is a quick tutorial (courtesy of FabLabSP Staff: Louis, Mark & Walter): [Prototyping using Corrugated Cardboard](worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
 
 &nbsp;
 
