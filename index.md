@@ -55,8 +55,8 @@ Assessment will be based on exercises and projects through three in-course asses
 | 14    | 18 Jan 2021 |Basic input devices  ||
 | 15    | 25 Jan 2021 |Module Project   ||
 | 16    | 1 Feb 2021  |Module Project   ||
-| 17    | 8 Feb 2021  |Module Project   ||
-| 18    | 15 Feb 2021 |Project Presentation & Demonstration  |  12 & 13th Feb CNY|
+| 17    | 8 Feb 2021  |Module Project   |  12 & 13th Feb CNY |
+| 18    | 15 Feb 2021 |Project Presentation & Demonstration  ||
 
 &nbsp;
 
