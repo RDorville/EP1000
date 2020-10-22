@@ -20,7 +20,7 @@ The tools that are available in the FabLab include
     - [Universal Laser V660](https://www.innotech-laser.com/equipment/universal-laser/vls660/)
     - [iLaser Nova 10](https://www.aeonlaser.net/nova-series-nova10.html)
 - Large flatbed cutter
-    - [JWei Flatbet cutter](https://avs.com.sg/technologies/product/cb03ii/)
+    - [JWei Flatbed cutter](https://avs.com.sg/technologies/product/cb03ii/)
 - Large flatbed 2D milling router
     - [EAS Versatil 2500](http://panamech.com.my/im/versatile2500.htm)
 - 3-axis milling router
@@ -58,7 +58,7 @@ How would you construct the above project using
 - which tools would you consider essential to a maker?
 - discuss within a group, a sample toolbox for makers.
 
-Here is a quick tutorial (courtesy of FabLabSP Staff: Louis, Mark & Walter): [Protyping using Corrugated Cardboard](worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
+Here is a quick tutorial (courtesy of FabLabSP Staff: Louis, Mark & Walter): [Pro typing using Corrugated Cardboard](worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
 
 &nbsp;
 
