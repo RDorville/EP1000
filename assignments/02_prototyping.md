@@ -25,6 +25,7 @@ I have provided approximate timings for you so that you do **NOT** spend all you
 |30 min  | Sketch the object on paper, add dimensions |
 |30 min  | Try making the object with corrugated cardboard |
 |15 min  | Refine your object, make improvements |
+
 &nbsp;
 
 ### Todo
