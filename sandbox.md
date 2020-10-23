@@ -4,6 +4,18 @@
 
 A place for you to test and try your work before adding it to the site.  It is only accessible using \<repo\>/sandbox.html
 
+### Emojis
+
+Add the following to the _config.yaml file
+
+`
+plugins:
+  - jemoji
+`
+
+They you can add things like :blush: and :house:.
+
+&nbsp;
 
 With a image of 200px
 

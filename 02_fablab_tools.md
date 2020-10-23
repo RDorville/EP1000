@@ -61,6 +61,17 @@ How would you construct the above project using
 
 Here is a quick tutorial (courtesy of FabLabSP Staff: Louis, Mark & Walter): [Prototyping using Corrugated Cardboard](worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
 
+### Assignment
+
+The assignment for this **class** is [Assignment 2 Prototyping](assignments/01_prototyping.md).  You will be required to
+
+- Select and object you would like to "make"
+- Create a real-sized prototype of the object using corrugated cardboard
+- Document your work with photos, images and text
+
+[Assignment 2 Prototyping](assignments/01_prototyping.md) is not graded.
+
+
 &nbsp;
 
 [![Home](images/home.png "Home")](index.md) [Home](index.md)   

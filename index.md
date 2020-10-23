@@ -83,7 +83,7 @@ Assessment will be based on exercises and projects through three in-course asses
 Here are the assignments which you will be working on in the course of this module, some of the assignments will contribute to the final marks of this module.
 
 1. [Safety](assignments/01_safety.md)
-2. Tools
+2. [Prototyping](assignments/02_prototyping.md)
 3. Web site development
 4. Computer Aided Design
 5. 2D Design
