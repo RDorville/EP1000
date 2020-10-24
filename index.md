@@ -5,6 +5,18 @@ document and publish your work.  You will use Computer Aided Design techniques, 
 
 This module is offered as an elective to students of Singapore Polytechnic as part of their Diploma course.
 
+Quick Links:
+
+- [Module Aims](#module-aims)
+- [Teaching Methods](#teaching-methods)
+- [Method of Assessment](#method-of-assessment)
+- [Course Schedule](#course-schedule) Session 20/21 Semester 2
+- [Course Notes - Topics](#course-notes)
+- [Assignments](#assignments)
+- [Links](#links)
+- [Announcements](#announcements)
+
+
 &nbsp;
 
 ## Module Aims
@@ -64,19 +76,19 @@ Assessment will be based on exercises and projects through three in-course asses
 
 ### Topics
 
-1.  [Digital Fabrication](00_digital_fabrication.md)
-2.  [FabLab Safety](01_fablab_safety.md)
-3.  [FabLab Tools](02_fablab_tools.md)
-4.  [Project Management](03_project_managment.md)
-5.  Web Development
-6.  Version Control
-7.  Computer Aided Design
-8.  3D Printing
-9.  Computer Controlled Cutting
-10.  Embedded Programming
-11.  Output Devices
-12.  Input Devices
-13.  Project
+00.  [Digital Fabrication](00_digital_fabrication.md)
+01.  [FabLab Safety](01_fablab_safety.md)
+02.  [FabLab Tools](02_fablab_tools.md)
+03.  [Project Management](03_project_managment.md)
+04.  Web Development
+05.  Version Control
+06.  Computer Aided Design
+07.  3D Printing
+08.  Computer Controlled Cutting
+09.  Embedded Programming
+10.  Output Devices
+11.  Input Devices
+12.  Project
 
 ### Assignments
 
