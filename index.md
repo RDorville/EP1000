@@ -67,7 +67,7 @@ Assessment will be based on exercises and projects through three in-course asses
 1.  [Digital Fabrication](00_digital_fabrication.md)
 2.  [FabLab Safety](01_fablab_safety.md)
 3.  [FabLab Tools](02_fablab_tools.md)
-4.  [Project Management][03_project_managment.md]
+4.  [Project Management](03_project_managment.md)
 5.  Web Development
 6.  Version Control
 7.  Computer Aided Design
