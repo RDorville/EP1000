@@ -67,7 +67,7 @@ Assessment will be based on exercises and projects through three in-course asses
 1.  [Digital Fabrication](00_digital_fabrication.md)
 2.  [FabLab Safety](01_fablab_safety.md)
 3.  [FabLab Tools](02_fablab_tools.md)
-4.  Project Management
+4.  [Project Management][03_project_managment.md]
 5.  Web Development
 6.  Version Control
 7.  Computer Aided Design
@@ -84,14 +84,15 @@ Here are the assignments which you will be working on in the course of this modu
 
 1. [Safety](assignments/01_safety.md)
 2. [Prototyping](assignments/02_prototyping.md)
-3. Web site development
-4. Computer Aided Design
-5. 2D Design
-6. 3D Design
-7. Soldering & Breadboard prototyping
-8. Embedded programming
-9. Output devices
-10. Input devices
+3. [Project Management](assignments/03_project_managment.md)
+4. Web site development
+5. Computer Aided Design
+6. 2D Design
+7. 3D Design
+8. Soldering & Breadboard prototyping
+9. Embedded programming
+10. Output devices
+11. Input devices
 
 You will also "make" a final project of your choice which demonstrates
 
