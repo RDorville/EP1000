@@ -63,13 +63,13 @@ Here is a quick tutorial (courtesy of FabLabSP Staff: Louis, Mark & Walter): [Pr
 
 ### Assignment
 
-The assignment for this **class** is [Assignment 2 Prototyping](assignments/01_prototyping.md).  You will be required to
+The assignment for this **class** is [Assignment 2 Prototyping](assignments/02_prototyping.md).  You will be required to
 
 - Select and object you would like to "make"
 - Create a real-sized prototype of the object using corrugated cardboard
 - Document your work with photos, images and text
 
-[Assignment 2 Prototyping](assignments/01_prototyping.md) is not graded.
+[Assignment 2 Prototyping](assignments/02_prototyping.md) is not graded.
 
 
 &nbsp;
