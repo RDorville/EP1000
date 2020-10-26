@@ -76,7 +76,7 @@ Some objects to make (choose any one)
 
 ### Further Information
 
-1.  How to work with corrugated cardboard: [Lab02_Introduction to cardboard prototyping](worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
+1.  How to work with corrugated cardboard: [Lab02 Introduction to cardboard prototyping](../worksheets/Lab02_Introduction_to_cardboard_prototyping.pdf)
 
 &nbsp;
 
