@@ -89,7 +89,7 @@ You start with HTML and write your content, stylise it with CSS to give a consis
     - How-to
         1. Make a simple HTML file with links to your pages.
         2. Use a CSS file to format the layout
-        3. [Example of basic website](htmlcss/index.html)
+        3. [Example of basic website](myfirstwebpage.html)
 2. Borrow **A Design/Template That Works**<br>
 You start with a design that works (e.g. Jake Wright: [Learn CSS in 12 minutes](https://www.youtube.com/watch?v=0afZj1G0BIE)).  Modify and add whatever you want in HTML (content) and tweak its looks using CSS (Layout).
     - Advantages
@@ -142,74 +142,7 @@ Markdown is a light-weight Mark-Up editing language that is good for displaying 
         3. [How-to use web-pk for your website](web-pk/web-pk.md)
 
 
-### HTML - the language of the web
 
-All websites are developed using [HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**T**ext **M**arkup **L**anguage). The language describes how the information is to be displayed in a web browser.  Watch: [How a web browser builds and displays a web page](https://youtu.be/DuSURHrZG6I)
-
-In order make available information on the www, you need the following
-* A web Server or Service (e.g. github.com)
-* A web page written in HTML (e.g. (mypage.html)
-* A web browser at the client (e.g. [Google Chrome](https://www.google.com/chrome/index.html))
-
-Although we are **NOT** going to make you Web Professionals, you need a certain amount of knowledge on developing a web page as it is the most convenient method of dispensing information.  It is common for a modern-day technologist to be familiar with the following technologies:
-
-* [HTML](https://en.wikipedia.org/wiki/HTML) to create and present information
-* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) (Cascading Style Sheets) to format the information into a uniform, consistent and pleasing nature
-* Scripting (e.g. [Javascript](https://www.javascript.com/)) to add dynamic content to the information.
-
-For most of our work, in presenting information, we need only a working knowledge of HTML and CSS.  The following sites and tutorials give a basic introduction of HTML:
-
-* Youtube Videos
-    * Jake Wright
-        * [Learn HTML in 12 Minutes](https://youtu.be/bWPMSSsVdPk)
-        * [Learn More HTML in 12 Minutes](https://youtu.be/KJ13lX20FqU)
-        * [Learn CSS in 12 minutes](https://youtu.be/0afZj1G0BIE) an excellent presentation that looks at the development of a workable website from start (paper planning) to delivery on the web.
-    * Traversy Media [HTML Crash Course for Absolute Beginners](https://youtu.be/UB1O30fR-EE)
-    * Clever Programmer [HTML Crash Course for Absolute Beginners 2020](https://youtu.be/FNGoExJlLQY) which may appeal to younger viewers!
-* HTML Tutorials & References
-    * [w3schools](https://www.w3schools.com/html/default.asp) MTML tutorial, which should be used as a *Reference Site* than a tutorial.
-    * [Learn HTML online](https://www.learn-html.org/)
-    * [HTML for beginners](https://html.com/)
-
-This is the [basic outline of a HTML file](https://www.w3schools.com/html/html_basic.asp) that displays a
-
-* Title - "My First Webpage"
-* Body
-    - the main content of the page, and within it
-    - Headings which highlight titles, sections or headings
-    - Paragraphs of text
-    - Un-ordered list of items
-    - an image (resized) which is loaded together with the page
-    - and links to other sites
-
-```
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First Web Page</title>
-</head>
-<body>
-    <h1>Welcome to my first web page!</h1>
-    <p>This is a paragraph.  It is just some text written without regard
-    to the use of whitespace, as HTML ignores spaces, tabs and newlines.</p>
-    <p>Sometimes we would want to have un-ordered lists of items, also known as,
-    bullet points.  Some of the list items are links to other sites..</p>
-    <ul>
-        <li>Web Servers and hosting services</li>
-        <li><a href="atom.io">Atom Text Editor</a></li>
-        <li><a href="www.google.com">Google Search</a></li>
-    </ul>
-
-    <h2>About us</h2>
-    <p>You can also imbed images in a web-page, here is a nice pictures
-    of the Fablab in SP</p>
-
-    <img src="images/fablabt11.jpg" height="30%">
-
-    <p>I hope you enjoy the facilities here!</p>
-</body>
-</html>
-```
 
 
 

@@ -60,8 +60,7 @@ This is the [basic outline of a HTML file](https://www.w3schools.com/html/html_b
 </html>
 ```
 
-
-
+If you use this link: [My First Webpage](myfirstwebpage.html) you will be able to see how it renders on a web browser.
 
 
 

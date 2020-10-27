@@ -80,7 +80,11 @@ Assessment will be based on exercises and projects through three in-course asses
 01.  [FabLab Safety](01_fablab_safety.md)
 02.  [FabLab Tools](02_fablab_tools.md)
 03.  [Project Management](03_project_managment.md)
-04.  Web Development
+04.  [Web Development](04_web_development.md)
+    - [Using HTML & CSS](04a_html_css.md)
+    - Using a template
+    - Using Markdown
+    - Using Jekyl generator (with Markdown)
 05.  Version Control
 06.  Computer Aided Design
 07.  3D Printing
