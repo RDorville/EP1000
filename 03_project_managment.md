@@ -109,7 +109,7 @@ The following are some project suggestions:
 
 ### Assignment
 
-The assignment for this **class** is [Assignment 3 Project Management](assignments/03_project_management.md).  You will be required to
+The assignment for this **class** is [Assignment 3 Project Management](assignments/as03_project_management.md).  You will be required to
 
 - Research and select a project of your choice
 - Develop a plan to complete the project within 4 weeks
@@ -118,5 +118,5 @@ Remember to document your work and research.
 
 &nbsp;
 
-[![Home](images/home.png "Home")](index.md) [Home](index.md)   
+[![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
 October 2020

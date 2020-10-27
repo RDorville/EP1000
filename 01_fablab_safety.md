@@ -40,14 +40,14 @@ Links:
 
 ### Assignment
 
-The assignment for this **class** is [Assignment 1 Safety](assignments/01_safety.md).  You will be required to
+The assignment for this **class** is [Assignment 1 Safety](assignments/as01_safety.md).  You will be required to
 
 - Read the Safety information and documents
 - Install Software for use in future classes.
 
-[Assignment 1 Safety](assignments/01_safety.md) is graded and will be combined into CA1.
+[Assignment 1 Safety](assignments/as01_safety.md) is graded and will be combined into CA1.
 
 &nbsp;
 
-[![Home](images/home.png "Home")](index.md) [Home](index.md)   
+[![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
 October 2020
