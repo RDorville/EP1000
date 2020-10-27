@@ -63,7 +63,6 @@ This is the [basic outline of a HTML file](https://www.w3schools.com/html/html_b
 If you use this link: [My First Webpage](myfirstwebpage.html) you will be able to see how it renders on a web browser.
 
 
-
 ### HTML - the language of the web
 
 [HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**T**ext **M**arkup **L**anguage) describes how the information is to be displayed in a web browser.  Watch: [How a web browser builds and displays a web page](https://youtu.be/DuSURHrZG6I)
@@ -106,9 +105,13 @@ There are many good HTML and CSS tutorials on the web as well as books.  The tim
 
 You could watch the following videos as a start as well:
 
--  [Learn More HTML in 12 Minutes](https://youtu.be/KJ13lX20FqU)
--  [Learn CSS in 12 minutes](https://youtu.be/0afZj1G0BIE) an excellent presentation that looks at the development of a workable website from start (paper planning) to delivery on the web.
+- Jake Wright's videos
+    -  [Learn HTML is 12 minutes](https://youtu.be/bWPMSSsVdPk)
+    -  [Learn More HTML in 12 Minutes](https://youtu.be/KJ13lX20FqU)
 -  Traversy Media [HTML Crash Course for Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 -   Clever Programmer [HTML Crash Course for Absolute Beginners 2020](https://youtu.be/FNGoExJlLQY) which may appeal to younger viewers!
 
+&nbsp;
 
+[![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
+October 2020

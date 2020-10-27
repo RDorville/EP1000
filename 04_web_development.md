@@ -143,47 +143,8 @@ Markdown is a light-weight Mark-Up editing language that is good for displaying 
 
 
 
-
-
-
 &nbsp;
 
-### Assignment 2
-
-In this assignment, you will select a method to create your website.  Start by populating the first two/thress sections of your site.  You do not need to be complete at this stage.  This is a starting point for you to view and correct any mistakes that you may have made.
-
-In the later weeks, you will only be adding content to the site i.e. new pages, so it is good to spend more time cleaning up your website here.
-
-I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
-
-| Time   | Task |
-|--------|:------------------------------------------------|
-|30 min  | Select one of the methods above and go through the how-to |
-|30 min  | Create the root page `index.html` or `index.md` |
-|45 min  | Add the first 3 pages/sections to your site |
-|15 min  | Host your site on github |
-
-Here is a quick guide:
-
-1. Select one of the methods above (to create a website) and go through the how-to.
-2. Understand how other pages are created and added into the site.
-3. Upload your site to github, host it as a webpage and test it.
-4. Enter your URL into the [Google spreadsheet](https://drive.google.com/file/d/1X9X7FhpFlZU25ybGc4Znd4XozB-3NqZJ/view?usp=sharing)
-
-**Specifications**
-
-Your website must, at a miniumum, have the following:
-
-* Use one of the methods listed above (show which method you use)
-* If you are using HTML, you need to use a CSS.  Template and Markdown sites automatically have a CSS associated with it.
-* Have at least **TWO** sections (Safety, Web-site development or hosting) written up and hosted as two different pages.
-* Add at least some images/screen-shots/hero-shots, properly formatted and scaled.
-* Be hosted on github-pages.
-
-You will be required to present your work to the class as the next session.
-
-
-&nbsp;
-
-**May 2020**
+[![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
+October 2020
 
