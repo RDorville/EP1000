@@ -76,20 +76,20 @@ Assessment will be based on exercises and projects through three in-course asses
 
 ### Topics
 
-00.  [Digital Fabrication](00_digital_fabrication.md)
-01.  [FabLab Safety](01_fablab_safety.md)
-02.  [FabLab Tools](02_fablab_tools.md)
-03.  [Project Management](03_project_managment.md)
-04.  [Web Development](04_web_development.md)
-    - [Using HTML & CSS](04a_html_css.md)
-    - Using a template
-    - Using Markdown
-    - Using Jekyl generator (with Markdown)
-05.  Version Control
-06.  Computer Aided Design
-07.  3D Printing
-08.  Computer Controlled Cutting
-09.  Embedded Programming
+0.  [Digital Fabrication](00_digital_fabrication.md)
+1.  [FabLab Safety](01_fablab_safety.md)
+2.  [FabLab Tools](02_fablab_tools.md)
+3.  [Project Management](03_project_managment.md)
+4.  [Web Development](04_web_development.md)
+    -  [Using HTML & CSS](04a_html_css.md)
+    -  Using a template
+    -  Using Markdown
+    -  Using Jekyl generator (with Markdown)
+5.  Version Control
+6.  Computer Aided Design
+7.  3D Printing
+8.  Computer Controlled Cutting
+9.  Embedded Programming
 10.  Output Devices
 11.  Input Devices
 12.  Project
