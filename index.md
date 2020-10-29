@@ -21,7 +21,7 @@ Quick Links:
 
 ## Module Aims
 
-In this elective, students are introduced to design thinking concepts, which they will use to design some functional prototypes to meet certain user requirements. Fundamental digital fabrication skills and technologies such as computer-aided design, 2D and 3D modelling, mechanical & electronic design and programming skills are developed through a range of hands-on real world activities. Project management, web and version control techniques, which are important for project development, will also be imparted to students.
+In this elective, students are introduced to design thinking concepts, which they will use to design some functional prototypes to meet certain user requirements. Fundamental digital fabrication skills and technologies such as computer-aided design, 2D and 3D modeling, mechanical & electronic design and programming skills are developed through a range of hands-on real world activities. Project management, web and version control techniques, which are important for project development, will also be imparted to students.
 
 &nbsp;
 
@@ -52,11 +52,11 @@ Assessment will be based on exercises and projects through three in-course asses
 | **Week**  | **Date**   | **Topic** |  **Remarks** |
 |:-----:|:------------|--------|--------|
 | 1     | 19 Oct 2020 |Introduction, Fablab Safety, Tools   ||
-| 2     | 26 Oct 2020 |Software tools, HTML & CSS, Website  ||
-| 3     | 2 Nov 2020  |Personal website development, Markdown   ||
+| 2     | 26 Oct 2020 |Project Management, HTML & CSS, Website Development  ||
+| 3     | 2 Nov 2020  |Markdown, Version Control   ||
 | 4     | 9 Nov 2020  |Computer Graphics, Computer Aided Design |   14th Nov Depavali|
-| 5     | 16 Nov 2020 |2D Drawing and Modelling     ||
-| 6     | 23 Nov 2020 |3D Modelling     ||
+| 5     | 16 Nov 2020 |2D Drawing and Modeling     ||
+| 6     | 23 Nov 2020 |3D Modeling     ||
 | 7     | 30 Nov 2020 |3D Printing      ||
 | 8     | 7 Dec 2020  |Computer Controlled Cutting  ||
 | 9     | 14 Dec 2020 | ||
@@ -83,8 +83,8 @@ Assessment will be based on exercises and projects through three in-course asses
 4.  [Web Development](04_web_development.md)
     -  [Using HTML & CSS](04a_html_css.md)
     -  [Using a template](JakeWright/jwhowto.html)
-    -  [Using Markdown](04c_markdown.md)
-    -  [Using Jekyl generator (with Markdown)](web-pk/web-pk.html)
+    -  [Using Markdown](04c_using_markdown.md)
+    -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.html)
 5.  Version Control
 6.  Computer Aided Design
 7.  3D Printing
@@ -112,7 +112,7 @@ Here are the assignments which you will be working on in the course of this modu
 
 You will also "make" a final project of your choice which demonstrates
 
-- digitial design
+- digital design
 - computer cutting operations
 - 3D printing
 - embedded programming with 

@@ -1,6 +1,6 @@
 # Markdown
 
-Markdown is a plain text formatting system aimed at making writing for the internet easier.  Markdown allows you to write text documents which should be readable without tags interfering with the flow of reading.
+Markdown is a plain text formatting system aimed at making writing for the Internet easier.  Markdown allows you to write text documents which should be readable without tags interfering with the flow of reading.
 
 ## Reasons why you should use Markdown
 
@@ -8,13 +8,13 @@ Markdown is a plain text formatting system aimed at making writing for the inter
   Without thinking, as you write plain text it is already in Markdown.  Add a few rules and you have formatted text. If you prefer, you could ignore all these rules as well, and convey pure information only.
 2. Markdown converts to HTML easily.<br>
   You also have the option of using HTML in your text whenever things get difficult to produce, but that seldom happens in text writing except for fancy formatting features.
-3. Markdown is futureproof<br>
+3. Markdown is future proof<br>
   Markdown is plain text format. Using plain text ensures that the document can be read anywhere without special editors or file viewers.  You are able to transfer the Markdown document to other formats.  In fact, Markdown can be converted to a number of formats very easily (Ref: [Pandoc](https://pandoc.org/)).<br>
   Markdown has its own extension (**.md**), however, you could use any extension (including .txt).
 4. Markdown is used everywhere<br>
   Markdown is more commonly used than you think.Without thinking, Whatsapp and online forums use a format of Markdown, for example \*\*bold\*\* adds **bold** font to your writing.  Other communication tools e.g. Skype, Slack, Facebook Messenger, Wikis uses a form of Markdown.
 5. You don't have to use special software<br>
-  Almost every editor has a feature that allows you to save your work in "plain text", hence you do not need to learn how to use a new software. Most writers choose a "pure text editor" for the increased speed, program size and avilability.
+  Almost every editor has a feature that allows you to save your work in "plain text", hence you do not need to learn how to use a new software. Most writers choose a "pure text editor" for the increased speed, program size and availability.
 
 ## Learning Markdown
 
@@ -50,13 +50,13 @@ Here are some tools that you can use to increase your productivity with Markdown
 
 ### Markdown and GitHub
 
-In order to view Markdown in its full glory, we must first understand how it is rendered on webpages/internet.  Although Markdown is "text-like", it's full features have to be processed before being displayed.  Here is a quick explanation.
+In order to view Markdown in its full glory, we must first understand how it is rendered on webpages/Internet.  Although Markdown is "text-like", it's full features have to be processed before being displayed.  Here is a quick explanation.
 
 ![Processing Markdown](images/0400_processing_markdown.png)
 
 1. Markdown is stored in a pure text document (with the extension **.md** or **.markdown**) to distinguish it from pure text.)
 2. When a Markdown document is accessed from the web, a processor/program on the web-server, identifies (.md) and reads the document.  It converts the document into HTML and attaches a CSS stylesheet.
-3. The HTML and CSS file is sent to the requestor and displayed on the web browser.
+3. The HTML and CSS file is sent to the requester and displayed on the web browser.
 
 Understanding the above process, allows us to
 

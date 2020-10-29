@@ -78,7 +78,7 @@ What is **important** is that we should pay more attention to the content than h
 Here are the 4 ways in which you can develop your site together.  You are free to choose any method  to develop your website, however, you must remember that you need to update your site periodically (as and when) with new information
 
 1. Pure **HTML & CSS**<br>
-You start with HTML and write your content, stylise it with CSS to give a consistent look and feel.
+You start with HTML and write your content, stylize it with CSS to give a consistent look and feel.
     - Advantages
         1. Simple to start, can be very basic.
         2. Design is completely yours to play around with, you have full control
@@ -100,7 +100,7 @@ You start with a design that works (e.g. Jake Wright: [Learn CSS in 12 minutes](
         2. May need to make changes to maintain consistency
         3. Need knowledge of HTML and CSS
     - How-to
-        1. Search the internet for a HTML/CSS template site that you like
+        1. Search the Internet for a HTML/CSS template site that you like
         2. Copy the template to index.html as the starting page
         3. Populate and expand your website.
         4. [How to use Jake Wright's Template](JakeWright/jwhowto.md)
