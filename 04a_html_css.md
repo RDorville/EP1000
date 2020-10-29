@@ -99,8 +99,8 @@ There are many good HTML and CSS tutorials on the web as well as books.  The tim
     - CSS Building blocks
     - Styling text
     - CSS Layout
-2.  Use the reference sites for further information and development
--   - [HTML tutorial](https://www.w3schools.com/html/default.asp)
+2.  Use the reference sites from [w3schools](https://www.w3schools.com/) for further information and development
+    - [HTML tutorial](https://www.w3schools.com/html/default.asp)
     - [CSS tutorial](https://www.w3schools.com/css/default.asp)
 
 You could watch the following videos as a start as well:

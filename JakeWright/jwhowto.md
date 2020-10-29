@@ -3,7 +3,7 @@
 
 ### How to make a website using Jake Wright's template
 
-1.  Watch the Youtube Video Jake Wright: [Learn CSS in 13 minutes](https://youtu.be/0afZj1G0BIE).
+1.  Watch the Youtube Video Jake Wright: [Learn CSS in 12 minutes](https://youtu.be/0afZj1G0BIE).
 2.  Draw out the plan for your website, suggest that you use the one provided by Jake Wright.
 3.  Code your website
     * Create a new folder for the site

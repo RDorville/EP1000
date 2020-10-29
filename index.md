@@ -82,9 +82,9 @@ Assessment will be based on exercises and projects through three in-course asses
 3.  [Project Management](03_project_managment.md)
 4.  [Web Development](04_web_development.md)
     -  [Using HTML & CSS](04a_html_css.md)
-    -  Using a template
-    -  Using Markdown
-    -  Using Jekyl generator (with Markdown)
+    -  [Using a template](JakeWright/jwhowto.html)
+    -  [Using Markdown](04c_markdown.md)
+    -  [Using Jekyl generator (with Markdown)](web-pk/web-pk.html)
 5.  Version Control
 6.  Computer Aided Design
 7.  3D Printing
