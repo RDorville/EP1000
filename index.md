@@ -101,7 +101,9 @@ Here are the assignments which you will be working on in the course of this modu
 1. [Safety](assignments/as01_safety.md)
 2. [Prototyping](assignments/as02_prototyping.md)
 3. [Project Management](assignments/as03_project_managment.md)
-4. [Web development](assignments/as04_html_css_templates.md)
+4. Web development
+    - [HTML, CSS & Templates](assignments/as04_html_css_templates.md)
+    - [Your Internet Site]()
 5. Computer Aided Design
 6. 2D Design
 7. 3D Design
