@@ -146,7 +146,7 @@ Markdown is a light-weight Mark-Up editing language that is good for displaying 
 
 There are 2 assignments for this topic.  Both assignments will be graded, however, you will be given appropriate time to complete them.
 
-1.  [Assignment 4A HTML, CSS](assignment/as04_html_css_templates.md) \
+1.  [Assignment 4A HTML, CSS](assignments/as04_html_css_templates.md) \
   This assignment checks that you have an understanding of HTML and CSS.  You are required to
     -  Watch and replicate Jake Wright's website (Learn CSS in 12 minutes)
     -  Modify the website based on the requirements
