@@ -142,6 +142,22 @@ Markdown is a light-weight Mark-Up editing language that is good for displaying 
         3. [How-to use web-pk for your website](web-pk/web-pk.md)
 
 
+## Assignments
+
+There are 2 assignments for this topic.  Both assignments will be graded, however, you will be given appropriate time to complete them.
+
+1.  [Assignment 4A HTML, CSS](assignment/as04_html_css_templates.md) \
+  This assignment checks that you have an understanding of HTML and CSS.  You are required to
+  1.  Watch and replicate Jake Wright's website (Learn CSS in 12 minutes)
+  2.  Modify the website based on the requirements
+  3.  Save the website as a ZIP file for submission
+2.  Assignment 4B Github Website \
+  Thsi assignment checks that you have created your own website prescence on the Internet.  You are required to
+  1.  Create a Github account
+  2.  Convert a project site EP1000 to Github Webpages
+  3.  Use git/Github Desktop to manage the site.
+
+
 
 &nbsp;
 
