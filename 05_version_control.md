@@ -54,6 +54,48 @@ There are other commands, however, we will leave them for now until you are full
 
 &nbsp;
 
+## Git process
+
+This is a brief outline of the git process done by the Github Desktop (GHD).  git uses (traditionally) commands entered on the CLI (command-line interface).  Github Desktop specifially uses a GUI to convert actions to this commands.
+
+*  **git config --global user.name "John Doe"**    
+    **git config --global user.email johndoe@example.com**
+    - GHD > File > Options > Accounts
+    - Sets up accounts for syncing with the Github repository
+    - [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)    
+    &nbsp;
+
+*  **git init** initialises a git repository
+    - GHD > File > New Repository
+    - Initialises a new repository for git operations.
+    - [Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)    
+    &nbsp;
+
+*  **git clone** https://github.com/user/repository.git
+    - GHD > File > Clone Repository
+    - Clones a repository from github.  The repository name is usually used as the folder name, unless change.
+    - [Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)    
+    &nbsp;
+
+*  **git add**  files<br>
+    **git status** - shows new/changed files
+    -  GHD > Files that are highlighted have changed and to be added
+    -  [Recording Changes to the Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)    
+    &nbsp;
+
+*   **git commit -m** "information about change"
+    -  GHD > Summary "information about change"    
+        Click "Commit to master"
+    -  Adds files to the staging area, ready to be uploaded to the remote repository
+    -  [Recording Changes to the Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)    
+    &nbsp;
+
+*   **git push**
+    -  GHD > Push to repository
+    -  Transfers the files from the staging area to the remote repository on Github
+    -  [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)   
+    &nbsp;
+
 ## Tutorials for git
 
 There are many tutorials for git (shows you how important git is) and we recommend that you watch at least one Youtube video and walk through one git tutorial.
