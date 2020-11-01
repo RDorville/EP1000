@@ -11,6 +11,7 @@
     * Create the style sheet, save it in the same folder. Name the style sheet `style.css`
     * Test your webpage, by opening `index.html` on your browser.
 4.  Modify the CSS file to suit your liking.
+5.  Original version of Jake's work for demo -[JakeWright-OriginalCode.zip](JakeWright-OriginalCode.zip)
 
 ![Webpage using HTML and CSS](index_html.png)
 
