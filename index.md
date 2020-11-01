@@ -84,8 +84,8 @@ Assessment will be based on exercises and projects through three in-course asses
     -  [Using HTML & CSS](04a_html_css.md)
     -  [Using a template](JakeWright/jwhowto.html)
     -  [Using Markdown](04c_using_markdown.md)
-    -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.html)
-5.  Version Control
+    -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.md)
+5.  [Version Control](05_version_control.md)
 6.  Computer Aided Design
 7.  3D Printing
 8.  Computer Controlled Cutting
@@ -103,14 +103,15 @@ Here are the assignments which you will be working on in the course of this modu
 3. [Project Management](assignments/as03_project_managment.md)
 4. Web development
     - [HTML, CSS & Templates](assignments/as04_html_css_templates.md)
-    - [Your Internet Site]()
-5. Computer Aided Design
-6. 2D Design
-7. 3D Design
-8. Soldering & Breadboard prototyping
-9. Embedded programming
-10. Output devices
-11. Input devices
+    - Markdown
+5. [Version Control & Your Internet site](assignments/as05_version_control.md)
+6. Computer Aided Design
+7. 2D Design
+8. 3D Design
+9. Soldering & Breadboard prototyping
+10. Embedded programming
+11. Output devices
+12. Input devices
 
 You will also "make" a final project of your choice which demonstrates
 
