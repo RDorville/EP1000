@@ -149,6 +149,6 @@ You will also "make" a final project of your choice which demonstrates
 
 ### Sandbox testing
 
-> This is my test area, a sandbox for trying ideas and code
+> This is my test area, a sandbox for trying ideas and code. Try it
 
 [Sandbox](sandbox.md)
