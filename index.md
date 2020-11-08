@@ -105,7 +105,7 @@ Here are the assignments which you will be working on in the course of this modu
     - [HTML, CSS & Templates](assignments/as04_html_css_templates.md)
     - Markdown
 5. [Version Control & Your Internet site](assignments/as05_version_control.md)
-6. Computer Aided Design
+6. [Computer Aided Design](assignments/as06_CAD.md)
 7. 2D Design
 8. 3D Design
 9. Soldering & Breadboard prototyping

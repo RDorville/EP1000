@@ -2,7 +2,7 @@
 
 &nbsp;
 
-###Content
+### Content
 
 In this assignment, you will install GIMP/Photoshop and Fusion 360.  You will use these packages, with the aid of online tutorials, to create preliminary designs.  You will then document your work in the blog.
 
@@ -35,18 +35,18 @@ I have provided approximate timings for you so that you do **NOT** spend all you
     - Try the "Initials Keyring" exercise from [WarWick University](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)<br>
     &nbsp;
 3.  Complete the following exercises.  Treat each exercise as a new drawing and component.
-    * [Exercise 1](..images/04_Exercise_1.png)
-    * [Exercise 2](..images/04_Exercise_2.png) - [Worked Example](https://youtu.be/A9DpjtKvEVo)
-    * [Exercise 3](..images/04_Exercise_3.png)
+    * [Exercise 1](../images/04_Exercise_1.png)
+    * [Exercise 2](../images/04_Exercise_2.png) - [Worked Example](https://youtu.be/A9DpjtKvEVo)
+    * [Exercise 3](../images/04_Exercise_3.png)
 
 When you have completed the exercise, use the following steps to export your work to a fusion360 (.f3d) file and attach it to your blog.  The way to do it is
 
-|![Click on the image to enlarge it](..images/blank.png)|![](..images/blank.png)|
+|![Click on the image to enlarge it](../images/blank.png)|![](../images/blank.png)|
 |:----------------:|---------------|
-|[![Project Options](..images/04_fileOps.png)](..images/04_fileOps.png) |While in Fusion 360, create a new Project to keep all your files.  Save your Fusion 360 exercise, use an appropriate name e.g. Exercise_01|
-|[![Export Options](..images/04_fileExport.png)](..images/04_fileExport.png) | After you have saved your file, click on the File icon at the top and select "Export" |
-|[![Export Dialog](..images/04_Export.png)](..images/04_Export.png) | Enter filename, check **.f3d** format, select folder store exported file |
-|[![Exported File](..images/04_f3dfile.png)](..images/04_f3dfile.png) | Copy the file into your folder, link it in your blog and then upload to the repository. |
+|[![Project Options](../images/04_fileOps.png)](../images/04_fileOps.png) |While in Fusion 360, create a new Project to keep all your files.  Save your Fusion 360 exercise, use an appropriate name e.g. Exercise_01|
+|[![Export Options](../images/04_fileExport.png)](../images/04_fileExport.png) | After you have saved your file, click on the File icon at the top and select "Export" |
+|[![Export Dialog](../images/04_Export.png)](../images/04_Export.png) | Enter filename, check **.f3d** format, select folder store exported file |
+|[![Exported File](../images/04_f3dfile.png)](../images/04_f3dfile.png) | Copy the file into your folder, link it in your blog and then upload to the repository. |
 
 
 
