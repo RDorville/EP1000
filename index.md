@@ -86,7 +86,7 @@ Assessment will be based on exercises and projects through three in-course asses
     -  [Using Markdown](04c_using_markdown.md)
     -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.md)
 5.  [Version Control](05_version_control.md)
-6.  Computer Aided Design
+6.  [Computer Aided Design](04_CAD.md)
 7.  3D Printing
 8.  Computer Controlled Cutting
 9.  Embedded Programming
