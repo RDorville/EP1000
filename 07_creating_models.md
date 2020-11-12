@@ -36,7 +36,7 @@ Don't forget to check the accompanying pages on his [website](https://productdes
 * Autodesk Fusion 360 [Fusion 360: Sketch Constraints](https://youtu.be/J_2If5zVp84)
 * Two good practice designs:
     - Product Design Online Day #1 [How to make a Lego Brick](https://youtu.be/6yPKMSb6ja8)
-    - Product Design Online #15 [How to 3D Model a Painter's Tripod](https://youtu.be/36uU1Z7OiJg1
+    - Product Design Online #15 [How to 3D Model a Painter's Tripod](https://youtu.be/36uU1Z7OiJg1)
 
 ### 3D Models
 

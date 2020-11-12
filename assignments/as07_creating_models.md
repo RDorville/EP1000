@@ -21,8 +21,8 @@ Here is a quick guide:
 
 **Instruction Sheets**
 
-1. [Name tag](worksheets/f360_keytag.md)
-2. [Fidget Spinner](worksheets/f360_fidgetspinner.md)
+1. [Name tag](../worksheets/f360_keytag.md)
+2. [Fidget Spinner](../worksheets/f360_fidgetspinner.md)
 
 **Specifications**
 
