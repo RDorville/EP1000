@@ -87,12 +87,15 @@ Assessment will be based on exercises and projects through three in-course asses
     -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.md)
 5.  [Version Control](05_version_control.md)
 6.  [Computer Aided Design](06_CAD.md)
-7.  3D Printing
-8.  Computer Controlled Cutting
-9.  Embedded Programming
-10.  Output Devices
-11.  Input Devices
-12.  Project
+7.  [Creating Models](07_creating_models.md)
+8.  3D Printing
+9.  Computer Controlled Cutting
+10.  Embedded Programming
+11.  Output Devices
+12.  Input Devices
+13.  Project
+
+&nbsp;
 
 ### Assignments
 
@@ -106,7 +109,7 @@ Here are the assignments which you will be working on in the course of this modu
     - Markdown
 5. [Version Control & Your Internet site](assignments/as05_version_control.md)
 6. [Computer Aided Design](assignments/as06_CAD.md)
-7. 2D Design
+7. [Creating Models](assignments/as07_creating_models.md)
 8. 3D Design
 9. Soldering & Breadboard prototyping
 10. Embedded programming

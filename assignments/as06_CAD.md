@@ -10,7 +10,7 @@ I have provided approximate timings for you so that you do **NOT** spend all you
 
 | Time   | Task |
 |--------|:------------------------------------------------|
-|10 min  | Install GIMP/Photoship, Fusion 360 |
+|10 min  | Install GIMP/Photoshop, Fusion 360 |
 |20 min  | Watch *one* tutorial Youtube video on GIMP/Photoshop |
 |20 min  | Use GIMP to modify a photo by removing the background |
 |20 min  | Go through one tutorial on Fusion 360 interface |
@@ -39,7 +39,7 @@ I have provided approximate timings for you so that you do **NOT** spend all you
     * [Exercise 2](../images/04_Exercise_2.png) - [Worked Example](https://youtu.be/A9DpjtKvEVo)
     * [Exercise 3](../images/04_Exercise_3.png)
 
-When you have completed the exercise, use the following steps to export your work to a fusion360 (.f3d) file and attach it to your blog.  The way to do it is
+When you have completed the exercise, use the following steps to export your work to a Fusion360 (.f3d) file and attach it to your blog.  The way to do it is
 
 |![Click on the image to enlarge it](../images/blank.png)|![](../images/blank.png)|
 |:----------------:|---------------|
