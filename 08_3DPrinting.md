@@ -20,7 +20,7 @@ The foremost advantage of 3D printing is the creation of prototypes.  In any des
 
 References:
 
-1.  [DFab Notes on 3D Printing](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/05-3dprint.html) on https://github.com/
+1.  [DFab Notes on 3D Printing](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/05-3dprint.html) on Mr. Steven Chew's site.
 2.  [Fablab Teaching Notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1826847_1&course_id=_51997_1) for 3D Printing can be found at ESP: [My Community > Fablab@SP > Fab Lab Skill-set Training > 3D printers](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1826847_1&course_id=_51997_1)
 
 ## A Brief Look at 3D Printing
@@ -50,9 +50,11 @@ References:
    * [Prusa Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) (if you had the money)
    * [Creality 3D Ender 3 Pro](https://creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer) (if you don't)
 
+&nbsp;
+
 ### The 3D Printing Process
 
-![IBM: 3D Printing Process (2014)](images/0903_3dprintingprocess.jpg)
+![IBM: 3D Printing Process (2014)](images/0903_3dPrintingProcess.png)
 
 * The 3D printing process can be broken down as follows:
     * Creating a usable 3D design- Converting the design into a 3D representable file (.STL)
@@ -93,6 +95,8 @@ References:
     * the **Hot End** of the extruder.  Temperatures at the hot-end can reach in excess of 180 degC, you could easily burn your fingers
     * the **print bed** of our printers are heated to 60 degC in order for the fused filament to adhere.  You have to be extra careful with the bed, not because it can burn your fingers.  If there is slight mis-alignment of the print bed, the print job will fail.  It is essential that the print bed is as level as possible.
     * the **filament** is kept in a spool at the side/back of the printer, ensure that the feed is constant and free of obstruction.
+
+&nbsp;
 
 ### The 3D Printing Process
 
@@ -343,43 +347,13 @@ References:
 
 &nbsp;
 
-### Assignment 9
+### Assignment 8
 
-In this assignment, you will experiment with the various settings of a slicer software (Ultimaker Cura) on a 3D object and simulate the 3D print process.  You will also attempt to create a 3D print of the knight piece that you have created.
+In this assignment, you will experiment with the various settings of a slicer software (Ultimaker Cura) on a 3D object and simulate the 3D print process.  You will also attempt to create a 3D print of the knight piece that you have to create.
 
-I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
-
-| Time   | Task |
-|--------|:------------------------------------------------|
-|30 min  | Watch a tutorial on Cura |
-|30 min  | Experiment with the Cura software on a 3D model  |
-|30 min  | Create and optmize a 3D print |
-
-This is a short assignment, since you have Mid-semester tests & assignments
-
-Here is a quick guide:
-
-1.  Search YouTube using the keywords "Cura", "beginner", "tutorial" and watch an introduction to using the Ultimaker Cura Slicer program.
-2.  Select, as your printer, Ultimaker 2+ with a nozzle size of 0.4mm.  You will be using PLA filament.
-3.  Simulate a 3D print:
-    * Use your Fusion 360 knight model.
-    * Make sure the dimensions are no larger than 50x30x10mm (Height, base-radius, thickness).
-    * Play with the parameters shown above (using Cura)
-    * Simulate a 3D print using Cura
-4.  Create a table with at least 3 different settings comparing the print of the knight using changes in the following parameters
-    * Wall thickness (typical 1mm)
-    * Layer height (typical 0.2mm)
-    * Infill (typical 15%)
-    * Supports
-    * Bed adhesion
-5.  Determine the approximate print times and amount of filament for each of the settings, include them in your table above.
-6.  If you are given only 30 min to print your knight, how will you slice it?  Document the process and create the print file.  Include this in your documentation.
-
-**Note**
-
-You will be given an oppurtunity to print your Knight piece, so please try to complete this assignment before 16th June.
+Here is the link to [Assignment 8](assignments/as08_3dprinting.md)
 
 &nbsp;
 
-**June 2020**
+**October 2020**
 
