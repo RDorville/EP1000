@@ -139,7 +139,7 @@ The digital 3D model, can be used to create molds, or to instruct NC (Numericall
 
 In this assignment, you will complete a designs for a 3D object using the techniques (or combination of) in this topic. The objects created will later be used for 3D printing in the practicals.  After completing the designs, you will display your design on your webpage.
 
-[Assignment: 3D Modelling](as_3D_modelling.md)
+[Assignment: 3D Modeling](as_3D_modeling.md)
 
 
 &nbsp;

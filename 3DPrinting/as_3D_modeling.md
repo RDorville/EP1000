@@ -1,4 +1,4 @@
-##  Assignment: 3D Modelling
+##  Assignment: 3D Modeling
 
 In this assignment, you will complete 2 designs for 3D objects using the techniques (or combination of) in this topic. The objects created will later be used for 3D printing in the practicals.
 
