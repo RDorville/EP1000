@@ -354,7 +354,7 @@ References:
 
 In this assignment, you will experiment with the various settings of a slicer software (Ultimaker Cura) on a 3D object and simulate the 3D print process.  You will also attempt to create a 3D print of the knight piece that you have to create.
 
-Here is the link to [Assignment: 3DPrinting](as_3DPrinting.md)
+Here is the link to [Assignment: 3D Printing](as_3D_printing.md)
 
 &nbsp;
 
