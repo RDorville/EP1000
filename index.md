@@ -91,7 +91,7 @@ Assessment will be based on exercises and projects through three in-course asses
     -  [Creating Models](CAD/02_Creating_models)
     -  [Further Fusion 360 design techniques](CAD/03_F360_features.md)
 8.  3D_Printing
-    - [3D Modelling](3DPrinting/3D_modelling.md)
+    - [3D Modeling](3DPrinting/3D_modeling.md)
     - [3D Printing](3DPrinting/3D_printing.md)
 9.  Computer Controlled Cutting
 10.  Embedded Programming
@@ -117,7 +117,7 @@ Here are the assignments which you will be working on in the course of this modu
     -  [Creating Models](CAD/02_Creating_models)
     -  [Further Fusion 360 design techniques](CAD/03_F360_features.md)
 8.  3D_Printing
-    - [3D Modelling](3DPrinting/3D_modelling.md)
+    - [3D Modeling](3DPrinting/3D_modeling.md)
     - [3D Printing](3DPrinting/3D_printing.md)
 9. Computer controlled cutting
 11. Soldering & Breadboard prototyping
