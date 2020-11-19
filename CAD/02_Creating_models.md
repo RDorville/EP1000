@@ -1,5 +1,5 @@
 
-## Creating Digital Models using Fusion 360
+## Creating Models using Fusion 360
 
 Fusion 360 is AutoDesk's latest product into CAD.  It takes the best features from AutoCAD and Inventor, adds CAM (Computer Aided Manufacturing), Sculpting and Electronics Design to the system.  Best of all, the software is available to Students for a 3 year-lease period.
 
@@ -52,11 +52,11 @@ We will cover 3D models in detail in the following lesson, however as a preview,
 
 &nbsp;
 
-### Assignment 7
+### Assignment: Creating Models
 
 In this assignment, you will use the skills learnt in Fusion360 to create 2 objects - a nametag and a fidget spinner.  For this assignment, we will only create the 3D model of both objects, and learn how to display them in our blogs.  You will have the opportunity to create them using a 3D printer at a later date.
 
-[Assignment 7 Creating models](assignments/as07_creating_models.md)
+[Assignment: Creating Models](as_Creating_models.md)
 
 
 &nbsp;

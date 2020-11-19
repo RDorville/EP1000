@@ -86,11 +86,13 @@ Assessment will be based on exercises and projects through three in-course asses
     -  [Using Markdown](04c_using_markdown.md)
     -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.md)
 5.  [Version Control](05_version_control.md)
-6.  [Computer Aided Design](06_CAD.md)
-7.  [Creating Models](07_creating_models.md)
-    -  Further Fusion 360 design techniques
-8.  [3D Printing](08_3Dprinting.md)
-8.  [3D_Printing](3DPrinting/3DPrinting.md)
+6.  Computer Aided Design
+    -  [Introduction to Computer Aided Design](CAD/01_CAD_intro.md)
+    -  [Creating Models](CAD/02_Creating_models)
+    -  [Further Fusion 360 design techniques](CAD/03_F360-features.md)
+8.  3D_Printing
+    - [3D Modelling]()
+    - [3D Printing](3DPrinting/3DPrinting.md)
 9.  Computer Controlled Cutting
 10.  Embedded Programming
 11.  Output Devices
@@ -112,7 +114,6 @@ Here are the assignments which you will be working on in the course of this modu
 5. [Version Control & Your Internet site](assignments/as05_version_control.md)
 6. [Computer Aided Design](assignments/as06_CAD.md)
 7. [Creating Models](assignments/as07_creating_models.md)
-8. [3D Printing](assignments/as08_3Dprinting.md)
 8. [3D Printing](3DPrinting/as_3DPrinting.md)
 9. Computer controlled cutting
 11. Soldering & Breadboard prototyping

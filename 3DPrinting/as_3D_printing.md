@@ -57,7 +57,7 @@ Here is a quick guide:
 3.  Document this process in your blog, remember to include
     - photos of the process
     - the Fusion 360 design file (.f3d)
-    - the cura settings and the cura output file
+    - the Cura settings and the Cura output file
     - the "hero" shot
     - what you learnt about the 3D printing process.
 

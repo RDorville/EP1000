@@ -1,5 +1,5 @@
 <!--Need to include imagestyle.css sheet-->
-<link rel="stylesheet" type="text/css" href="imagestyle.css" />
+<link rel="stylesheet" type="text/css" href="../imagestyle.css" />
 
 ## 3D Printing
 
@@ -8,7 +8,7 @@
 3D printing, however, has the following advantages:
 
 * it puts manufacturing in the hands of the public
-* you are able to create almost anything with 3D printng
+* you are able to create almost anything with 3D printing
 * it is ideal for rapid prototyping
 
 For all its advantages, you must be aware of its disadvantages
@@ -21,21 +21,21 @@ The foremost advantage of 3D printing is the creation of prototypes.  In any des
 References:
 
 1.  [DFab Notes on 3D Printing](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/05-3dprint.html) on Mr. Steven Chew's site.
-2.  [Fablab Teaching Notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1826847_1&course_id=_51997_1) for 3D Printing can be found at ESP: [My Community > Fablab@SP > Fab Lab Skill-set Training > 3D printers](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1826847_1&course_id=_51997_1)
+2.  Fablab Teaching Notes at [ESP](https://esp.sp.edu.sg) > My Community > Fablab@SP
 
 ## A Brief Look at 3D Printing
 
 ### What can be 3D Printed
 
 * Almost anything or an object that you can imaging:
-    * If you can draw it or model it, you can most surely 3D print it (so that's why we learnt Fusion 360!).
+    * If you can draw it or model it, you can most surely 3D print it (so that's why we learn Fusion 360!).
     * Also, items that are not normally created using using [subtractive manufacturing](https://en.wikipedia.org/wiki/Machining), can be 3D printed (more about this later)
 
 ![3D Printed Objects](images/0901_3dprintedobjects.png)
 
 ### 3D Printers at Fablab@SP
 
-* The Fablab@SP currently has the following 3D printers which are available for use by qualified students, staff and members.  Here is a simple comparison of their sizes and qualitites:
+* The Fablab@SP currently has the following 3D printers which are available for use by qualified students, staff and members.  Here is a simple comparison of their sizes and qualities:
 
 |Printer| Ultimaker 2+ | Cubicon Style 3DP-2105 |MBot 3D Grid 4 |
 |:------|:-------------|:-----------------------|:--------------------------|
@@ -54,7 +54,8 @@ References:
 
 ### The 3D Printing Process
 
-![IBM: 3D Printing Process (2014)](images/0903_3dPrintingProcess.png)
+![3D Printing Process](images/0903_3DPrintingProcess.png)
+
 
 * The 3D printing process can be broken down as follows:
     * Creating a usable 3D design- Converting the design into a 3D representable file (.STL)
@@ -127,7 +128,7 @@ References:
     * Simplify 3D- Makerbot Print- MBot 3D
     * [Others - All3DP](https://all3dp.com/1/best-3d-slicer-software-3d-printer/)
 
-*  The main job of the slicer software is to*  convert the STL file into layers,*  determine the print characteristic of each layer*  convert the print characteristics of the layer into a language understanable by the 3D Printer (usually gcode)
+*  The main job of the slicer software is to*  convert the STL file into layers,*  determine the print characteristic of each layer*  convert the print characteristics of the layer into a language understandable by the 3D Printer (usually gcode)
 
 *  The slicer software will usually have the configuration code for a particular set of 3D Printer(s).  The machine-readable code is saved/transferred to the 3D Printer using a SDCard/Thumbdrive or by network to perform the actual printing process.
 
@@ -141,7 +142,7 @@ References:
     * Bridging and overhangs
     * Supports
     * Bed adhesion
-    * Object oreintation
+    * Object orientation
 
 <section class="info"><a href="images/0907_extruder.png">
  <figure class="infoimg">
@@ -296,6 +297,7 @@ References:
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
 
+
 <!--
 |**Supports**||
 |:-------------------------|--------------------------:|
@@ -347,11 +349,12 @@ References:
 
 &nbsp;
 
-### Assignment 8
+
+### Assignment: 3D Printing
 
 In this assignment, you will experiment with the various settings of a slicer software (Ultimaker Cura) on a 3D object and simulate the 3D print process.  You will also attempt to create a 3D print of the knight piece that you have to create.
 
-Here is the link to [Assignment 8](assignments/as08_3dprinting.md)
+Here is the link to [Assignment: 3DPrinting](as_3DPrinting.md)
 
 &nbsp;
 

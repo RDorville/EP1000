@@ -2,7 +2,7 @@
 
 Difficulty level: Intermediate
 
-![3D Modle of simple 3-arm fidget spinner](f360_fidgetspinner_1.jpg)
+![3D Model of simple 3-arm fidget spinner](f360_fidgetspinner_1.jpg)
 
 **Specifications:**
 

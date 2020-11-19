@@ -60,7 +60,7 @@ As it is from the AutoDesk family, you will find the command structure similar t
 
 Fusion 360 is provided free for educational use, provided you sign up (using your email) as a registered student of Singapore Polytechnic.  Fusion 360 is easy to learn and master with lots of online tutorials, Youtube videos and references even from Autodesk itself.  We will use Fusion 360 for most of our design work in this module.
 
-![Fusion 360 for Education](images/0401_fusion360_education.jpg)
+![Fusion 360 for Education](images/fusion360_education.jpg)
 
 ### Getting started
 
@@ -75,7 +75,7 @@ Here are some good Tutorials you should watch to get you going:
 
 &nbsp;
 
-### Assignment 6 CAD
+### Assignment: CAD Introduction
 
 In this assignment, you will 
 
@@ -83,7 +83,7 @@ In this assignment, you will
 - use Fusion 360 to draw some simple 2D graphics
 - post your results on your website.
 
-[**Assignment 6 CAD**](assignments/as06_CAD.md) 
+[**Assignment CAD Introduction**](as_CAD_intro.md) 
 
 
 
