@@ -149,6 +149,9 @@ You will also "make" a final project of your choice which demonstrates
 
 ## Announcements
 
+- 16 November 2020<br>
+  Your first grading is due the end of next week (27th November 2020). Check that you have entered the URL for your website in the google sheet provided.  Check your email for the links to the sheets.
+
 - 19 October 2020<br>
   Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious)
 
