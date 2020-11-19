@@ -89,10 +89,10 @@ Assessment will be based on exercises and projects through three in-course asses
 6.  Computer Aided Design
     -  [Introduction to Computer Aided Design](CAD/01_CAD_intro.md)
     -  [Creating Models](CAD/02_Creating_models)
-    -  [Further Fusion 360 design techniques](CAD/03_F360-features.md)
+    -  [Further Fusion 360 design techniques](CAD/03_F360_features.md)
 8.  3D_Printing
-    - [3D Modelling]()
-    - [3D Printing](3DPrinting/3DPrinting.md)
+    - [3D Modelling](3DPrinting/3D_modelling.md)
+    - [3D Printing](3DPrinting/3D_printing.md)
 9.  Computer Controlled Cutting
 10.  Embedded Programming
 11.  Output Devices
@@ -112,9 +112,13 @@ Here are the assignments which you will be working on in the course of this modu
     - [HTML, CSS & Templates](assignments/as04_html_css_templates.md)
     - Markdown
 5. [Version Control & Your Internet site](assignments/as05_version_control.md)
-6. [Computer Aided Design](assignments/as06_CAD.md)
-7. [Creating Models](assignments/as07_creating_models.md)
-8. [3D Printing](3DPrinting/as_3DPrinting.md)
+6.  Computer Aided Design
+    -  [Introduction to Computer Aided Design](CAD/01_CAD_intro.md)
+    -  [Creating Models](CAD/02_Creating_models)
+    -  [Further Fusion 360 design techniques](CAD/03_F360_features.md)
+8.  3D_Printing
+    - [3D Modelling](3DPrinting/3D_modelling.md)
+    - [3D Printing](3DPrinting/3D_printing.md)
 9. Computer controlled cutting
 11. Soldering & Breadboard prototyping
 12. Embedded programming
