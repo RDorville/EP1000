@@ -1,0 +1,67 @@
+## Parametric Modeling
+
+In this session, we will look at how to use parameters in Fusion 360.  Parameters allow your design to be flexible, allowing changes and modifications to dimensions without changing any part of the design.  Almost every part of Fusion 360 can be defined as a function or parameter.  As an example, we will design an all-purpose box which can be then laser-cut.
+
+### Essential Tips and Tricks
+
+Here are some essential tips and tricks that you should be aware of:
+
+1.  Set the Z-axis pointing upwards, this is done in the preferences section.
+2.  Create, name and save your file at the beginning.  Fusion 360 will save your file every 5/10 minutes after that and it provides a backup.  Also if you consciously save your file, you can add a comment which allows for versioning.
+3.  Start all sketches from the origin.  Reference all other sketches from this point.  It provides an anchor point for your work.
+4.  Constraint your sketches (tools are in the ribbon bar).  This locks your sketches down and prevents errors which you cannot see.
+5.  Dimension your lines.  This is similar to constraining your sketches.  It prevents you from erroneously.
+
+### Parametric Design
+
+* Fusion 360 allows the definition of parameters.  The parameters act as variables and allow change after assignment.  For example, if you initially designed an object with 3mm wood/acrylic and decide to change it to 5mm, you won't have to redraw your work, if you had defined your design using a parameter for thickness.
+* Most of Fusion 360 dimensioning can be replaced with a function.  A function can be:
+    -  a value (fixed), you can change it in the sketch, but you have to change every instance of it.
+    -  user parameter/variable.  You define it in the Modify > Change Parameters menu.  You need to define:
+        + Name - identifies the variable/parameter
+        + Unit - No units, or a form of measurement (e.g. mm, in, ft)
+        + Expression - how it is calculated, a value or function
+        + Comment - some text which explains its use.
+    -  another dimension - you can click on another dimension to make the parameter take on the same value.
+    -  a function - you can write a function using constants, variables and mathematical operators
+
+    |![blank](images/blank.png) |![blank](images/blank.png) |
+    |:-------------------------:|:--------------------------:|
+    |![parameters](images/0801_parameters.png) | ![functions](images/0802_functions.png) |
+    |Parameters | Functions |
+
+*  Always check that your parameters or items which are dimensioned with parameters are locked on a fixed position or point, otherwise your drawing would look strange if you change one of the parameters.
+
+### Notable Examples
+
+Here are some examples which show you the use of parameters in Fusion 360
+
+* Product Design Online [Sliding Dovetail Lid for 3D Printed Box | Fusion 360 Tutorial](https://youtu.be/HMtLqm5TkGE)
+* Lars Christensen [A Simple Wooden Box & Some Parameters](https://youtu.be/wdI86Q3ukFc)
+* Chaos Core Tech [Parametric Designs - Using Variables in Fusion 360](https://youtu.be/Uel_NmlwdoA)
+* Taylor Stein -Autodesk Fusion 360 [Fusion 360: Patterns & User Parameters](https://youtu.be/apkUQKNwHIo)
+* Hobbyist Maker has some excellent parameter controlled boxes (a little excessive), watch them in this order:
+    - [Fusion360: Automatically sized finger-joints](https://youtu.be/9U2JPfkQpsE)
+    - [Fusion360: A few changes to the consistent-width finger-jointed box](https://youtu.be/PmXiOijHbl0)
+    - [Fusion360: New and Improved Finger-jointed Tray](https://youtu.be/XoDbBkgv33U)
+    - [Fusion360: Adding length dividers to the finger-jointed tray](https://youtu.be/E0s4XvlmEFE)
+
+&nbsp;
+
+### Assignment: [A Box using Parameters](as_Parametric_box.md)
+
+In this assignment, you will complete a simple parametric box with a cover.  You will also demonstrate the effects of using parameters in a design by showing a change in the parameters, changes the design without redrawing the object.
+
+Note that this assignment is graded and will contribute to your final score to this module.  You will also use the design for the laser cutting class in the following week.
+
+You can find the [assignment here.](as_Parametric_box.md)
+
+The Fusion 360 insert below shows one example of how your box can look like:
+
+&nbsp;
+
+<iframe src="https://myhub.autodesk360.com/ue2dff438/shares/public/SH56a43QTfd62c1cd968a8254af243cf0912?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+&nbsp;
+
+**November 2020**
