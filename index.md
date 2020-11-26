@@ -94,7 +94,7 @@ Assessment will be based on exercises and projects through three in-course asses
 8.  3D_Printing
     - [3D Modeling](3DPrinting/3D_modeling.md)
     - [3D Printing](3DPrinting/3D_printing.md)
-9.  Computer Controlled Cutting
+9.  [Computer Controlled Cutting](Lasercutting/lasercutting.md)
 10.  Embedded Programming
 11.  Output Devices
 12.  Input Devices
@@ -117,11 +117,11 @@ Here are the assignments which you will be working on in the course of this modu
     -  [Introduction to Computer Aided Design](CAD/as_CAD_intro.md)
     -  [Creating Models](CAD/as_Creating_models)
     -  [Further Fusion 360 design techniques](CAD/as_F360_features.md)
-    -  [Parametric Design][CAD/as_Parametric_box.md]
+    -  [Parametric Design](CAD/as_Parametric_box.md)
 8.  3D_Printing
     - [3D Modeling](3DPrinting/as_3D_modeling.md)
     - [3D Printing](3DPrinting/as_3D_printing.md)
-9. Computer controlled cutting
+9. [Computer controlled cutting](Lasercutting/as_lasercutting.md)
 11. Soldering & Breadboard prototyping
 12. Embedded programming
 13. Output devices
