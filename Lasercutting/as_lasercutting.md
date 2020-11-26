@@ -47,7 +47,7 @@ This assignment is graded.  Remember to keep your final product for inspection i
     * Instructables: [Press-fit Construction Kit](https://www.instructables.com/id/Press-fit-Construction-Kit/) Spheres
     * Instructables: [Press-fit Construction Fit Wooden Cat](https://www.instructables.com/id/PRESS-FIT-CONSTRUCTION-FIT-WOODEN-CAT/)
     * Google Search: [Press fit construction kit laser cutting](https://duckduckgo.com/?q=Press-fit+construction+kit+laser+cutting&t=canonical&ia=web)
-2.  Design a simple press-fit kit for yourself, taking into considerstion:
+2.  Design a simple press-fit kit for yourself, taking into consideration:
     * the wood thickness
     * the kerf (to be calculated from lab experiments)
     * about 2~5 pieces which can be reused.
