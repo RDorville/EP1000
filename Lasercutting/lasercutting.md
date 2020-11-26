@@ -127,6 +127,13 @@ When a laser cuts through material, some material is removed in the process. The
 
 1.  Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://youtu.be/U4s2p2epaeg)
 2.  BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9CwhyDT41Y)
+3. [The Trick with Laser Cut Boxes](https://youtu.be/S8AJgycY7nU) - shows what is kerf and how it affects joints
+4.  [How To Design A Laser Cut Finger Joint Box Accurately](https://youtu.be/FBSQGHBpBWg) - using a Vector software and some thinking.  The box has a different type of cover.
+5. [How To Design A Laser Cut Finger Joint Box Accurately](https://youtu.be/FBSQGHBpBWg)
+6. [Making Boxes in Fusion 360 For Lasercutting](https://core-electronics.com.au/tutorials/making-boxes-with-fusion-360-for-laser-cutting-tutorial.html) good ideas for joints in making boxes
+7. Instructables [The Ultimate Guide to Laser-cut Box Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/) if you don't want to design the box yourself
+
+
 
 &nbsp;
 

@@ -2,6 +2,17 @@
 
 In this assignment, you will lasercut the box you created in a previous assignment.
 
+Some guides:
+
+1.  Autodesk Fusion 360: [Laser cutting - How to save as DXF in Fusion 360](https://youtu.be/U4s2p2epaeg)
+2.  BasementMaker: [Glowforge Laser Kerf & Snug Fitting Boxes](https://youtu.be/Q9CwhyDT41Y)
+3. [The Trick with Laser Cut Boxes](https://youtu.be/S8AJgycY7nU) - shows what is kerf and how it affects joints
+4.  [How To Design A Laser Cut Finger Joint Box Accurately](https://youtu.be/FBSQGHBpBWg) - using a Vector software and some thinking.  The box has a different type of cover.
+5. [How To Design A Laser Cut Finger Joint Box Accurately](https://youtu.be/FBSQGHBpBWg)
+6. [Making Boxes in Fusion 360 For Lasercutting](https://core-electronics.com.au/tutorials/making-boxes-with-fusion-360-for-laser-cutting-tutorial.html) good ideas for joints in making boxes
+
+
+
 I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
 
 | Time   | Task |
@@ -10,11 +21,13 @@ I have provided approximate timings for you so that you do **NOT** spend all you
 |30 min  | Export and layout your 3D model for laser cutting  |
 |60 min  | Submit your work for lasercutting |
 
-This is a short assignment, since you have Mid-semester tests & assignments, but should keep you occupied during the holidays.  Try to complete all layouts in DXF so that you can provide them to the TSO when required..
+This is a short assignment, since you have Mid-semester tests & assignments, but should keep you occupied during the holidays.  Try to complete all layouts in DXF so that you can provide them to the TSO when required.
+
+
 
 Here is a quick guide:
 
-1.  Watch both of the videos above to get an idea of how laser cutting works and the definition of kerf.
+1.  Watch Video #1 and #2, above, to get an idea of how laser cutting works and the definition of kerf.
 2.  Return to your parametric box and add a lid/cover to the box
 3.  Export the parts to DXF and prepare a layout for lasercutting.  Use the following parameters:
     * thickness of wood 3.4mm
