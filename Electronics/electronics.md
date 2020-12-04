@@ -12,13 +12,13 @@ Electricity is the flow of electronics in a closed circuit.
 - Electrical resistance (or Resistance) of an object is a measure of the opposition to the flow of electric current.  Resistance is measured in **Ohms**
 - In order for current to flow, the circuit must be **closed**.
 
-[![Electric Current](images/1101_electricCurrent.png)](https://en.wikipedia.org/wiki/Electric_current)    
+[![Electric Current](images/1101_electricCurrent.png)](https://en.wikipedia.org/wiki/Electric_current)
 
 There are two types of electric currents
 
 - AC (Alternating current) where the voltage moves from positive to negative values, *alternating* in time,
     + Home electricity is AC - 230V, 13~15 Amp
-    + A bicycle dynamo is AC - 5-9V, 0.1~0.5 Amp (dependng on how fast you peddle!)
+    + A bicycle dynamo is AC - 5-9V, 0.1~0.5 Amp (depending on how fast you peddle!)
 - DC (Direct current) where the voltage potential is at a fixed value (either positive or negative).
     + AA battery source is DC, 1.5V, 500mA Ref: [Energizer E91](https://data.energizer.com/PDFs/E91.pdf)
     + 18650 LiON battery (used in most laptops, mobile battery packs) is DC 3.7V, 1~2A (You can discharge more, but the batteries catch fire!)
@@ -48,7 +48,7 @@ Kirchoff's first law (the current law)
 
 Kirchoff's second law (the loop/mesh law)
 
-- When the direction is taken into account, the sum of the potential differenes in any closed circuit is zero.
+- When the direction is taken into account, the sum of the potential differences in any closed circuit is zero.
 
 
 ### Electrical Components
@@ -78,24 +78,24 @@ Electrical components are broken down into 3 types
     + besides, resistance values, resistors come in different [power ratings](https://www.electronics-tutorials.ws/resistor/res_7.html) to handle the amount of current that can safely flow through.
 - [Capacitors](https://learn.sparkfun.com/tutorials/capacitors/all)
     + electronic components that can store charge.
-    + made up of two sheets/plate of conductors seperated by an insulator/dielectric, charge ia accumalator on each plate
+    + made up of two sheets/plate of conductors separated by an insulator/dielectric, charge is accumulated on each plate
     + used as filters
     + not essential to our fabrication course
 - [Diodes](https://learn.sparkfun.com/tutorials/diodes)
     + semi-conductors that allow current to flow ONLY in one direction.
     + used for filtering AC
-    + [LED (Light Emmiting Diodes)](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) are special diodes which give off light when the current flows in the correct direction.
+    + [LED (Light Emmi ting Diodes)](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) are special diodes which give off light when the current flows in the correct direction.
 - [Transistors & MOSFETs](https://learn.sparkfun.com/tutorials/transistors)
     + semi-conductors that allow current to flow provided an electrical condition is met on one of the pins.
     + can be used as amplifiers (non-saturation) or switches (saturation)
     + we shall use transistors mainly as electrical switches.
 - [Integrated circuits](https://learn.sparkfun.com/tutorials/integrated-circuits)
-    + deivces which are minaturized electrical circuits.  Each IC can contain thousands of other electrical components configured in a particular circuit(c)
+    + devices which are miniaturized electrical circuits.  Each IC can contain thousands of other electrical components configured in a particular circuit(c)
     + our modern day building blocks
 
 **Measurements**
 
-It is common for electrical components to have a prefix (e.g. Kilo) placed in front of the value.  The following table shows the signifance of each of the terms as applied to resistance, volages, currents and other electrical values.
+It is common for electrical components to have a prefix (e.g. Kilo) placed in front of the value.  The following table shows the significance of each of the terms as applied to resistance, voltages, currents and other electrical values.
 
 | Prefix   | Symbol   |  Base 10 |Decimal                             |
 |----------|:--------:|----------|------------------------------------|
@@ -136,23 +136,24 @@ Under TinkerCAD, you have [Circuits](https://www.tinkercad.com/dashboard?type=ci
 
 &nbsp;
 
-### Assignment 11
+### Assignment: [Electronics](as_electronics.md)
 
-In this assignment, you will attempt to learn some basic electronics.  You have a fantastic online tool to help you with your work and you should learn how to be familiar with it..
+In this assignment, you will attempt to learn some basic electronics.  You have a fantastic online tool to help you with your work and you should learn how to be familiar with it.
 
-I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
+The practical session of this assignment is to 
+-  read an article on how to create a LED flasher with a 555 integrated circuit
+-  test your circuit using a breadboard
+-  solder your circuit onto a veroboard/stripboard
 
-| Time   | Task |
-|--------|:------------------------------------------------|
-|30 min  | Watch the Youtube tutorials on TinkerCAD circuits |
-|60 min  | Participate and learn basic electronics with OpenLearn |
+The skills you will learn are:
+-  understanding an electronic circuit
+-  how to test your circuit using a breadboard
+-  soldering skills
 
-Here is a quick guide:
+Assignment: [Electronics](as_electronics.md)
 
-1.  Watch both of the videos above to get an idea of how TinkerCAD Circuit works and how to use it..
-2.  Familiarise yourself with the common electrical components and try out designing some circuits.
-3.  Go through the OpenLearn course on Basic Electronics.
+
 
 &nbsp;
 
-**July 2020**
+**November 2020**
