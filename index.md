@@ -96,6 +96,7 @@ Assessment will be based on exercises and projects through three in-course asses
     - [3D Printing](3DPrinting/3D_printing.md)
 9.  [Computer Controlled Cutting](Lasercutting/lasercutting.md)
 10.  Embedded Programming
+    - [Introduction to Electronics](Electronics/electronics.md)
 11.  Output Devices
 12.  Input Devices
 13.  Project
