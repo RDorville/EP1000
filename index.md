@@ -146,7 +146,7 @@ You will also "make" a final project of your choice which demonstrates
 3.  [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)
 4.  Session 2020/21 Semester 2
     - [Class 01](classes/ep1000_2020_S2_1.md)
-    - [Class 02](classes/ep1000_2020_S2_1.md)
+    - [Class 02](classes/ep1000_2020_S2_2.md)
 
 &nbsp;
 
