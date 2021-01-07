@@ -98,6 +98,7 @@ If you are stuck, here is a [Step-by-step Guide](stepbystep_breadboarding.md)
     - your design/sketch of the Veroboard plan
     - your "hero" shots of the completed circuit
     - optional: a 15 second video (placed on YouTube) of how your working Astable circuit implementation.
+    - You can find some help here: [Stripboards](stripboards.md)
 7.  Write up your process in your blog under the title "Electronics Implementation".  You should have
     - step-by-step use of TinkerCAD
     - implementation of a 555 Timer on breadboard (either virtual/actual)
