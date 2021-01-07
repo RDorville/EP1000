@@ -64,13 +64,21 @@ Do **NOT** attempt to do all parts at once, space them out over the holiday brea
     - Read the operation of a [Astable 555 Timer](https://circuitdigest.com/electronic-circuits/555-timer-astable-multivibrator-circuit-diagram)<br>
     We will be using this circuit, with the exception that
         - Voltage is 5V
-        ![555 Astable Circuit](images/asElect_03.png)<br>
+
+![555 Astable Circuit](images/asElect_03.png)
+
 &nbsp;
+
     - Test the circuit using TinkerCAD and observe the waveform by using an oscilloscope.  You should be able to obtain a square wave showing the flashing of the LED on simulation.
+
     ![555 Astable Circuit on breadboard](images/asElect_04.png)<br>
+
 &nbsp;
+
     - Note:  If you change the value of C1, you can change the rate at which the LED flashes.
+
 &nbsp;
+
 4.  Try implementing the circuit using an actual breadboard.  You can obtain the components from T1442.<br>
 If you are stuck, here is a [Step-by-step Guide](stepbystep_breadboarding.md)
 5.  Wire up an actual circuit using Veroboard/Stripboard
