@@ -58,8 +58,10 @@ Do **NOT** attempt to do all parts at once, space them out over the holiday brea
 2.  Learn how to use a Breadboard
     - Watch Youtube [How To Use a Breadboard](https://youtu.be/6WReFkfrUIk)
     - or read SparkFun [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
-    - Go to T1442 Fablab EA, transfer your circuit to an actual breadboard (without the meters), verify that it works.
-    ![LED circuit on a Breadboard](images/asElect_02.png)
+    - Go to T1442 Fablab EA, transfer your circuit to an actual breadboard (without the meters), verify that it works.<br>
+&nbsp;
+    ![LED circuit on a Breadboard](images/asElect_02.png)<br>
+&nbsp;
     - Alternatively, you could try it on TinkerCAD first!<br>
 &nbsp;
 3.  Wire up a 555 Timer circuit
@@ -67,9 +69,9 @@ Do **NOT** attempt to do all parts at once, space them out over the holiday brea
     We will be using this circuit, with the exception that
         - Voltage is 5V
 
-![555 Astable Circuit](images/asElect_03.png)<br>
+    ![555 Astable Circuit](images/asElect_03.png)<br>
 &nbsp;
-    - Test the circuit using TinkerCAD and observe the waveform by using an oscilloscope.  You should be able to obtain a square wave showing the flashing of the LED on simulation.
+4.  Test the circuit using TinkerCAD and observe the waveform by using an oscilloscope.  You should be able to obtain a square wave showing the flashing of the LED on simulation.
 
     ![555 Astable Circuit on breadboard](images/asElect_04.png)<br>
 &nbsp;
