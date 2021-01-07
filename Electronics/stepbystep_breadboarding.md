@@ -15,7 +15,7 @@ The circuit that we are going to wire up is shown below, with the exception that
 
 ![555 timer astable multivibrator circuit diagram](images/asElect_03.png)
 
-&nbsp
+&nbsp;
 
 ### Step 1 Breadboard and Power supply lines
 
@@ -23,9 +23,12 @@ The circuit that we are going to wire up is shown below, with the exception that
 2.  Insert a Power Supply Unit, setting the voltage to 5V/2A
 3.  Connect the Power lines (5V and GND) to the breadboard.  Use wires to ensure that both rails (top and bottom) have Vcc and Gnd.  This makes your connections easier.
 4.  Use colour wires to help identify the circuits
+
     a)  RED for +5V (Vcc)
     b)  BLACK for 0V (Ground)
+
 5.  Insert the Integrated Circuit (IC) NE555 and connect the power and ground lines.
+
     a)  Pin 1 is identified with a white dot
     b)  Pin 1 connects to GND
     c)  Pin 8 connects to Vcc
@@ -52,7 +55,7 @@ if you reverse the pins, the capacitor may explode (with a loud pop!)
 1.  Finish the connections to pin 2 of the NE555 by connecting the resistors and link to pin 6 and 7 as well.
 2.  The bands on the resistor will tell you the value of the resistor.
 
-! [Step 3 Connect pin 2 tp the resistors and pins 6, 7](images/asElect_Step03.png)
+![Step 3 Connect pin 2 tp the resistors and pins 6, 7](images/asElect_Step03.png)
 
 &nbsp;
 
@@ -61,7 +64,7 @@ if you reverse the pins, the capacitor may explode (with a loud pop!)
 1.  Connect the current limiting resistor (220 Ohm) and the LED to pin 3.
 2.  The LED has a anode (+ve) and cathode (-ve) leads, check that they are correctly connected.
 
-! [Step 4 Connect pin 3 to the LED](images/asElect_Step04.png)
+![Step 4 Connect pin 3 to the LED](images/asElect_Step04.png)
 
 &nbsp;
 
@@ -69,7 +72,7 @@ if you reverse the pins, the capacitor may explode (with a loud pop!)
 
 1.  Connect the ceramic capacitor to pin 5.  You need not worry about which lead to use for ceramic capacitors
 
-! [Step 5 Complete the circuit](images/asElect_Step05.png)
+![Step 5 Complete the circuit](images/asElect_Step05.png)
 
 &nbsp;
 
@@ -80,7 +83,7 @@ if you reverse the pins, the capacitor may explode (with a loud pop!)
 3.  Use the Oscilloscope module or the Multimeter module to make measurements of the voltages and signals running through the ciruit.
 4.  You can change the values of the Capacitor C1, Resistors R1 and R2 to observe the effects.  Remember to "Stop Simulation" before you make the changes.
 
-! [Step 6 Start Simulation](images/asElect_04.png)
+![Step 6 Start Simulation](images/asElect_04.png)
 
 &nbsp;
 
