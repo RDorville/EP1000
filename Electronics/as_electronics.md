@@ -54,7 +54,7 @@ Do **NOT** attempt to do all parts at once, space them out over the holiday brea
     ![LED circuit](images/asElect_01.png)
 
      - what value of R must I insert to allow only approximately 5mA of current to flow through the circuit?<br>
-nbsp;
+&nbsp;
 2.  Learn how to use a Breadboard
     - Watch Youtube [How To Use a Breadboard](https://youtu.be/6WReFkfrUIk)
     - or read SparkFun [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
@@ -67,12 +67,12 @@ nbsp;
     We will be using this circuit, with the exception that
         - Voltage is 5V
 
-![555 Astable Circuit](images/asElect_03.png)
-
+![555 Astable Circuit](images/asElect_03.png)<br>
+&nbsp;
     - Test the circuit using TinkerCAD and observe the waveform by using an oscilloscope.  You should be able to obtain a square wave showing the flashing of the LED on simulation.
 
     ![555 Astable Circuit on breadboard](images/asElect_04.png)<br>
-
+&nbsp;
     - Note:  If you change the value of C1, you can change the rate at which the LED flashes.<br>
 &nbsp;
 4.  Try implementing the circuit using an actual breadboard.  You can obtain the components from T1442.<br>
