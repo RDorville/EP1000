@@ -96,9 +96,11 @@ Assessment will be based on exercises and projects through three in-course asses
     - [3D Printing](3DPrinting/3D_printing.md)
 9.  [Computer Controlled Cutting](Lasercutting/lasercutting.md)
 10.  Embedded Programming
+
     - [Introduction to Electroncis](Electronics/electronics.md)
     - [Introduction to the Arduino System](arduino/Embedded_Programming_with_Arduino.pdf)
     - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)
+
 11.  Output Devices
 12.  Input Devices
 13.  Project
@@ -126,7 +128,7 @@ Here are the assignments which you will be working on in the course of this modu
     - [3D Printing](3DPrinting/as_3D_printing.md)
 9. [Computer controlled cutting](Lasercutting/as_lasercutting.md)
 10. [Breadboarding, Veroboard prototyping and Soldering](Electronics/as_electronics.md)
-12. Embedded programming
+12. [Embedded programming](arduino/as_ArduinoProgramming.md)
 13. Output devices
 14. Input devices
 
