@@ -97,6 +97,8 @@ Assessment will be based on exercises and projects through three in-course asses
 9.  [Computer Controlled Cutting](Lasercutting/lasercutting.md)
 10.  Embedded Programming
     - [Introduction to Electroncis](Electronics/electronics.md)
+    - [Introduction to the Arduino System](arduino/Embedded_Programming_with_Arduino.pdf)
+    - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)
 11.  Output Devices
 12.  Input Devices
 13.  Project

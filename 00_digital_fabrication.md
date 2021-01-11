@@ -6,7 +6,7 @@ Wikipedia [Digital modeling and fabrication](https://en.wikipedia.org/wiki/Digit
 
 Digital Fabrication allows you to build your object/idea on a computer and spending minimal time as well as expertise in creating the physical object on the actual machine.
 
-The workflow of digital fabrication is 
+The workflow of digital fabrication is
 
 1. conceive the idea (Graphics sketching program, documentation)
 2. design the object (Computer Aided Design)
