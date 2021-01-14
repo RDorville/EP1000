@@ -463,4 +463,8 @@ You can find the Assignment Sheet [here](as_ArduinoProgramming.
 
 &nbsp;
 
+### Examples
+
+1. [Toggle Switch Implementation](toggle_sw.md)
+
 **Jan 2021**
