@@ -16,7 +16,7 @@ We will also **ONLY** change the state of the LED after each push.  Hence, we wi
 - LOW when the pushbutton is pressed, discount any bouncing
 - HIGH when the switch returns to the original state.  we should ignore any states between the LOW to HIGH transition (e.g. if the user keeps pressing the switch)
 
-![Pushbutton switch states](sw_states.png)
+![Pushbutton switch states](images/sw_states.png)
 
 ### Circuit diagram
 
@@ -26,11 +26,11 @@ We will also **ONLY** change the state of the LED after each push.  Hence, we wi
 	- Pin 13 (Output) to LED
 	- Pin 7 (Input) from Pushbutton Switch
 
-	![Toggle Switch Schematic](sw_cct.png)
+	![Toggle Switch Schematic](images/sw_cct.png)
 
 - We can always simulate the circuit on TinkerCAD or wire-up the circuit as follows:
 
-  ![Toggle Switch Implementation](sw_wireup.png)
+  ![Toggle Switch Implementation](images/sw_wireup.png)
 
 ### Code
 
