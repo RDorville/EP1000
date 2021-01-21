@@ -132,6 +132,10 @@ For ESP publication - [docx](finalProject/Final Project.docx). [pdf](finalProjec
 1.  [2020 Sem 1 Class Websites](2020S1_students.md)
 2.  [EP1000 Class Kit](ep1000classkit.md) components list.
 
+### project
+
+[project list](2020s1_projectlist.md)
+
 
 &nbsp;
 
