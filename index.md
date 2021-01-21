@@ -163,6 +163,22 @@ You will also "make" a final project of your choice which demonstrates
 - 19 October 2020<br>
   Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious)
 
+&nbsp;
+
+## Previous Classes
+
+- Session 2021 Semester 1
+    + Group 1
+    + [Group 2](classes/S2021Sem1_01.md)
+- Session 2021 Semester 2
+    + [Group 1](classes/S2021Sem1_01.md)
+    + [Group 2](classes/S2021Sem1_02.md)
+    + Group 3
+
+
+
+
+
 
 **October 2020**
 
