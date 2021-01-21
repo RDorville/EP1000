@@ -55,4 +55,14 @@ Remember to document your work on the github site, you should write
 
 &nbsp;
 
+### Hints
+
+You can examine a simulation of this assignment in TinkerCAD ([One Switch Many States](http://bit.ly/3o5k5nx)).
+
+Use this simulation as a start to your assignment.
+
+![One Switch Many States](images/as_oneSWmanyStates.png)
+
+&nbsp;
+
 **Jan 2021**
