@@ -223,6 +223,11 @@ The **map** function is used to map the value of the variable `reading` (ranges 
 
 In this way, as you turn the variable resistor, you are changing the input analog voltage.  The Uno reads this analog voltage and converts it to a PWM duty-cycle value to be output.  This changes the brightness of the LED.
 
+
+![Uno Analog Input & Output](images/unoAnalogIO.md)
+
+You can observe the simulation of the circuit using TinkerCAD ([Uno Analog Input & Output](http://bit.ly/3qH1Q9G)).  An oscilloscope is added to show the 490Hz waveform which is Pulse Width Mddulated (PWM).
+
 &nbsp;
 
 ### Assignment 13
@@ -261,4 +266,4 @@ Remember to document your work in your blog.
 
 &nbsp;
 
-**July 2020**
+**January 2021**
