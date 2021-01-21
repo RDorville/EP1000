@@ -3,6 +3,8 @@
 
 In this assignment, you will attempt to interface an input analog device to your Arduino and produce equivalent output on a RGB LED.
 
+![Interfacing a LDR and RGB LED](images/as_LDR_RGB.png)
+
 I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
 
 | Time   | Task |
