@@ -131,7 +131,7 @@ Here are the assignments which you will be working on in the course of this modu
 10. [Breadboarding, Veroboard prototyping and Soldering](Electronics/as_electronics.md)
 12. [Embedded programming](arduino/as_ArduinoProgramming.md)
 13. Input devices
-    - [LDR with RGB LED]((input_devices/as_InputDevices_LDR.md))
+    - [LDR with RGB LED]((input_devices/as_input_LDR.md))
 14. Output devices
 
 You will also "make" a final project of your choice which demonstrates
