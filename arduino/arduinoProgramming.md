@@ -459,7 +459,7 @@ I/O Programming
 
 In this assignment, you will attempt to write simple programs with the Arduino IDE and Uno R3 board.  You can test the programs on the simulator first before wiring and implementing the actual circuits on the physical Arduino board.
 
-You can find the Assignment Sheet [here](as_ArduinoProgramming.
+You can find the Assignment Sheet [here](as_ArduinoProgramming)
 
 &nbsp;
 

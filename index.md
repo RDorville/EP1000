@@ -98,8 +98,10 @@ Assessment will be based on exercises and projects through three in-course asses
 10.  Embedded Programming
   - [Introduction to Electroncis](Electronics/electronics.md)
   - [Introduction to the Arduino System](arduino/Embedded_Programming_with_Arduino.pdf)
-  - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)<br>
-    [Notes from class](arduino/Arduino_IO_Notes.pdf)
+  - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)
+  - [Analog I/O](arduino/arduinoAnalogIO.md)
+  - Additional Notes and Examples
+    + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
 11.  Output Devices
 12.  Input Devices
 13.  Project
