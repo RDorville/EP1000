@@ -197,66 +197,14 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 
 &nbsp;
 
-### Assignment 14
+## [Assignment 13 Interfacing a LDR with an RGB LED](as_input_LDR.md)
 
-In this assignment, you will attempt to interface two input devices to your Arduino.
+In this assignment, you will attempt to interface an input analog device to your Arduino and produce equivalent output on a RGB LED.
 
-I have provided approximate timings for you so that you do **NOT** spend all your time (doing something you like and neglecting other modules!)
+You can view the assignment [here](as_input_LDR.md)
 
-| Time   | Task |
-|--------|:------------------------------------------------|
-|30 min  | Interface the Ultrasonic sensor to your Uno board |
-|30 min  | Interface the DHT-11 sensor to your Uno board |
-|60 min  | Plan what you want to do as your final project |
+![Interfacing a LDR and RGB LED](images/as_LDR_RGB.png)
 
-
-This assignment requires the wiring of the circuitry using the Arduino Uno board and breadboard with other components.  You may need to consult your lecturer during the breakout sessions regarding troubleshooting of the circuitry.
-
-Complete the following programming assignments:
-
-### Interfacing assignments
-
-1.  Wire up and interface the
-    - Ultrasonic sensor
-    - DHT-11 temperature and humidity sensor
-2.  Draw the circuit diagram (you can use the on line app [Circuit Diagram](https://www.circuit-diagram.org/editor/)) to document your work.
-3.  Write the program(s) to make the devices work.
-    -  indicate whether you need to use libraries
-    -  show your results using the Serial Monitor and/or Serial Plotter
-4.  Take a hero shot (photo or video) of your interfacing achievements
-5.  Write up your website page.
-
-### Final Project Planning
-
-1.  Go through the list of suggested projects in the Final Project section.
-2.  Google/Search for completed ideas which you might want to use.
-3.  Decide on a final project
-    -  Indicate what changes you would like to make
-    -  Do a sketch of what your final project would look like
-    -  Write down the tasks that you need to complete, taking into consideration
-        -  what you need to design in 2D/3D
-        -  what you need to lasercut
-        -  what you need to 3D print
-        -  what sensors you require
-        -  whether the program is available to you, what changes do you need to make
-    *  Write down the Bill-of-materials (BOM)
-    *  Complete the above and post it in the Final Project Section
-        *  Label this Initial Plan
-        *  Provide photos, sketches, evidence of your work
-
-&nbsp;
-
-### Useful sites for Arduino Interfacing
-
-Here are some of the more "reputable/trust-worthy" sites for Arduino modules
-
-- [Last Minute Engineers](https://lastminuteengineers.com/)
-- [Dronebot Workshop](https://dronebotworkshop.com/)
-- [Adafruit](https://www.adafruit.com/category/17)
-- [Instructables](https://www.instructables.com/id/Arduino-Projects/)
-- [Arduino Project Hub](https://create.arduino.cc/projecthub/projects/tags/arduino)
-
-&nbsp;
 
 **July 2020**
 
