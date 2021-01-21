@@ -165,14 +165,14 @@ You will also "make" a final project of your choice which demonstrates
 
 &nbsp;
 
-## Previous Classes
+## Classes
 
 - Session 2021 Semester 1
     + Group 1
     + [Group 2](classes/S2021Sem1_01.md)
 - Session 2021 Semester 2
-    + [Group 1](classes/S2021Sem1_01.md)
-    + [Group 2](classes/S2021Sem1_02.md)
+    + [Group 1](classes/S2021Sem2_01.md)
+    + [Group 2](classes/S2021Sem2_02.md)
     + Group 3
 
 
