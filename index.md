@@ -102,8 +102,8 @@ Assessment will be based on exercises and projects through three in-course asses
   - [Analog I/O](arduino/arduinoAnalogIO.md)
   - Additional Notes and Examples
     + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
-11.  Output Devices
-12.  Input Devices
+11.  [Input Devices](input_devices/inputDevices.md)
+12.  [Output Devices](output_devices/outputDevices.md)
 13.  Project
 
 &nbsp;
@@ -134,10 +134,7 @@ Here are the assignments which you will be working on in the course of this modu
 13. Input devices
     - [LDR with RGB LED]((input_devices/as_input_LDR.md))
 14. Output devices
-=======
-13. Output devices
-14. Input devices
->>>>>>> parent of 963bb8a... included input and output devices
+
 
 You will also "make" a final project of your choice which demonstrates
 
