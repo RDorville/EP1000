@@ -102,7 +102,7 @@ Assessment will be based on exercises and projects through three in-course asses
   - [Analog I/O](arduino/arduinoAnalogIO.md)
   - Additional Notes and Examples
     + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
-11.  [Input Devices](input_devices/inputDevices.md)
+11.  [Input Devices](input_devices/input_devices.md)
 12.  [Output Devices](output_devices/outputDevices.md)
 13.  Project
 
@@ -130,7 +130,6 @@ Here are the assignments which you will be working on in the course of this modu
 9. [Computer controlled cutting](Lasercutting/as_lasercutting.md)
 10. [Breadboarding, Veroboard prototyping and Soldering](Electronics/as_electronics.md)
 12. [Embedded programming](arduino/as_ArduinoProgramming.md)
-<<<<<<< HEAD
 13. Input devices
     - [LDR with RGB LED]((input_devices/as_input_LDR.md))
 14. Output devices
