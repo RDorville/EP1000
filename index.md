@@ -63,8 +63,8 @@ Assessment will be based on exercises and projects through three in-course asses
 | 10    | 21 Dec 2020 | Mid-term break |25th Dec Christmas |
 | 11    | 28 Dec 2020 | |1st Jan New Year|
 | 12    | 4 Jan 2021  |Electronics, Embedded programming    ||
-| 13    | 11 Jan 2021 |Embedded Programming     ||
-| 14    | 18 Jan 2021 |Basic input & output devices  ||
+| 13    | 11 Jan 2021 |Basic output devices     ||
+| 14    | 18 Jan 2021 |Basic input devices  ||
 | 15    | 25 Jan 2021 |Module Project   ||
 | 16    | 1 Feb 2021  |Module Project   ||
 | 17    | 8 Feb 2021  |Module Project   |  12 & 13th Feb CNY |
@@ -102,8 +102,8 @@ Assessment will be based on exercises and projects through three in-course asses
   - [Analog I/O](arduino/arduinoAnalogIO.md)
   - Additional Notes and Examples
     + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
-11.  [Input Devices](input_devices/inputDevices.md)
-12.  [Output Devices](output_devices/outputDevices.md)
+11.  Output Devices
+12.  Input Devices
 13.  Project
 
 &nbsp;
@@ -130,9 +130,14 @@ Here are the assignments which you will be working on in the course of this modu
 9. [Computer controlled cutting](Lasercutting/as_lasercutting.md)
 10. [Breadboarding, Veroboard prototyping and Soldering](Electronics/as_electronics.md)
 12. [Embedded programming](arduino/as_ArduinoProgramming.md)
+<<<<<<< HEAD
 13. Input devices
     - [LDR with RGB LED]((input_devices/as_input_LDR.md))
 14. Output devices
+=======
+13. Output devices
+14. Input devices
+>>>>>>> parent of 963bb8a... included input and output devices
 
 You will also "make" a final project of your choice which demonstrates
 
