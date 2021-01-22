@@ -1,210 +1,194 @@
-## Input Devices
+## EP1000 Digital Fabrication Prototyping Fundamentals
 
-Input devices are often called **Sensors**.  Output devices are often called **Actuators**.  The process of connecting a Sensor or Actuator to a computer processor system is called Interfacing.
+In this module you will learn how to use Digital Fabrication techniques in designing and creating prototypes.  In the process you will learn how to
+document and publish your work.  You will use Computer Aided Design techniques, 3D printing and laser cutting methods to develop your prototype.  In addition, you will be use a microcontroller to add intelligence to your project.
 
-### Sensors
+This module is offered as an elective to students of Singapore Polytechnic as part of their Diploma course.
 
-- A sensor is a device, module, machine or subsystem whose purpose is to detect events or changes in its environment and send the information to other electronics, frequently a computer processor. (Ref: [Wikipedia: Sensor](https://en.wikipedia.org/wiki/Sensor))
-- Used in everyday objects to read changes in the environment.
-- Sensor readings are usually analog by nature.
-- Changes are usually slower in availability (compared to computer processors) and require some processing techniques.
+Quick Links:
 
-### Methods of reading sensors
+- [Module Aims](#module-aims)
+- [Teaching Methods](#teaching-methods)
+- [Method of Assessment](#method-of-assessment)
+- [Course Schedule](#course-schedule) Session 20/21 Semester 2
+- [Course Notes - Topics](#course-notes)
+- [Assignments](#assignments)
+- [Links](#links)
+- [Announcements](#announcements)
 
-- There are 3 basic methods of reading/obtaining information from a sensor.  These methods are dependent upon the availability of the information, as read by the sensor
-    - Always available
-        - Just read the data, data is always available
-        - Changes to the reading occur very slowly.
-        - E.g. temperature
-    - Polling
-        - Processor has to continually query/poll the sensor for information.
-        - Sensor will usually indicate whether there is new information through another signal or have a drastic change in the reading to indicate that there is a new reading available.
-        - When Processor "sees" this change, data is read.
-        - E.g. switch
-    - Triggering
-        - A trigger is a signal(s) that is used to initiate the reading.
-        - Sequence is as follows:
-            + Processor sends a signal to the sensor for data
-            + Sensor gathers information, and when ready
-            + Sends reading back to the Processor.  The Sensor may also indicate that data is ready to be read by sending back an Acknowledge/Ready signal
-        - E.g. Ultrasonic distance measurement
-- Sensor data
-    + Real environment data is analog by nature.  It may be some physical element e.g. temperature, distance
-    + A sensor converts this data into an **equivalent** electrical signal/voltage that is sent to the computer processor.
-    + The computer processor has to read this electrical signal and convert it into an understandable value.
-    - Analog signals
-        - most common type of sensor data
-        - requires conversion to a digital value, usually with an ADC
-        - usually it is a direct relationship e.g. V = K * environment-value
-    - Digital signals
-        - these sensors are configured as smart devices, with processing power
-        - sensor itself converts the analog values into a digital signal (e.g. pulse or series of digits)
-        - processor needs to decode to understand the value
-- Arduino Libraries
-    + The Arduino System is very popular because there is large number of libraries (of code) available for almost every Sensor that you can think of.
-    + Add libraries to the Arduino IDE System (Ref: Arduino.cc [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries))
-        * There are two types of libraries,
-            - Search able using the Arduino IDE system (Internal)
-            - External libraries, available as compressed C++ code.
-        * How to add a library using the Library Manager
-            1.  `IDE > Sketch > Install Library > Manage Libraries`
-            2.  Search for the library
-            3.  Highlight and click Install, when complete, it should state "Installed"
-        * How to add an External library (.ZIP format)
-            1.  Search for the library on the Internet
-            2.  Download the library, usually in a compressed .ZIP file
-            3.  `IDE > Sketch > Include Library > Add .Zip Library`
-            4.  Close the IDE. Re-open.
-        + How to manually add an External Library
-            1.  Search for the library on the Internet
-            2.  Download the library, usually in a compressed .ZIP file
-            3.  Locate where your sketch folder is found on your computer using `IDE > File > Preferences > Sketchbook`
-            4.  Extract the Library from the ZIP file (this is usually a folder)
-            5.  Copy the extracted library folder to [Sketchbook folder] > Libraries folder
-            6.  Close the IDE.  Re-open.
-    - Check that the Library has been added using `IDE > Sketch > Include Library`.  You should see your installed library there.
-    + To apply the library code to your application, add the header file a the top of your sketch using `IDE > Sketch > Include Library > LibName`.  The header file has an extension of `.h`.
-
-### Types of  Sensors
-
-- Switches
-    - An electrical component that can disconnect or connect the conducting path of a circuit.
-    - Provides a LOW or HIGH signal depending on the circuitry.
-    - Use `digitalRead()` to determine value of a switch.
-    - Be aware of debouncing techniques when mechanical switches are in use.
-    - Types of switches
-        + [Toggle](https://duckduckgo.com/?q=toggle+switch&t=canonical&iax=images&ia=images)
-            * a mechanical switch that changes the state each time the switch is thrown/manipulated.
-            * e.g. If in the ON position, throwing the switch will change it to an OFF position.
-            * the state remains until the switch is thrown
-        - [Pushbutton switch](https://duckduckgo.com/?q=pushbutton+switch&t=canonical&iar=images&iax=images&ia=images)
-            + a spring-loaded mechanical switch that changes state when the switch is pressed.  When released (and because of the spring) the switch returns to the original state.
-            + Two types of pushbutton switches
-                * normally closed - push to open/break connection
-                * normally open - push to close/make connection
-        - [Slide switch](https://duckduckgo.com/?q=slide+switch&t=canonical&iar=images&iax=images&ia=images)
-            + a switch which is closed or opened by a sliding mechanism.
-            + when changed, the switch remains in the new state.
-        - [Touch Capacitative switch](https://duckduckgo.com/?q=touch+capacitative+switch&t=canonical&iar=images&iax=images&ia=images)
-            + switch works based on body capacitance.
-            + when a person touches it, the body increases the capacitance of the switch and triggers the switch
-&nbsp;
-- Temperature, Humidity
-    + the environment can be measured using a number of devices, the most common and cheapest is to use the DHT-11 temperature and humidity sensor.
-        + temperature is a physical quantity that expresses hot or cold.
-        + reference temperatures
-            +  freezing point of water = 0 degrees Centigrade
-            +  boiling point of water = 100 degrees Centigrade
-            +  typical Singapore temperature = 28 - 32 degrees Centigrade
-    *  humidity is the measure of the concentration of water vapor present in the air.  Singapore's humidity is between 70-90%.
-    - the following devices can be used with the Arduino system
-        - [DHT-11](https://components101.com/dht11-temperature-sensor)
-            - operating voltage range 3.5~5.5V
-            - temperature range 0-50C, humidity 20-90%
-            - resolution 16-bit
-            - accuracy +/- 1C, +/- 1%
-        - [DHT-22](https://components101.com/sensors/dht22-pinout-specs-datasheet)
-            - temperature range -40~80C, humidity 0~100%
-            - resolution 16-bit
-            - accuracy +/- 0.5C, +/- 1%
-        - [LM35](https://components101.com/lm35-temperature-sensor) temperature sensor
-            + operating voltage range -2~35V, typical 5V
-            + temperature range -55C ~ 150C
-            + accuracy +/- 0.5C
-        - [DS18B20](https://components101.com/sensors/ds18b20-temperature-sensor) temperature probe
-            + operating voltage range 3V ~ 5V
-            + temperature range -55C ~ 125C
-            + accuracy +/- 0.5C
-    - Interfacing to the Arduino Uno
-
-    ![DHT-11 Temperature & humidity Sensor](images/14_dht11.png "DHT-11 Temperature & humidity Sensor")
-
-    - [Interfacing the DHT-11](https://create.arduino.cc/projecthub/Arca_Ege/using-dht11-b0f365)
-        + requires the use of the DHT-11 library
 
 &nbsp;
 
-- Distance
-    + This depends on the distance to be measured.  The devices can range from a limit switch to an ultrasonic sensor.
-    - [Photoelectric InfraRed Avoidance detection/Proximity sensor](https://osoyoo.com/2018/12/21/arduino-lesson-ir-obstacle-avoidance-module/)
-        + distance: 2cm ~ 40cm
-        + can use **EN**able pulse or continuous measurement
-        + avoidance distance is adjusted with potentiometer
-        + does not measure distance, just detects it
-    - [Ultrasonic HC-SR04](https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/)
-        + distance: 2cm ~ 4 m
-        + uses SONAR, returns a pulse proportional to the distance
-        + ranging accuracy 3mm, measuring angle 15 degrees
-        + distance is equivalent to [pulse measured](https://www.tutorialspoint.com/arduino/arduino_ultrasonic_sensor.htm)
+## Module Aims
 
-    ![HC-SR04 Ultrasonic Sensor](images/14_ultrasonic.png "HC-SR04 Ultrasonic Sensor")
+In this elective, students are introduced to design thinking concepts, which they will use to design some functional prototypes to meet certain user requirements. Fundamental digital fabrication skills and technologies such as computer-aided design, 2D and 3D modeling, mechanical & electronic design and programming skills are developed through a range of hands-on real world activities. Project management, web and version control techniques, which are important for project development, will also be imparted to students.
 
 &nbsp;
 
-- Motion detection
-    + Commonly used to detect the presence of humans or animals in a room/vicinity.
-    - [HC-SR501 PIR Sensor](https://dronebotworkshop.com/techfile/passive-infrared-sensors-pir/)
-        + PIR - Passive Infra Red Sensor
-        + Detectable cover distance 120 degrees, 7 meters
-        + has a repeatable and non-repeatable operating mode
+## Teaching Methods
 
-    ![PIR Sensor for Motion Detection](images/14_PIRsensor.png "PIR Sensor for Motion Detection")
+The module incorporates active and experiential learning (CDIO Standard 8) through a combination of tutorials, e-learning and practical workshop sessions. To help the students better understand the basic essential concepts, demonstrations will also be conducted in the lab/workshop (CDIO Standard 6). Audio visual media, hardware and various teaching aids will be used in the course delivery for effective learning.
 
-    - [Microwave module Doplar detection RCWL-0516](https://dronebotworkshop.com/rcwl-0516-experiments/)
-        + Stand-alone module using "Doplar Radar" to detect motion
-        + Can be connected to a computer processor
-        + Detectable cover distance 7 meters
+Students have to demonstrate their ability to work individually and in groups to encourage teamwork, personal and interpersonal communication skills.
 
 &nbsp;
 
-- [Light Measurement & Detection](https://www.electronicshub.org/light-sensors/)
-    + Light intensity can be detected/measured using LDR (Light Dependent Resistors) or Light Sensor Modules (using Photo transistor circuits)
-    - LDR 5516
-        + Low cost measurement/detection of light using LDR
-        + Variable analog voltage received as input\
-        + Can be calibrated
-        + Measured using Arduino analogRead() function
-        + Use a 5K ~ 10K resistor for the Arduino Uno
+## Method of Assessment
 
-    ![Measuring Light with LDR](images/14_LDR.png "Measuring Light with LDR")
+Assessment will be based on exercises and projects through three in-course assessments (ICA) as follows:
 
-    - [Using a Photocell](https://learn.adafruit.com/photocells/using-a-photocell)
+| S/No   | Code   | Description                    | Weightage  |
+|:------:|:------:|--------------------------------|:----------:|
+| 1      |CA1     | Safety, Documentation, Website | 20%        |
+| 2      |CA2     | Digital Fabrication Skills     | 40%        |
+| 3      |CA3     | Summative Project              | 40%        |
 
 &nbsp;
 
-- Time
-    + These are modules that allow you to keep track of the time.  A RTC uses a small battery, crystal and memory to maintain a on-going clock which can be read to provide the current date and time.
-    - Real-time Clock Modules
-        - [RTC DS3231 using I2C](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe)
-        - [RTC DS1302 using single-wire](https://playground.arduino.cc/Main/DS1302/)
+## Course Schedule
+
+**Session 20/21 Semester 2**
+
+| **Week**  | **Date**   | **Topic** |  **Remarks** |
+|:-----:|:------------|--------|--------|
+| 1     | 19 Oct 2020 |Introduction, Fablab Safety, Tools   ||
+| 2     | 26 Oct 2020 |Project Management, HTML & CSS, Website Development  ||
+| 3     | 2 Nov 2020  |Markdown, Version Control   ||
+| 4     | 9 Nov 2020  |Computer Graphics, Computer Aided Design |   14th Nov Depavali|
+| 5     | 16 Nov 2020 |2D Drawing and Modeling     ||
+| 6     | 23 Nov 2020 |3D Modeling     ||
+| 7     | 30 Nov 2020 |3D Printing      ||
+| 8     | 7 Dec 2020  |Computer Controlled Cutting  ||
+| 9     | 14 Dec 2020 | ||
+| 10    | 21 Dec 2020 | Mid-term break |25th Dec Christmas |
+| 11    | 28 Dec 2020 | |1st Jan New Year|
+| 12    | 4 Jan 2021  |Electronics, Embedded programming    ||
+| 13    | 11 Jan 2021 |Embedded Programming     ||
+| 14    | 18 Jan 2021 |Basic input & output devices  ||
+| 15    | 25 Jan 2021 |Module Project   ||
+| 16    | 1 Feb 2021  |Module Project   ||
+| 17    | 8 Feb 2021  |Module Project   |  12 & 13th Feb CNY |
+| 18    | 15 Feb 2021 |Project Presentation & Demonstration  ||
 
 &nbsp;
 
-- [Rotary Encoders](https://dronebotworkshop.com/rotary-encoders-arduino/)
-    + a rotary encoder reads the positional value of a shaft by comparing 2 pulses as the shaft turns.
-    + looks like a potentiometer, but does not change resistance
-    + rotary encoders are now used for volume controls, motor encoders etc
-- Weight
-    + A load cell provides a means of measuring the weight of an object.  This is done by the measuring the contraction of metals.  Usually a module is provided to read the data from a load cell and transfer the results to the computer processor.
-    - [Load Cell Weight Sensor HX711 AD Converter](https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/)
-- Water
-    - [Water level sensor](https://www.instructables.com/id/How-to-use-a-Water-Level-Sensor-Arduino-Tutorial/)
+## Course Notes
+
+### Topics
+
+0.  [Digital Fabrication](00_digital_fabrication.md)
+1.  [FabLab Safety](01_fablab_safety.md)
+2.  [FabLab Tools](02_fablab_tools.md)
+3.  [Project Management](03_project_managment.md)
+4.  [Web Development](04_web_development.md)
+    -  [Using HTML & CSS](04a_html_css.md)
+    -  [Using a template](JakeWright/jwhowto.html)
+    -  [Using Markdown](04c_using_markdown.md)
+    -  [Using Jekyll generator (with Markdown)](web-pk/web-pk.md)
+5.  [Version Control](05_version_control.md)
+6.  Computer Aided Design
+    -  [Introduction to Computer Aided Design](CAD/01_CAD_intro.md)
+    -  [Creating Models](CAD/02_Creating_models)
+    -  [Further Fusion 360 design techniques](CAD/03_F360_features.md)
+    -  [Parametric Design](CAD/04_Parametric.md)
+8.  3D_Printing
+    - [3D Modeling](3DPrinting/3D_modeling.md)
+    - [3D Printing](3DPrinting/3D_printing.md)
+9.  [Computer Controlled Cutting](Lasercutting/lasercutting.md)
+10.  Embedded Programming
+  - [Introduction to Electroncis](Electronics/electronics.md)
+  - [Introduction to the Arduino System](arduino/Embedded_Programming_with_Arduino.pdf)
+  - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)
+  - [Analog I/O](arduino/arduinoAnalogIO.md)
+  - Additional Notes and Examples
+    + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
+11.  [Input Devices](input_devices/inputDevices.md)
+12.  [Output Devices](output_devices/outputDevices.md)
+13.  Project
 
 &nbsp;
 
-- Arduino Sensor Kit
-    + [37 in 1 kit](https://www.instructables.com/id/Arduino-37-in-1-Sensors-Kit-Explained/)
+### Assignments
+
+Here are the assignments which you will be working on in the course of this module, some of the assignments will contribute to the final marks of this module.
+
+1. [Safety](assignments/as01_safety.md)
+2. [Prototyping](assignments/as02_prototyping.md)
+3. [Project Management](assignments/as03_project_managment.md)
+4. Web development
+    - [HTML, CSS & Templates](assignments/as04_html_css_templates.md)
+    - Markdown
+5. [Version Control & Your Internet site](assignments/as05_version_control.md)
+6.  Computer Aided Design
+    -  [Introduction to Computer Aided Design](CAD/as_CAD_intro.md)
+    -  [Creating Models](CAD/as_Creating_models)
+    -  [Further Fusion 360 design techniques](CAD/as_F360_features.md)
+    -  [Parametric Design](CAD/as_Parametric_box.md)
+8.  3D_Printing
+    - [3D Modeling](3DPrinting/as_3D_modeling.md)
+    - [3D Printing](3DPrinting/as_3D_printing.md)
+9. [Computer controlled cutting](Lasercutting/as_lasercutting.md)
+10. [Breadboarding, Veroboard prototyping and Soldering](Electronics/as_electronics.md)
+12. [Embedded programming](arduino/as_ArduinoProgramming.md)
+13. Input devices
+    - [LDR with RGB LED]((input_devices/as_input_LDR.md))
+14. Output devices
+
+You will also "make" a final project of your choice which demonstrates
+
+- digital design
+- computer cutting operations
+- 3D printing
+- embedded programming with 
+    - an output device
+    - an input device
+* documentation and presentation of your product.
+
+
+### Links
+
+1.  [SC's Module link](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/)
+2.  [Tutorials & templates](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/00-tutorials.html)
+3.  [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)
+4.  Session 2020/21 Semester 2
+    - [Class 01](classes/ep1000_2020_S2_1.md)
+    - [Class 02](classes/ep1000_2020_S2_2.md)
 
 &nbsp;
 
-## [Assignment 13 Interfacing a LDR with an RGB LED](as_input_LDR.md)
+## Announcements
 
-In this assignment, you will attempt to interface an input analog device to your Arduino and produce equivalent output on a RGB LED.
+- 16 November 2020<br>
+  Your first grading is due the end of next week (27th November 2020). Check that you have entered the URL for your website in the google sheet provided.  Check your email for the links to the sheets.
 
-You can view the assignment [here](as_input_LDR.md)
+- 19 October 2020<br>
+  Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious)
 
-![Interfacing a LDR and RGB LED](images/as_LDR_RGB.png)
+&nbsp;
+
+## Classes
+
+- Session 2021 Semester 1
+    + Group 1
+    + [Group 2](classes/S2021Sem1_01.md)
+- Session 2021 Semester 2
+    + [Group 1](classes/S2021Sem2_01.md)
+    + [Group 2](classes/S2021Sem2_02.md)
+    + Group 3
 
 
-**July 2020**
 
+
+
+
+**October 2020**
+
+
+&nbsp;
+
+
+### Sandbox testing
+
+> This is my test area, a sandbox for trying ideas and code. Try it
+
+[Sandbox](sandbox.md)
