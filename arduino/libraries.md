@@ -74,4 +74,24 @@ The library will be displayed and included the normal way as in the above 2 case
 
 &nbsp;
 
+### Tested Libraries
+
+**Input Devices**
+
+|Device Name       | Library                        | Comment                         |
+|--------------    |--------------------------------|---------------------------------|
+| DHT-11, DHT-22   | DHT Sensor Library (Adafruit)  | Requires Adafruit Unified Sensor Library |
+| Ultrasonic HC-04 | New Ping Library (Tim Eckel)   | A more responsive library |
+| LM35 temperature | Nil                            | Analog Input * 500 degC  [TutorialsPoint](https://www.tutorialspoint.com/arduino/arduino_temperature_sensor.htm) |
+| PIR Sensor       | Nil               | Ref: [TutorialsPoint](https://www.tutorialspoint.com/arduino/arduino_pir_sensor.htm) |
+| DS18B20 temperature | Dallas Temperature (Miles Bolton) | [Project Hub](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806) |
+| Keypad            | Nil   | Ref: [arduinogettingstarted.com](https://arduinogetstarted.com/tutorials/arduino-keypad) |
+| Touch Sensor  | Nil | Ref: [arduinogettingstarted.com](https://arduinogetstarted.com/tutorials/arduino-touch-sensor) |
+| Microphone | Nil | Ref: [aranacorp](https://www.aranacorp.com/en/using-a-microphone-with-arduino/)|
+| RTC DS3231 | Wire.H | Ref: [Project Hub](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe) |
+| MPU6050 Accelerometer | Adafruit MPU6050 | Requires Wire.h [Ref](https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro/arduino)|
+
+
+&nbsp;
+
 Updated **January 2021**
