@@ -100,6 +100,7 @@ Assessment will be based on exercises and projects through three in-course asses
   - [Introduction to the Arduino System](arduino/Embedded_Programming_with_Arduino.pdf)
   - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)
   - [Analog I/O](arduino/arduinoAnalogIO.md)
+  - [Arduino Libraries](arduino/libraries.md)
   - Additional Notes and Examples
     + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
 11.  [Input Devices](input_devices/inputdevices.md)
