@@ -79,7 +79,7 @@ The library will be displayed and included the normal way as in the above 2 case
 **Input Devices**
 
 |Device Name       | Library                        | Comment                         |
-|--------------    |--------------------------------|---------------------------------|
+|:--------------   |:-------------------------------|:--------------------------------|
 | DHT-11, DHT-22   | DHT Sensor Library (Adafruit)  | Requires Adafruit Unified Sensor Library |
 | Ultrasonic HC-04 | New Ping Library (Tim Eckel)   | A more responsive library |
 | LM35 temperature | Nil                            | Analog Input * 500 degC  [TutorialsPoint](https://www.tutorialspoint.com/arduino/arduino_temperature_sensor.htm) |
@@ -90,8 +90,17 @@ The library will be displayed and included the normal way as in the above 2 case
 | Microphone | Nil | Ref: [aranacorp](https://www.aranacorp.com/en/using-a-microphone-with-arduino/)|
 | RTC DS3231 | Wire.H | Ref: [Project Hub](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe) |
 | MPU6050 Accelerometer | Adafruit MPU6050 | Requires Wire.h [Ref](https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro/arduino)|
+| Rotary Encoders | Nil | Ref: [Dronebotworkshop Rotary Encoders](https://dronebotworkshop.com/rotary-encoders-arduino/)|
 
 
 &nbsp;
+
+
+**Output Devices**
+
+|Device Name        | Library                           | Comment                            |
+|:------------------|:----------------------------------|:-----------------------------------|
+|WS2818 Neopixel    | Adafruit NeoPixel Library         | Ref: [Project Hub](https://create.arduino.cc/projecthub/robocircuits/neopixel-tutorial-1ccfb9) |
+
 
 Updated **January 2021**
