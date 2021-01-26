@@ -197,10 +197,11 @@ Input devices are often called **Sensors**.  Output devices are often called **A
 
 &nbsp;
 
-## [Assignment 13 Interfacing a LDR with an RGB LED](as_input_LDR.md)
+## [Assignment 13 Interfacing a LDR with an RGB LED](as_inputldr.md)
 
 In this assignment, you will attempt to interface an input analog device to your Arduino and produce equivalent output on a RGB LED.
 
+<<<<<<< HEAD:input_devices/input_devices.md
 You can find the assignment [here](as_input_LDR.md)
 
 &nbsp;
@@ -208,6 +209,11 @@ You can find the assignment [here](as_input_LDR.md)
 ### Useful sites for Arduino Interfacing
 
 Here are some of the more "reputable/trust-worthy" sites for Arduino modules
+=======
+You can view the assignment [here](as_inputldr.md)
+
+![Interfacing a LDR and RGB LED](images/as_ldrrgb.png)
+>>>>>>> d5ae412f2f86efb3fc30523253ebbd20ce1a1de9:input_devices/inputdevices.md
 
 - [Last Minute Engineers](https://lastminuteengineers.com/)
 - [Dronebot Workshop](https://dronebotworkshop.com/)
