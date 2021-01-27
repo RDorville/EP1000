@@ -15,6 +15,12 @@ Quick Links:
 - [Assignments](#assignments)
 - [Links](#links)
 - [Announcements](#announcements)
+- [Classes](#classes)
+    - 2021 Sem 1
+        - [Group 1](classses/S2021Sem1_01.md)
+    - 2021 Sem 2
+        - [Group 1](classses/S2021Sem2_01.md)
+        - [Group 2](classses/S2021Sem2_02.md)
 
 
 &nbsp;
@@ -104,7 +110,8 @@ Assessment will be based on exercises and projects through three in-course asses
     + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
 11.  [Input Devices](input_devices/input_devices.md)
 12.  [Output Devices](output_devices/output_devices.md)
-13.  Project
+13.  Final Project
+    - [Final Project](final_project/final_project.md)
 
 &nbsp;
 
