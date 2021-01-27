@@ -103,7 +103,7 @@ Assessment will be based on exercises and projects through three in-course asses
   - Additional Notes and Examples
     + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
 11.  [Input Devices](input_devices/input_devices.md)
-12.  [Output Devices](output_devices/outputDevices.md)
+12.  [Output Devices](output_devices/output_devices.md)
 13.  Project
 
 &nbsp;
