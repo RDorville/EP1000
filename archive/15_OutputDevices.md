@@ -92,9 +92,9 @@ Output devices are often called **Actuators**.  An Actuator is a component that 
         - a 4-digit 7-segment display used in many devices
         - requires the TM1637 library<br>
     Ref: [Arduino with TM1637](https://www.makerguides.com/tm1637-arduino-tutorial/)
-        - uses any 2 GPIO pins, driver uses software control
-        
-    ![Arduino with TM1637](images/tm1637_4digitledtube.png "Arduino with TM1637")
+        - uses any 2 GPIO pins, driver uses software control    <br>
+    ![Arduino with TM1637](images/1501_TM1637.jpg "Arduino with TM1637")
+
 &nbsp;
 
 * [LCD Displays - 1602](https://components101.com/16x2-lcd-pinout-datasheet)
@@ -123,7 +123,7 @@ Output devices are often called **Actuators**.  An Actuator is a component that 
         +   Arduino Project Hub [NeoPixel Example](https://create.arduino.cc/projecthub/glowascii/neopixel-leds-arduino-basics-126d1a) and [Tutorial](https://create.arduino.cc/projecthub/robocircuits/neopixel-tutorial-1ccfb9)
     ![Single Pin NeoPixel Strip Control](images/1508_neopixel.jpg "Single Pin NeoPixel Strip Control")
     Ref: Tweaking For All - [All LEDStrip effects in one](https://www.tweaking4all.com/hardware/arduino/arduino-all-ledstrip-effects-in-one/)<br>
-&nbsp;
+    
     -   [OLED (SSD1306)](https://components101.com/oled-display-ssd1306)
         +   these are newer monochrome displays
         +   small and inexpensive
@@ -187,8 +187,7 @@ Output devices are often called **Actuators**.  An Actuator is a component that 
                 * allows control of direction as well as speed
                 * standard method of control of DC motors
                 * H-bridge (L298N) and DC motor available upon request
-                * usual configuration for Robots, moving vehicles<br>
-&nbsp;
+                * usual configuration for Robots, moving vehicles
 + Servo Motors
     * Ref:
         - LastMinuteEngieers: [How Servo Motors work * Interface it with Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)
