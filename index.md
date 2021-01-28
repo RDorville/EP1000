@@ -113,6 +113,9 @@ Assessment will be based on exercises and projects through three in-course asses
 13.  Final Project
     - [Final Project](final_project/final_project.md)
 
+Ref: Recommended list of [**IO Devices & Libraries**](arduino/iodevices_collection.md)
+
+
 &nbsp;
 
 ### Assignments
