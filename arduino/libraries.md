@@ -78,5 +78,7 @@ The library will be displayed and included the normal way as in the above 2 case
 
 Use the following table as a guide to the tested libraries and code for your IO devices : [IO Devices Collection](iodevices_collection.md)
 
+Here is a link to some [sample code (incomplete)](sample_code.md)
+
 
 Updated **January 2021**
