@@ -24,6 +24,7 @@
 ||Push Button Switch|Nil|Use digital inputs|[]()|
 ||Variable Resistor|Nil|Use analog input|[Arduino](https://www.arduino.cc/en/tutorial/potentiometer)|
 ||Rotary Encoder|Nil|Use digital inputs|[Dronebotworkshop](https://dronebotworkshop.com/rotary-encoders-arduino/)|
+||              |RotaryEncoder (Matthias Hertel)|Arduino|Improved version, takes care of debouncing<br>Alternative: [Rotary - Ben Buxton](http://www.buxtronix.net/2011/10/rotary-encoders-done-properly.html) |
 |||||[LastMinuteEngineers](https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/)|
 ||4X4 Membrane Keyboard|Keypad (Mark Stanley, etc)|Read/Write Operations|[LastMinueEngineers](https://lastminuteengineers.com/arduino-keypad-tutorial/)|
 |Memory|MicroSD Card Module|CardInfo Library|Arduino System Library, requires SPI library|[LastMinuteEngineers](https://lastminuteengineers.com/arduino-micro-sd-card-module-tutorial/)|
