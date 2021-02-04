@@ -102,6 +102,7 @@ Assessment will be based on exercises and projects through three in-course asses
     - [3D Printing](3DPrinting/3D_printing.md)
 9.  [Computer Controlled Cutting](Lasercutting/lasercutting.md)
 10.  Embedded Programming
+
     - [Introduction to Electroncis](Electronics/electronics.md)
     - [Introduction to the Arduino System](arduino/Embedded_Programming_with_Arduino.pdf)
     - [Introduction to Programming the Microcontroller](arduino/arduinoProgramming.md)
@@ -109,9 +110,11 @@ Assessment will be based on exercises and projects through three in-course asses
     - [Libraries](arduino/libraries.md)
     - Additional Notes and Examples
         + [Review notes from class](arduino/Arduino_IO_Notes.pdf)
+        
 11.  [Input Devices](input_devices/input_devices.md)
 12.  [Output Devices](output_devices/output_devices.md)
 13.  Final Project
+
     - [Final Project](final_project/final_project.md)
     - [Commonly used Libraries](arduino/libraries.md)
     - [Sample Code for I/O](arduino/sample_code.md)
