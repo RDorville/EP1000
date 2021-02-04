@@ -113,8 +113,9 @@ Assessment will be based on exercises and projects through three in-course asses
 12.  [Output Devices](output_devices/output_devices.md)
 13.  Final Project
     - [Final Project](final_project/final_project.md)
+    - [Commonly used Libraries](arduino/libraries.md)
+    - [Sample Code for I/O](arduino/sample.md)
 
-Ref: Recommended list of [**IO Devices & Libraries**](arduino/iodevices_collection.md)
 
 
 &nbsp;
