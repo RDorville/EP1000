@@ -49,6 +49,8 @@ Assessment will be based on exercises and projects through three in-course asses
 | 2      |CA2     | Digital Fabrication Skills     | 40%        |
 | 3      |CA3     | Summative Project              | 40%        |
 
+[EP1000 Marking Scheme](assessment/EP1000_Marking_Scheme_21s.pdf)
+
 &nbsp;
 
 ## Course Schedule
@@ -151,7 +153,7 @@ You will also "make" a final project of your choice which demonstrates
 - digital design
 - computer cutting operations
 - 3D printing
-- embedded programming with 
+- embedded programming with
     - an output device
     - an input device
 * documentation and presentation of your product.
