@@ -54,6 +54,7 @@
 ||LCD 1602 with I2C|LiquidCrystal_PCF8574 (Matthias Hertel)|Improved libaray using Wire.h|[LastMinuteEngineers](https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/)|
 |||||[Matthias Hertel](https://www.mathertel.de/Arduino/LiquidCrystal_PCF8574.aspx)|
 ||4 Digit LED Tube (TM1637)|TM1637 driver (Avishay Orpaz)||[LastMinuteEngineers](https://lastminuteengineers.com/tm1637-arduino-tutorial/)|
+|||||[Makerguides Tutorial](https://www.makerguides.com/tm1637-arduino-tutorial/)|
 ||MAX7219 Dot Matrix Display|MD_MAX72XX (MajicDesigns)||[LastMinuteEngineers](https://lastminuteengineers.com/max7219-dot-matrix-arduino-tutorial/)|
 ||OLED Graphic Display SSD1306|Adafruit SSD1306 (Adafruit)|Requires Wire.h|[LastMinuteEngineers](https://lastminuteengineers.com/oled-display-arduino-tutorial/)|
 |Sound|Speaker/Buzzer|Nil|use tone()|[Adafruit](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/overview)|
