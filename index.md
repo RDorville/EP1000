@@ -17,10 +17,10 @@ Quick Links:
 - [Announcements](#announcements)
 - [Classes](#classes)
     - 2021 Sem 1
-        - [Group 1](classses/S2021Sem1_01.md)
+        - [Group 1](classes/S2021Sem1_01.md)
     - 2021 Sem 2
-        - [Group 1](classses/S2021Sem2_01.md)
-        - [Group 2](classses/S2021Sem2_02.md)
+        - [Group 1](classes/S2021Sem2_01.md)
+        - [Group 2](classes/S2021Sem2_02.md)
 
 
 &nbsp;
@@ -183,8 +183,8 @@ You will also "make" a final project of your choice which demonstrates
 ## Classes
 
 - Session 2021 Semester 1
-    + Group 1
-    + [Group 2](classes/S2021Sem1_01.md)
+    + [Group 1](classes/S2021Sem1_01.md)
+    + [Group 2]
 - Session 2021 Semester 2
     + [Group 1](classes/S2021Sem2_01.md)
     + [Group 2](classes/S2021Sem2_02.md)
