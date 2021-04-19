@@ -55,28 +55,35 @@ Assessment will be based on exercises and projects through three in-course asses
 
 ## Course Schedule
 
-**Session 20/21 Semester 2**
+**Session 21/22 Semester 1**
 
-| **Week**  | **Date**   | **Topic** |  **Remarks** |
-|:-----:|:------------|--------|--------|
-| 1     | 19 Oct 2020 |Introduction, Fablab Safety, Tools   ||
-| 2     | 26 Oct 2020 |Project Management, HTML & CSS, Website Development  ||
-| 3     | 2 Nov 2020  |Markdown, Version Control   ||
-| 4     | 9 Nov 2020  |Computer Graphics, Computer Aided Design |   14th Nov Depavali|
-| 5     | 16 Nov 2020 |2D Drawing and Modeling     ||
-| 6     | 23 Nov 2020 |3D Modeling     ||
-| 7     | 30 Nov 2020 |3D Printing      ||
-| 8     | 7 Dec 2020  |Computer Controlled Cutting  ||
-| 9     | 14 Dec 2020 | ||
-| 10    | 21 Dec 2020 | Mid-term break |25th Dec Christmas |
-| 11    | 28 Dec 2020 | |1st Jan New Year|
-| 12    | 4 Jan 2021  |Electronics, Embedded programming    ||
-| 13    | 11 Jan 2021 |Basic output devices     ||
-| 14    | 18 Jan 2021 |Basic input devices  ||
-| 15    | 25 Jan 2021 |Module Project   ||
-| 16    | 1 Feb 2021  |Module Project   ||
-| 17    | 8 Feb 2021  |Module Project   |  12 & 13th Feb CNY |
-| 18    | 15 Feb 2021 |Project Presentation & Demonstration  ||
+| **Week** |   **Date**  |  **Topic**      | **Lab Assessments**    |
+|------|---------|-------------------------------------|--------------------|
+| 1  | 19-Apr-21 |  Introduction, Fablab Safety, Tools | Fablab Safety Quiz |
+| 2  | 26-Apr-21 |  Documentation, HTML & CSS, Website development |  |
+| 3  | 3-May-21  |  Markdown, Version Control          | Website            |
+| 4  | 10-May-21 |  Computer Graphics, CAD 2D Drawing  | | 
+| 5  | 17-May-21 |  3D Modelling - Extrusion, Revolution | |  
+| 6  | 24-May-21 |  3D Printing Processes              | |
+| 7  | 31-May-21 MST |  Computer Controlled Cutting    | |
+| 8  | 7-Jun-21  |  Vacation 1  |3D Printing - Basic |
+| 9  | 14-Jun-21 |  Vacation 2  | |
+| 10 | 21-Jun-21 |  Vacation 3  |Laser Cutting - Basic |
+| 11 | 28-Jun-21 |  Laser cutting | |
+| 12 | 5-Jul-21  |  Basic Electronics, Soldering, Breadboarding | |
+| 13 | 12-Jul-21 |  Introduction to embedded controllers | Simple I/O |
+| 14 | 19-Jul-21 |  Input devices - Switches, Sensors |  |
+| 15 | 26-Jul-21 |  Output devices - Displays, Motors |  |
+| 16 | 2-Aug-21  |  Module Project 1 |  |
+| 17 | 9-Aug-21  |  Module Project 2 |  |
+| 18 | 16-Aug-21 |  Final Presentations | Module Project |
+| 19 | 23-Aug-21 |  Exam Week 1 | |
+| 20 | 30-Aug-21 |  Exam Week 2 | |
+
+&nbsp;
+Updated: 16th April 2021
+
+----
 
 &nbsp;
 
@@ -172,12 +179,6 @@ You will also "make" a final project of your choice which demonstrates
 
 ## Announcements
 
-- 16 November 2020<br>
-  Your first grading is due the end of next week (27th November 2020). Check that you have entered the URL for your website in the google sheet provided.  Check your email for the links to the sheets.
-
-- 19 October 2020<br>
-  Welcome to Session 20/21 Semester 2.  This site is currently being updated, however, most of the information can be found here (look in the [Sandbox](sandbox.md), if you are curious)
-
 &nbsp;
 
 ## Classes
@@ -189,9 +190,9 @@ You will also "make" a final project of your choice which demonstrates
     + [Group 1](classes/S2021Sem2_01.md)
     + [Group 2](classes/S2021Sem2_02.md)
     + Group 3
-
-
-
+- Session 2122 Semester 1
+  + [Group 1]()
+  + [Group 2]()
 
 
 
