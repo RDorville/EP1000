@@ -85,7 +85,7 @@ Assessment will be based on exercises and projects through three in-course asses
 &nbsp;
 Updated: 17th October 2021
 &nbsp;
-[Planning Spreadsheet (.xls)](EP1000_planning_sheet.xlsx)
+[Planning Spreadsheet (.xlsx)](EP1000_planning_sheet.xlsx)
 
 ----
 
