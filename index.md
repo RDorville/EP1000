@@ -55,33 +55,37 @@ Assessment will be based on exercises and projects through three in-course asses
 
 ## Course Schedule
 
-**Session 21/22 Semester 1**
+**Session 21/22 Semester 2**
 
-| **Week** |   **Date**  |  **Topic**      | **Lab Assessments**    |
-|------|---------|-------------------------------------|--------------------|
-| 1  | 19-Apr-21 |  Introduction, Fablab Safety, Tools | Fablab Safety Quiz |
-| 2  | 26-Apr-21 |  Documentation, HTML & CSS, Website development |  |
-| 3  | 3-May-21  |  Markdown, Version Control          | Website            |
-| 4  | 10-May-21 |  Computer Graphics, CAD 2D Drawing  | | 
-| 5  | 17-May-21 |  3D Modelling - Extrusion, Revolution | |  
-| 6  | 24-May-21 |  3D Printing Processes              | |
-| 7  | 31-May-21 MST |  Computer Controlled Cutting    | |
-| 8  | 7-Jun-21  |  Vacation 1  |3D Printing - Basic |
-| 9  | 14-Jun-21 |  Vacation 2  | |
-| 10 | 21-Jun-21 |  Vacation 3  |Laser Cutting - Basic |
-| 11 | 28-Jun-21 |  Laser cutting | |
-| 12 | 5-Jul-21  |  Basic Electronics, Soldering, Breadboarding | |
-| 13 | 12-Jul-21 |  Introduction to embedded controllers | Simple I/O |
-| 14 | 19-Jul-21 |  Input devices - Switches, Sensors |  |
-| 15 | 26-Jul-21 |  Output devices - Displays, Motors |  |
-| 16 | 2-Aug-21  |  Module Project 1 |  |
-| 17 | 9-Aug-21  |  Module Project 2 |  |
-| 18 | 16-Aug-21 |  Final Presentations | Module Project |
-| 19 | 23-Aug-21 |  Exam Week 1 | |
-| 20 | 30-Aug-21 |  Exam Week 2 | |
+| **Week** | **Date**    | **Topic**             | **Remarks** | **Assignment** | **Score** |
+|: :|         |:                                 |:       |          |:    :|
+|1  |18 Oct 21|Introduction, Fablab Safety, Tools||Fablab safety |5|
+|2  |25 Oct 21|Project Management, HTML & CSS,<br>Website Development||||
+|3  |01 Nov 21|Markdown, Version Control         ||Simple Site with<br>HTML & CSS hosted on Github|15|
+|4  |08 Nov 21|Computer Graphics, Computer Aided<br> Design|4th Nov Diwali|||
+|5  |15 Nov 21|2D Drawing and Modelling          ||||
+|6  |22 Nov 21|3D Modelling                      ||||
+|7  |29 Nov 21|3D Printing                       ||Complete 3D Printing Course<br>Chess Piece|10|
+|8  |06 Dec 21|Computer Controlled Cutting||Complete Laser Cutting Course<br>Music Box|10|
+|9  |13 Dec 21|||||
+|10 |20 Dec 21|Mid-term Break|25th Dec Christmas|||
+|11 |27 Dec 21||1st Jan New Years Day|Deadlines for 3D Printing &amp;<br>Laser cutting assignments||
+|12 |03 Jan 22|Electronics Embedded Programming||||
+|13 |10 Jan 22|Basic Input Devices              ||Switch & 3 LED Simulation|10|
+|14 |17 Jan 22|Basic Output Devices||Module Blog|10|
+|15 |24 Jan 22|Module Project||||
+|16 |31 Jan 22|Module Project|Tue 1st -2nd Feb CNY|||
+|17 |07 Feb 22|Module Project||||
+|18 |14 Feb 22|Project Presentations & Demonstration||Module Project|40|
+|   |21 Feb 22|Exams Wk 1||||
+|   |28 Feb 22|Exams Wk 2||||
+|   |         |||Total Score|100|
+
 
 &nbsp;
-Updated: 16th April 2021
+Updated: 17th October 2021
+&nbsp;
+[Planning Spreadsheet (.xls)](EP1000_planning_sheet.xlsx)
 
 ----
 
