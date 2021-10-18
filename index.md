@@ -22,7 +22,7 @@ Quick Links:
         - [Group 1](classes/S2021Sem2_01.md)
         - [Group 2](classes/S2021Sem2_02.md)
     - 2122 Sem 1
-        - [Group 1](classes/S2122Sem1_01.md)
+        - [Group 1](classes/S2122Sem1_01.md) 
 
 
 &nbsp;
