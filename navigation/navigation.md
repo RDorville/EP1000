@@ -4,7 +4,7 @@ It is sometimes useful to organise our website into folders; placing files, imag
 
 This exercise shows how to have such a system and to use links to navigate within the folder. Consider the following folder structure:
 
-![Website layout](/tmp/.mount_JoplinSDWa8R/resources/app.asar/website.png)
+![Website layout](website.png)
 
 | File | Content |
 | --- | --- |
@@ -31,3 +31,10 @@ Create a navigation system using the above structure such that you are able to n
     </ul>
 </div>
 ```
+
+You can test the navigation system by clicking on the link [here](website/index.html).  A copy of the file structure can be downloaded as a [zip file](navigation_website.zip).
+
+&nbsp;
+
+[![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
+October 2021
