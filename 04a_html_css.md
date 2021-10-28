@@ -111,6 +111,15 @@ You could watch the following videos as a start as well:
 -  Traversy Media [HTML Crash Course for Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 -   Clever Programmer [HTML Crash Course for Absolute Beginners 2020](https://youtu.be/FNGoExJlLQY) which may appeal to younger viewers!
 
+
+### Navigation
+
+Here is an [example](navigation/navigation.md) of how you would navigate your site if you were to structure it using folders.
+
+
+
+
+
 &nbsp;
 
 [![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
