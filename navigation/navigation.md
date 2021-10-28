@@ -36,5 +36,5 @@ You can test the navigation system by clicking on the link [here](website/index.
 
 &nbsp;
 
-[![Home](images/home.png "Home")](index.md) [Home](index.md)<br>
+[![Home](../images/home.png "Home")](index.md) [Home](../index.md)<br>
 October 2021
