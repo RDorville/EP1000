@@ -63,8 +63,8 @@ Assessment will be based on exercises and projects through three in-course asses
 |: :|         |:                                 |:       |          |:    :|
 |1  |18 Oct 21|Introduction, Fablab Safety, Tools||Fablab safety |5|
 |2  |25 Oct 21|Project Management, HTML & CSS,<br>Website Development||||
-|3  |01 Nov 21|Markdown, Version Control         ||Simple Site with<br>HTML & CSS hosted on Github|15|
-|4  |08 Nov 21|Computer Graphics, Computer Aided<br> Design|4th Nov Diwali|||
+|3  |01 Nov 21|Markdown, Version Control         |4th Nov Diwali|Simple Site with<br>HTML & CSS hosted on Github|15|
+|4  |08 Nov 21|Computer Graphics, Computer Aided<br> Design||||
 |5  |15 Nov 21|2D Drawing and Modelling          ||||
 |6  |22 Nov 21|3D Modelling                      ||||
 |7  |29 Nov 21|3D Printing                       ||Complete 3D Printing Course<br>Chess Piece|10|
